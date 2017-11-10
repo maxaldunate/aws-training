@@ -95,9 +95,22 @@ Recommend share tenancy for costs except to comply with a regulation
     - NOTE: If you reboot all data WILL remain (not if you stopped)
     - Unable to detach
 
-Minute 14.37
-https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/certified-developer-EC2.html
-
 ### Security
+
+* Security Group  
+Is a firewall for the instance, allowing restrict traffic for ingress and egress perspective
+	- Source and destination restriction
+	- Inbound and outbound rules
+	- Ports and protocols usage
+	- [Blog Security Group  - Instance Level Security](https://cloudacademy.com/blog/aws-security-groups-instance-level-security/)
+
+* Key Pairs
+	- Public Key: encrypts username & password
+	- Private Key
+		- 	On Windows decrypt data and gain access to credentials
+		- 	On Linux remotely connect onto the instance via SSH
+	- After first log in you can set up your own authentication methods
+	- Keep your OS patched & security fixes uo to date (your responsability)
+
 
 
