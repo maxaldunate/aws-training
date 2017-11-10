@@ -1,2 +1,3 @@
-# aws-certified-dev
-Cloudacademy.com. AWS  Certified developer foundations course
+# AWS Certifications Materials & Courses
+
+Cloudacademy.com
