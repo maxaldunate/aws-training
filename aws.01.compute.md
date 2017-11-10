@@ -43,21 +43,21 @@ Analytic workload, no sql ddbb, data file systems & lock processing apps
 		- No upfront: the smallest discount is applied
 
 * Spot Instances
-
+	- Bid for a large EC2 instance at a very low price
+	- No guarantee of having it
+	- Can suddenly be terminated 
+	- Are only useful for processing data and apps that can be suddenly interrupted, batch jobs and background processing data
+	- Just pay for running time
 
 * Dedicated Instances
-
-
+	- Nothing on the video :(
 * Dedicated Hosts
-
-
-
-
-
-
+	- Nothing on the video :(
 
 
 ### Tenancy
+
+
 ### User Data
 ### Storas Options
 ### Security
