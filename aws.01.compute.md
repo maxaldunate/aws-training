@@ -73,7 +73,31 @@ Recommend share tenancy for costs except to comply with a regulation
 
 
 ### User Data
+* Allows to run commands at boot time
+* Perform functions upon boot
+* Download latest OS updates (yum update -y)
+
+
 ### Storas Options
+* Persistent Storage
+	- ESB: Elastic Block Storage
+	- Phisically separated from the EC2 instance
+	- ESB are network attached to EC2
+	- Replicate to other zone for resiliency
+	- You can disconnect for EC2 & reattach to another EC2 instance
+	- You can encrypt & backup snapshots to a simple storage service S3
+
+* Ephemeral Storage
+	- Create by some EC2 instances themselves  
+	  Known as instance backed storage
+    - Attached to EC2 instance
+    - When instance stopped all data on disk is lost
+    - NOTE: If you reboot all data WILL remain (not if you stopped)
+    - Unable to detach
+
+Minute 14.37
+https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/certified-developer-EC2.html
+
 ### Security
 
 
