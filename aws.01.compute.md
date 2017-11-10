@@ -57,6 +57,20 @@ Analytic workload, no sql ddbb, data file systems & lock processing apps
 
 ### Tenancy
 
+* Shared
+	- launched on any available host with required resources 
+	- multiple customers at the same host
+	- Security mechanisms prevent accessing one each other
+* Dedicated Instances
+	- launched on hardware that no other customer can access
+	- incur additional charges 
+* Dedicated Hosts
+	- The same that dedicated instances with additional visibility and control of the physical host
+
+
+NOTE  
+Recommend share tenancy for costs except to comply with a regulation
+
 
 ### User Data
 ### Storas Options
