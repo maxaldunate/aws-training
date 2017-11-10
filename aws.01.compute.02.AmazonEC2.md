@@ -46,9 +46,9 @@ Analytic workload, no sql ddbb, data file systems & lock processing apps
 	- Just pay for running time
 
 * Dedicated Instances
-	- Nothing on the video :(
+	- Next item
 * Dedicated Hosts
-	- Nothing on the video :(
+	- Next item
 
 
 ### Tenancy
