@@ -78,7 +78,7 @@ Recommend share tenancy for costs except to comply with a regulation
 * Download latest OS updates (yum update -y)
 
 
-### Storas Options
+### Storage Options
 * Persistent Storage
 	- ESB: Elastic Block Storage
 	- Phisically separated from the EC2 instance
