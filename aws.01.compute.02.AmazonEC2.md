@@ -1,7 +1,3 @@
-# AWS - Certified developer foundations course
-[Cloudacademy.com](https://cloudacademy.com)
-
-
 ## Amazon EC2
 
 ### AMI
@@ -112,5 +108,26 @@ Is a firewall for the instance, allowing restrict traffic for ingress and egress
 	- After first log in you can set up your own authentication methods
 	- Keep your OS patched & security fixes uo to date (your responsability)
 
+### EC2 Dashboard Status Checks
 
+* System Statush Checks
+	- Issues relating to the underlying host
+	- Loss of power, network connectivity, hardware and software on the host
+	- Faulty components that are under AWS responsability
+	- Stop and restart the instance (Don't reboot.. occurs in the same host)
+* Instance Status Checks
+	- Issues with the EC2 instance itself
+	- Incorrect network configuration, corrupt files, exhausted memory, incomp kernel
+	- Requires the instance owner to troubleshoot and resolve th issue
+
+### Recommended Labs
+
+Create yout first amazon ec2 instance(Linux)  
+https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-1
+
+
+Create yout first amazon ec2 instance(Windows)  
+https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-14
+
+The end
 
