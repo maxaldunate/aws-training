@@ -61,9 +61,3 @@ https://cloudacademy.com/amazon-web-services/certified-developer-foundations-cou
 
 
 ### Storage
-
-<<<<<<< HEAD
-The End
-=======
-The End
->>>>>>> af7d1f43240941cd27f771abcf29d3615501abb9
