@@ -25,8 +25,8 @@ https://cloudacademy.com/amazon-web-services/amazon-route53-dns-course/
 	* Private HZ --> pointing to VPC
 
 ### Domains Supported by Route 53
-	* Generic Top Level Domain (TLD)
-	* Geographics Domains
+* Generic Top Level Domain (TLD)
+* Geographics Domains
 
 ### Resource Record Types  
 A, CNAME, AAA, ... many more 
@@ -57,10 +57,11 @@ A, CNAME, AAA, ... many more
   * Special non-aws-endpoint 2.00 each HCheck/mo
 * Domain Names purchased detailed in the table
 
-### SLA. 100%
-Monthly billying cycle not fail  
-Service Credit Model if down
-You need to claim en aws support
+### SLA
+* 100%
+* Monthly billying cycle not fail  
+* Service Credit Model if down
+* You need to claim en aws support
 
 
 ## Domain Name Management
