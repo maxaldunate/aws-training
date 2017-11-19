@@ -75,7 +75,8 @@ Make it public!
 Current infrastructure that was already deployed
 ![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/CREATING-YOUR-FIRST-CLASSIC-LOAD-BALANCER-01.png)
 
-
+We should have a solution like this one
+![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/CREATING-YOUR-FIRST-CLASSIC-LOAD-BALANCER-02.png)
 
 
 
