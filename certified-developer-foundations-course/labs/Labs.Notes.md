@@ -78,9 +78,33 @@ Current infrastructure that was already deployed
 We should have a solution like this one
 ![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/CREATING-YOUR-FIRST-CLASSIC-LOAD-BALANCER-02.png)
 
+Types of load balancers
+* Http/s. App
+* Tcp. Network
+* Classic. Http/s & tcp
+
+* Cross-Zone Load Balancing  
+  Is used to ensure that your LB distributes incoming requests evenly across all instances in its enabled Availability Zones  
+
+* Load Balancer DNS Name  
+  classic-elb-1273287528.us-west-2.elb.amazonaws.com   
+
+* LB Security Group   
+  sg-fee1f883
 
 
+* Monitoring your Classic Load Balancer  
+  * CloudWatch console
+  * Look at the LB metrics in the EC2 console
+    * HealthyHostCount
+	* UnHealthyHostCount 
+	* Healthy Hosts
+	* Average Latency
 
+* Session affinity through sticky session
+
+	
+	
 
 
 ## Ideas
