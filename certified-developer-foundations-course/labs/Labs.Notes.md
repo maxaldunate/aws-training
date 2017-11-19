@@ -20,7 +20,7 @@ $ curl -w "\n" http://169.254.169.254/latest/meta-data/instance-type
 ```
 
 Get the public SSH key  
-´curl -w "\n" http://169.254.169.254/latest/meta-data/public-keys/0/openssh-key´
+`curl -w "\n" http://169.254.169.254/latest/meta-data/public-keys/0/openssh-key`
 
 
 ## Lab (5/30): MANAGING INSTANCE VOLUMES USING EBS
@@ -28,41 +28,41 @@ Get the public SSH key
 Create ESB 16GB "Data Disk"
 
 mounted disks  
-´$  df -aTh´  
+`$  df -aTh`  
 to list unmounted partitions  
-´$ lsblk´  
+`$ lsblk`  
 to make file system  
-´$ sudo mkfs -t ext4 /dev/NAME_OF_YOUR_DEVICE´  
-´$ sudo mkfs -t ext4 /dev/xvdf´  
+`$ sudo mkfs -t ext4 /dev/NAME_OF_YOUR_DEVICE`  
+`$ sudo mkfs -t ext4 /dev/xvdf`  
 make entry point  
-´$ sudo mkdir /mnt/ebs-store´  
+`$ sudo mkdir /mnt/ebs-store`  
 mount  
-´$ sudo mount /dev/NAME_OF_YOUR_DEVICE /mnt/ebs-store´  
-´$ sudo mount /dev/xvdf /mnt/ebs-store´  
+`$ sudo mount /dev/NAME_OF_YOUR_DEVICE /mnt/ebs-store`  
+`$ sudo mount /dev/xvdf /mnt/ebs-store`  
 mount this volume on boot  
-´$ sudo nano /etc/fstab´  
+`$ sudo nano /etc/fstab`  
 append line at the end  
-´/dev/NAME_OF_YOUR_DEVICE /mnt/ebs-store ext4 defaults,noatime 1 2´  
-´/dev/xvdf /mnt/ebs-store ext4 defaults,noatime 1 2´  
-´Ctrl+O & Ctrl+X´  
+`/dev/NAME_OF_YOUR_DEVICE /mnt/ebs-store ext4 defaults,noatime 1 2`  
+`/dev/xvdf /mnt/ebs-store ext4 defaults,noatime 1 2`  
+`Ctrl+O & Ctrl+X`  
 unmount  
-´$ sudo umount -d path_to_device/device_name´
+`$ sudo umount -d path_to_device/device_name`
 
 
 Out of the lab  
 Create the New Partition
-´$ sudo parted -a opt /dev/sda mkpart primary ext4 0% 100%´  
+`$ sudo parted -a opt /dev/sda mkpart primary ext4 0% 100%`  
 Create a Filesystem on the New Partition  
-´$ sudo mkfs.ext4 -L datapartition /dev/sda1´  
+`$ sudo mkfs.ext4 -L datapartition /dev/sda1`  
 
 
 ## Lab (6/30): CREATE AN EBS-BACKED LINUX AMI
 
 Install nginx
-´´´
+```
 sudo yum install nginx
 sudo service nginx star
-´´´
+```
 Nginx repo  
 http://nginx.org/packages/centos/7/noarch/RPMS/nginx-release-centos-7-0.el7.ngx.noarch.rpm   
 
