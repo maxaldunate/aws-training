@@ -74,8 +74,7 @@ Make it public!
 ## Lab (8/30): CREATING YOUR FIRST CLASSIC LOAD BALANCER
 
 Current infrastructure that was already deployed
-![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/cloudacademy-logo.png)
-
+![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/CREATING-YOUR-FIRST-CLASSIC-LOAD-BALANCER-01.png)
 
 
 
