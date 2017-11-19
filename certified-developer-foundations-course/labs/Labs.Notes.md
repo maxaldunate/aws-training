@@ -73,7 +73,8 @@ Make it public!
 
 ## Lab (8/30): CREATING YOUR FIRST CLASSIC LOAD BALANCER
 
-
+Current infrastructure that was already deployed
+![infrastructure Image](https://github.com/maxaldunate/aws-training/blob/master/certified-developer-foundations-course/labs/cloudacademy-logo.png)
 
 
 
@@ -88,4 +89,4 @@ Make it public!
 - Redifinir targets, milestones,tasks,  etc
 - Crear Wordpress site not in lightsail
 - Async... marking an state in each entity. Like grid 'creating ...'
-
+- SES. just to send. How to implemente 1&1 email on domain
