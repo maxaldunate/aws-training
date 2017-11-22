@@ -92,7 +92,6 @@ Types of load balancers
 * LB Security Group   
   sg-fee1f883
 
-
 * Monitoring your Classic Load Balancer  
   * CloudWatch console
   * Look at the LB metrics in the EC2 console
@@ -107,9 +106,3 @@ Types of load balancers
 	
 
 
-## Ideas
-- Crear una maquina linux liviana en virtual box
-- Redifinir targets, milestones,tasks,  etc
-- Crear Wordpress site not in lightsail
-- Async... marking an state in each entity. Like grid 'creating ...'
-- SES. just to send. How to implemente 1&1 email on domain
