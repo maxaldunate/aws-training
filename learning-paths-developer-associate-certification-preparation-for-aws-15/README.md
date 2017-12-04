@@ -86,8 +86,38 @@ Quiz. Amazon Web Services - DynamoDB
 Course. Certified Developer for AWS - Deployment and Security
   - Security
   - Deployment Services
-[My Summary]()
+[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp16of30.%20Working%20with%20Amazon%20DynamoDB%20-%20Copy.md)
 [Cloudacademy](https://cloudacademy.com/amazon-web-services/deployment-and-security-certified-developer-for-aws-course/)
+
+* Step 17 of 30  
+Lab. INTRODUCTION TO IAM
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/introduction-iam-13/)
+
+* Step 18 of 30  
+Lab. INTRODUCTION TO VIRTUAL PRIVATE CLOUD (VPC)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/introduction-virtual-private-cloud-vpc-9/)
+
+* Step 19 of 30  
+Quiz. Amazon Web Services - VPC
+[Cloudacademy](https://cloudacademy.com/quiz/study/502821/results/)
+
+* Step 20 of 30  
+Lab. DEPLOY WORDPRESS USING CLOUDFORMATION
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/deploy-wordpress-cloudformation-17/)
+
+* Step 21 of 30  
+Quiz. Amazon Web Services - CloudFormation
+[Cloudacademy](https://cloudacademy.com/quiz/study/503113/results/)
+
+* Step 22 of 30  
+Lab. DEPLOY A PHP APPLICATION USING ELASTIC BEANSTALK
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/deploy-php-application-using-elastic-beanstalk-26/)
+
+* Step 23 of 30  
+Course. Working with Amazon CloudFront
+[My Summary]()
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/cloudfront-course/)
+
 
 
 
