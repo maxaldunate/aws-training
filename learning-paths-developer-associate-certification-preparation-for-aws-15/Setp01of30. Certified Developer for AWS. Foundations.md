@@ -1,8 +1,7 @@
 # Certified Developer for AWS Foundation
 
-Visit..  
-https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/
-
+Video at ...  
+https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/  
 
 # Compute
 
