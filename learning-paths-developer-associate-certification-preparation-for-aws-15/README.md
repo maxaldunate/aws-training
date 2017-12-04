@@ -1,63 +1,95 @@
 #### Amazon Web Service Training
 #### Cloudacademy.com. 
 
-### Developer  
-### Associate Certification Preparation for AWS  
+### Learning Path
+### Developer - Associate Certification Preparation for AWS  
 
-### Certified Developer for AWS - Foundations
-
-
-Video at ..  
-https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/
+https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/  
 
 
+* Step 1 of 30  
+Course. Certified Developer for AWS - Foundations
+  - Compute
+  - Storage and Databases
+  - Services at a glance  
+[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp01of30.%20Certified%20Developer%20for%20AWS.%20Foundations.md)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
 
-### Compute
+* Step 2 of 30  
+Lab. CREATE YOUR FIRST AMAZON S3 BUCKET
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-s3-bucket-2/)
 
-* EC2. Elastic Compute Cloud  
-  Create yout first amazon ec2 instance(Linux)  
-  https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-1  
+* Step 3 of 30  
+Lab. CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-1/)
 
-  Create yout first amazon ec2 instance(Windows)  
-  https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-14  
+* Step 4 of 30  
+Quiz. Amazon Web Services - EC2
+[Cloudacademy](https://cloudacademy.com/quiz/study/497270/results/)
 
-* ELB. Elastic Load Balancing & Auto Scaling  
-  Creating your first Classic Load Balancer  
-  https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-elastic-load-balancing-elb4/  
+* Step 5 of 30  
+Lab. MANAGING INSTANCE VOLUMES USING EBS
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/managing-instance-volumes-using-ebs-6/)
 
-  Creating your first Auto Scaling group  
-  https://cloudacademy.com/amazon-web-services/labs/creating-your-first-auto-scaling-group-52/  
+* Step 6 of 30  
+Lab. CREATE AN EBS-BACKED LINUX AMI
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-ebs-backed-linux-ami-7/)
 
-  Launching Auto scaling groups behind a Classic Load Balancer  
-  https://cloudacademy.com/amazon-web-services/labs/launching-auto-scaling-groups-behind-classic-load-balancer-56/  
+* Step 7 of 30  
+Quiz. Amazon Web Services - EBS
+[Cloudacademy](https://cloudacademy.com/quiz/study/497018/results/)
 
-* ECS. Amazon EC2 Container Service  
-  Other course Introduction to Docker at ...  
-  https://cloudacademy.com/cloud-computing/introduction-to-docker-course  
+* Step 8 of 30  
+Lab. CREATING YOUR FIRST CLASSIC LOAD BALANCER
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-elastic-load-balancing-elb-4/)
 
-* AWS Elastic Beanstalk (web servers vs work env)  
-  Deploy a PHP application using Elastic Beanstalk at ...  
-  https://cloudacademy.com/labs/deploy-php-application-using-elastic-beanstalk-26/  
+* Step 9 of 30  
+Quiz. Amazon Web Services - ELB
+[Cloudacademy](https://cloudacademy.com/quiz/study/497023/results/)
 
-  Run a Controlled Deploy with AWS Elastic Beanstalk at ...  
-  https://cloudacademy.com/labs/run-controlled-deploy-aws-elastic-beanstalk-43/  
+* Step 10 of 30  
+Course. Certified Developer for AWS - Designing and Developing
+  - Designing Highly Available, Cost Efficient Cloud Solutions
+  - Developing Cloud Solutions
+  - Knowledge Checkpoint
+[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp10of30.%20Certified%20Developer%20for%20AWS.%20Designing%20and%20Developing.md)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/certified-developer-designing-and-developing-course/)
 
-* AWS Lambda (serverless)  
-  Relatred Course at ...  
-  https://cloudacademy.com/amazon-web-services/what-is-serverless-computing-course/  
+* Step 11 of 30  
+Lab. MANAGE MESSAGE QUEUES USING AMAZON SQS
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/manage-message-queue-amazon-sqs-16/)
 
-  Introduction to AWS Lambda  
-  https://cloudacademy.com/amazon-web-services/labs/introduction-aws-lambda-22/  
+* Step 12 of 30  
+Quiz. Amazon Web Services - Monitoring and Auditing
+[Cloudacademy](https://cloudacademy.com/quiz/study/498827/results/)
 
-  Automating EBS snapshots with lambda  
-  https://cloudacademy.com/amazon-web-services/labs/aws-lambda-s3-events-55/  
+* Step 13 of 30  
+Course. Working with Amazon DynamoDB
+  - DynamoDB Basics
+  - Creating DynamoDB Tables
+  - Reading and Writing Data
+  - Queires and Scans
+  - Secondary Indexes
+  - Working with Large Tables
+[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp13of30.%20Working%20with%20Amazon%20DynamoDB.md)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/working-with-amazon-dynamodb-course/)
 
-  Process Amazon S3 events with AWS Lambda  
-  https://cloudacademy.com/amazon-web-services/labs/automating-ebs-snapshots-lambda-and-cloudwatch-events-45/  
+* Step 14 of 30  
+Lab. INTRODUCTION TO DYNAMODB
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/introduction-dynamodb-8/)
 
-* ASW Batch (Jobs)
+* Step 15 of 30  
+Quiz. Amazon Web Services - DynamoDB
+[Cloudacademy](https://cloudacademy.com/quiz/study/498841/results/)
 
-* Amazon Lightsail (ex Wordpress $5/month)
+* Step 16 of 30  
+Course. Certified Developer for AWS - Deployment and Security
+  - Security
+  - Deployment Services
+[My Summary]()
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/deployment-and-security-certified-developer-for-aws-course/)
 
 
-### Storage
+
+
+
