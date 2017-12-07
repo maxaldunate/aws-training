@@ -4,7 +4,7 @@
 1. satatic & dynamic content
 1. Edge locations
 1. Amazon CloudFront Edge Network
-  * Us, Europe, Asia, Australia, South America
+   Us, Europe, Asia, Australia, South America
 1. Edge Location: if is cached ? served immediatly by cloudFron : take from the origin
 1. 24 hs by default
 1. Pricing
