@@ -9,24 +9,21 @@ https://cloudacademy.com/learning-paths/developer-associate-certification-prepar
 
 * Step 1 of 30
 ![](https://github.com/maxaldunate/aws-training/blob/master/icons/courses.ico)
-Course. Certified Developer for AWS - Foundations
+Course. [Certified Developer for AWS - Foundations](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
   - Compute, Storage and Databases & Services at a glance  
   - [My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp01of30.%20Certified%20Developer%20for%20AWS.%20Foundations.md)
-  - [Cloudacademy](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
 
 * Step 2 of 30
 ![](https://github.com/maxaldunate/aws-training/blob/master/icons/labs.ico)
-  - Lab. CREATE YOUR FIRST AMAZON S3 BUCKET
-  - [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-s3-bucket-2/)
+Lab. [Create your first Amazon S3 bucket](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-s3-bucket-2/)
 
 * Step 3 of 30
 ![](https://github.com/maxaldunate/aws-training/blob/master/icons/labs.ico)
-  - Lab. CREATE YOUR FIRST AMAZON EC2 INSTANCE (LINUX)
-  - [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-1/)
+Lab. [Create your first Amazon EC2 instance(Linux)](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-ec2-instance-1/)
 
-* Step 4 of 30  
- - Quiz. Amazon Web Services - EC2
- - [Cloudacademy](https://cloudacademy.com/quiz/study/497270/results/)
+* Step 4 of 30
+![](https://github.com/maxaldunate/aws-training/blob/master/icons/quizzes.ico)
+Quiz. [Amazon Web Services - EC2](https://cloudacademy.com/quiz/study/497270/results/)
 
 * Step 5 of 30  
  - Lab. MANAGING INSTANCE VOLUMES USING EBS
