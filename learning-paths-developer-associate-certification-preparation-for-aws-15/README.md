@@ -15,6 +15,8 @@ Course. Certified Developer for AWS - Foundations
   - [Cloudacademy](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
 
 * Step 2 of 30  
+![](https://github.com/maxaldunate/aws-training/blob/master/imgs/icon-courses.ico)
+Course. Certified Developer for AWS - Foundations
  - Lab. CREATE YOUR FIRST AMAZON S3 BUCKET
  - [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/create-your-first-amazon-s3-bucket-2/)
 
