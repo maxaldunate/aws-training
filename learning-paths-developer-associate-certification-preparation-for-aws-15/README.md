@@ -1,11 +1,6 @@
-#### Amazon Web Service Training
-#### Cloudacademy.com. 
+#![](https://github.com/maxaldunate/aws-training/blob/master/icons/courses.ico) Learning Path
 
-### Learning Path
-### Developer - Associate Certification Preparation for AWS  
-
-https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/  
-
+## [Developer - Associate Certification Preparation for AWS] https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/
 
 * Step 1 of 30
 ![](https://github.com/maxaldunate/aws-training/blob/master/icons/courses.ico)
