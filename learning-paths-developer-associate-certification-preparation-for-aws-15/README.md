@@ -118,8 +118,23 @@ Course. Working with Amazon CloudFront
 [My Summary]()
 [Cloudacademy](https://cloudacademy.com/amazon-web-services/cloudfront-course/)
 
+* Step 24 of 30  
+Lab. SERVE YOUR FILES USING THE CLOUDFRONT CDN
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/serve-your-files-using-cloudfront-cdn-15/)
 
+* Step 25 of 30  
+Course. Certified Developer - Monitoring and Debugging
+[My Summary]()
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/certified-developer-monitoring-and-debugging-course/)
 
+* Step 26 of 30  
+Lab. INTRODUCTION TO CLOUDWATCH
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/introduction-to-cloudwatch-18/)
+
+* Step 27 of 30  
+Lab. MONITOR LIKE A DEVOPS PRO: BUILD A LOG AGGREGATION SYSTEM IN AWS
+[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp16of30.%20Working%20with%20Amazon%20DynamoDB%20-%20Copy.md)
+[Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/aws-devops-pro-monitoring-build-log-aggregation-system-38/)
 
 
 
