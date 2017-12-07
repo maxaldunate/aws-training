@@ -9,10 +9,10 @@
 * 24 hs by default
 * Pricing
   1. Model
-    - Data Transfer
-	  - out to internet
-	  - to the origin
-	- HTTP/S requests
+     - Data Transfer
+	   - out to internet
+	   - to the origin
+	 - HTTP/S requests
   2. Free tier
     - 50GB data transfer
 	- 2 MM http/s requests
