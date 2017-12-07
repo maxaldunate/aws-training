@@ -133,7 +133,7 @@ Lab. INTRODUCTION TO CLOUDWATCH
 
 * Step 27 of 30  
 Lab. MONITOR LIKE A DEVOPS PRO: BUILD A LOG AGGREGATION SYSTEM IN AWS
-[My Summary](https://github.com/maxaldunate/aws-training/blob/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Setp16of30.%20Working%20with%20Amazon%20DynamoDB%20-%20Copy.md)
+[My Summary](https://github.com/maxaldunate/aws-training/tree/master/learning-paths-developer-associate-certification-preparation-for-aws-15/Step27of30.%20Lab.%20Log%20Aggregation%20System%20with%20Cloud%20Watch%20Elastic%20Search)
 [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/aws-devops-pro-monitoring-build-log-aggregation-system-38/)
 
 
