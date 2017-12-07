@@ -1,13 +1,13 @@
 # Working with Amazon CloudFront
 
-* Fault tolerant, globally scalable CDN service
-* satatic & dynamic content
-* Edge locations
-* Amazon CloudFront Edge Network
+1. Fault tolerant, globally scalable CDN service
+1. satatic & dynamic content
+1. Edge locations
+1. Amazon CloudFront Edge Network
   * Us, Europe, Asia, Australia, South America
-* Edge Location: if is cached ? served immediatly by cloudFron : take from the origin
-* 24 hs by default
-* Pricing
+1. Edge Location: if is cached ? served immediatly by cloudFron : take from the origin
+1. 24 hs by default
+1. Pricing
   1. Model
      - Data Transfer
 	   - out to internet
