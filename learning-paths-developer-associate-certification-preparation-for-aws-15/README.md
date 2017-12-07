@@ -134,8 +134,8 @@ Lab. [Monitor like a DevOps Pro: Build a Log Aggregation System in AWS](https://
 Quiz. [Certified Developer for AWS](https://cloudacademy.com/quiz/study/503493/)
 
 * Step 29 of 30
-![](https://cloudacademy.com/quiz/test/503494/)
-Quiz. [Certified Developer Associate (practice)](https://cloudacademy.com/quiz/study/503493/)
+![](https://github.com/maxaldunate/aws-training/blob/master/icons/quizzes.ico)
+Quiz. [Certified Developer Associate (practice)](https://cloudacademy.com/quiz/test/503494/)
 
 * Step 30 of 30
 ![](https://github.com/maxaldunate/aws-training/blob/master/icons/courses.ico)
