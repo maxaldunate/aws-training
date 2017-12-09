@@ -1,8 +1,7 @@
-# AWS Certifications Materials & Courses
+# AWS Training
 
-Cloudacademy.com
-
-## Learning Path. ![](https://github.com/maxaldunate/aws-training/blob/master/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS
+## Learning Path. ![](https://github.com/maxaldunate/aws-training/blob/master/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS  
+Cloudacademy.com  
 * [My Summary](https://github.com/maxaldunate/aws-training/tree/master/learning-paths-developer-associate-certification-preparation-for-aws-15)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
 * 7 Video Courses
@@ -11,6 +10,7 @@ Cloudacademy.com
 * Duration 24h 0m
 
 ## Course.  ![](https://github.com/maxaldunate/aws-training/blob/master/icons/courses.ico) Working with AWS's Domain Name System: Amazon Route 53
+Cloudacademy.com  
 * [My Summary](https://github.com/maxaldunate/aws-training/tree/master/amazon-route53-dns-course)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/amazon-route53-dns-course/)
 * Duration 0h 40m
