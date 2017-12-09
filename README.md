@@ -15,4 +15,4 @@
 
 ### DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](https://github.com/maxaldunate/aws-training/tree/master/devOps%20on%20AWS.%20Deep%20Dive%20on%20Infrastructure%20as%20Code)
-* [Cloudacademy](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
+* [SlideShare](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
