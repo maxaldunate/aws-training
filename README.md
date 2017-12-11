@@ -33,4 +33,4 @@
 * [CloudFormation Templates](resources/cloudFormationTemplates)
 * [Icons](resources/icons)
 * [Certificates](resources/certificates)
-* [Instance Metadata](resources/Instance Metadada.md)
+* [Instance Metadata](resources/Instance-Metadada.md)
