@@ -1,10 +1,10 @@
-![](..resources/icons/learning-paths.ico) 
+![](../resources/icons/learning-paths.ico) 
 Learning Path
 
 ## [Developer - Associate Certification Preparation for AWS](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
 
 * 1
-![](..resources/icons/courses.ico)
+![](../resources/icons/courses.ico)
 Course. [Certified Developer for AWS - Foundations](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
   - Compute, Storage and Databases & Services at a glance  
   - [My Summary](01-course-certified-developer-for-aws-foundations.md)
