@@ -29,6 +29,17 @@
 * 18 Hands-On Labs
 * Duration 31h 15m
 
+### 6. Course. ![](resources/icons/courses.ico) How to Use CloudFormation for AWS Automation
+* [My Summary]()
+* [Cloudacademy](https://cloudacademy.com/amazon-web-services/aws-automation-how-to-use-cloudformation-course/)
+* Duration 0h 20m
+
+### 7. Course. ![](resources/icons/courses.ico) Advanced Use of AWS CloudFormation
+* [My Summary]()
+* [Cloudacademy](https://cloudacademy.com/amazon-web-services/advanced-aws-cloudformation-course/)
+* Duration 2h 01m
+
+
 ### Resources & Notes
 * [CloudFormation Templates](resources/cloudFormationTemplates)
 * [Icons](resources/icons)
