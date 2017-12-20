@@ -21,7 +21,7 @@ PENDING ### 3. DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](04-aws-well-architected-training)
 * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
 
-PENDING ### 5. Learning Path. ![](resources/icons/learning-paths.ico) Solutions Architect – Associate Certification Preparation for AWS
+### 5. Learning Path. ![](resources/icons/learning-paths.ico) Solutions Architect – Associate Certification Preparation for AWS
 * [My Summary](05-learning-paths-architect-associate-certification)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/solutions-architect-associate-certification-preparation-for-aws-14/)
 * 8 Video Courses
