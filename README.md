@@ -17,7 +17,7 @@ PENDING ### 3. DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](03-devops-on-AWS.deep-dive-on-infrastructure-as-code)
 * [SlideShare](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
 
-PENDING ### 4. AWS Well-Architected Training 
+### 4. AWS Well-Architected Training 
 * [My Summary](04-aws-well-architected-training)
 * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
 
@@ -29,13 +29,13 @@ PENDING ### 5. Learning Path. ![](resources/icons/learning-paths.ico) Solutions 
 * 18 Hands-On Labs
 * Duration 31h 15m
 
-PENDING ### 6. Course. ![](resources/icons/courses.ico) How to Use CloudFormation for AWS Automation
-* [My Summary]()
+### 6. Course. ![](resources/icons/courses.ico) How to Use CloudFormation for AWS Automation
+* [My Summary](06-how-to-use-cloudFormation-for-aws-automation)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/aws-automation-how-to-use-cloudformation-course/)
 * Duration 0h 20m
 
-PENDING ### 7. Course. ![](resources/icons/courses.ico) Advanced Use of AWS CloudFormation
-* [My Summary]()
+### 7. Course. ![](resources/icons/courses.ico) Advanced Use of AWS CloudFormation
+* [My Summary](07-advanced-use-of-aws-cloudFormation)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/advanced-aws-cloudformation-course/)
 * Duration 2h 01m
 
