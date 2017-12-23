@@ -169,16 +169,32 @@
   | Allow and Deny rules | Allow rules only |
   | Rules processed in order | Evaluate completely |
 * Full control over IP protocols
+  Such as GRE, ESP, ICMP for Source/destinations  
+  IP address and port to TCP and UDP traffic
+* Ephemeral ports 1024 to 65535
+1. Create NACL on VPC
+2. Add rules Inbound & Outbound
+3. Associate Subnets
+## Build and Configure a NAT instance
+1. Create SG
+2. Inbound Rules: HTTP/S, Source CIDR to private subnets
+3. Outbound Rules: HTTP/S, Destination any
+4. EC2 Community AMI. AMZN-AMI-VPC-NATS
+5. Select VPC & Subnets
+6. Select the SG alrready created
+7. Associate an EIP
+8. Instance/Actions/Networking/[Enable Source-Destination Check](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_NAT_Instance.html?shortFooter=true#EIP_Disable_SrcDestCheck)
+9. RT select the RT for the VPC
+10. Routes Tab and ADD button. Destinations 0000, target "new instance"
+* Troubleshooting
+- Check SG
+- Ensure change source/dest check
+- Add NAT instance to RT
+- Assoc subnet to RT
+* Architectural COnsidreations
+- Create a single NAT instance per AZ
+- Use AutoScaling for NAT avalability
+- Use AutoScaling for monitor health & availability
+- Vertically scale NAT instance types (improving networking)
+- Alternative: Using Squid Proxy Instance for WS in amazon VPC[](https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/)
 
-
-
-
-
-
-
-
-	
-	
-	
-	
-  
