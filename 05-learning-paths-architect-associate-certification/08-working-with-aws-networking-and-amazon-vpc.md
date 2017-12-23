@@ -161,12 +161,12 @@
 
 ## Configure Your Custom VPC Security
 * Network ASLs vs Security Groups  
-|           NACLs            |        SGs          |
-|----------------------------|---------------------|
-| Applied at subnet level    | Instance level      |
-| Stateless                  | Stateful            |
-| Allow and Deny rules       | Allow rules only    |
-| Rules processed in order   | Evaluate completely |
+|           NACLs            |        SGs          |  
+|----------------------------|---------------------|  
+| Applied at subnet level    | Instance level      |  
+| Stateless                  | Stateful            |  
+| Allow and Deny rules       | Allow rules only    |  
+| Rules processed in order   | Evaluate completely |  
 
 * Full control over IP protocols
 
