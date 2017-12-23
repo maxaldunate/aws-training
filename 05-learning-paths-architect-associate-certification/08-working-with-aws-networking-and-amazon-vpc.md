@@ -161,6 +161,8 @@
 
 ## Configure Your Custom VPC Security
 * Network ASLs vs Security Groups  
+
+
 |           NACLs            |        SGs          |  
 |----------------------------|---------------------|  
 | Applied at subnet level    | Instance level      |  
