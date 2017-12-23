@@ -1,5 +1,7 @@
 # AWS Training
 
+## LEARNING
+
 ### 1. Learning Path. ![](resources/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS
 * [My Summary](01-learning-paths-developer-associate-certification)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
@@ -43,8 +45,19 @@ PENDING ### 3. DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](08-Hands-on-CloudFormation-for-deploy-scalability)
 * [Cloudacademy]((https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
+## EXAM PREPS & OTHER RESOURCES
+
+### 98. Exam Preps
+* [Solutions Architect Learning Path](98-exam-preps/02-learning-path-solutions-architect-associate/Readme.md)
+
+### 99. Side Notes
+* [COnsole vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
+* [CIDR examples](99-sidenotes/CIDR-Examples.md)
+* [INstance Metadata](99-sidenotes/Instance-Metadada.md)
+* [Stress Amazon Linux](99-sidenotes/To Stress on Amazon Linux.md)
+
 ### Resources & Notes
 * [CloudFormation Templates](resources/cloudFormationTemplates)
 * [Icons](resources/icons)
 * [Certificates](resources/certificates)
-* [Instance Metadata](resources/Instance-Metadada.md)
+* [Aws CF Templates](resources/aws-template-samples)
