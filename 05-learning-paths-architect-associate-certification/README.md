@@ -75,7 +75,7 @@ Quiz. [Data Security Associate](https://cloudacademy.com/quiz/study/507799/resul
 * 22
 ![](../resources/icons/courses.ico)
 Course. [Implementation and Deployment for Solutions Architect Associate on AWS](https://cloudacademy.com/amazon-web-services/implementation-and-deployment-for-solutions-architect-associate-on-aws-course/)
-  - [My Summary]()
+  - [My Summary](22-implementation-and-deployment.md)
 
 * 23 already done
 ![](..resources/icons/labs.ico)
