@@ -45,7 +45,7 @@ Quiz. [Designing Highly Available, Cost Efficient, Fault Tolerant, Scalable Syst
 * 14
 ![](../resources/icons/courses.ico)
 Course. [Data Security for Solutions Architect Associate on AWS](https://cloudacademy.com/amazon-web-services/data-security-for-solutions-architect-associate-aws-course/)
-  - [My Summary]()
+  - Already done in Developer COurse
 
 * 15 & 16
 ![](..resources/icons/labs.ico)

@@ -62,3 +62,23 @@
 * Data rate required for the application
 * Replication technology (parallel?)
 
+### Replication. The Basics
+* Synchronous --> direct to both (Atomic)
+* Asynchronous --> one db --> second db (Non atomic)
+
+### Data Recovery Services
+* Aws Import/Export (Snowball) Physical device
+  *  S3 Bucket, Glacier Vault or ESB Snapshot
+* Aws Storage Gateway
+  - Gateway-cached volumes
+    * Data to S3, retain frequent data locally
+	* Cost saving on primary storage
+  - Gateway-stored volumes
+    * low latency to the entire data set
+	* save primary data locally and asynchronous backup point-in-time snapshot to S3
+  - inexpensive offside backups
+* Gateway-VTL (Virtual tape library)
+
+### Disaster Recovery Summary
+![](07-disaster-recovery-summary.jpg)
+
