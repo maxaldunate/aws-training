@@ -21,7 +21,7 @@ Max Aldunate
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/amazon-route53-dns-course/)
 * Duration 0h 40m
 
-PENDING ### 3. DevOps on AWS: Deep Dive on Infrastructure as Code
+### 3. DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](03-devops-on-AWS.deep-dive-on-infrastructure-as-code)
 * [SlideShare](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
 
