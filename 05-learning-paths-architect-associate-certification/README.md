@@ -92,17 +92,20 @@ Lab. [Serve your files using the CloudFront CDN](https://cloudacademy.com/amazon
 Lab. [Deploy Wordpress using CloudFormation](https://cloudacademy.com/amazon-web-services/labs/deploy-wordpress-cloudformation-17/)  
   
 * 28
+![](../resources/icons/courses.ico)
+Course. [Solution Architect Associate for AWS - 2017 Exam Primer](https://cloudacademy.com/amazon-web-services/solution-architect-associate-for-aws-course/)  
+  - [My Exam Prep](..\98-exam-preps\02-learning-path-solutions-architect-associate\28-of-31-2017-exam-primer\Readme.md)
+
+* 29
 ![](../resources/icons/quizzes.ico)
-Study Session. [Designing Highly Available, Cost Efficient, Fault Tolerant, Scalable Systems for Solutions Architect](https://cloudacademy.com/quiz/study/503503/)
+Study Session. [Solutions Architect Associate for AWS](https://cloudacademy.com/quiz/test/511528/)
 #215 questions
-
-
   
+* 30
+![](../resources/icons/quizzes.ico)
+Test Session. [Solutions Architect Associate for AWS - Practice test](https://cloudacademy.com/quiz/test/511528/)
+#33 timed questions
   
-  
-  
-  
-  
-  
-  
-  
+* 31
+![](../resources/icons/courses.ico)
+Course. [Summary of Solutions Architect Associate Learning Path](https://cloudacademy.com/amazon-web-services/summary-of-solutions-architect-associate-learning-path-course/)
