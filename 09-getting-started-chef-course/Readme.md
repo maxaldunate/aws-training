@@ -94,21 +94,23 @@ https://github.com/whelmed/getting_started_with_chef
   - Resource type
   - Attribute
   - Action
-  - ex. 
+  - example
 ```ruby
    package 'type' do  
-  		  version '1.7.0-3'  
-  		  action :install  
+      version '1.7.0-3'  
+      action :install  
    end
 ```  
   - You can use if/then/case
   - Attribute methods
   - Data_bag method
   - data_bag_item method
-  - ex.  
-      data_bag('users').each do |user|  
-          data_bag_item('users, user')  
-      end  
+  - example
+```ruby
+   data_bag('users').each do |user|  
+      data_bag_item('users, user')  
+   end  
+```
   - shell our. Open a shell to run commands
 
 ## Practical
