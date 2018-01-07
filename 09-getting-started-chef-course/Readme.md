@@ -122,7 +122,7 @@ https://github.com/whelmed/getting_started_with_chef
   - Chef DK
 
 ### Your First recipe
-(Code at Github)[https://github.com/whelmed/getting_started_with_chef]
+[Code at Github](https://github.com/whelmed/getting_started_with_chef)
 
 1. run `$ chef verify`
 1. cd to chef repo parent folder
@@ -154,8 +154,8 @@ The app is a flask LAMP with simple frontend
 1. add link to supermarket in Berksfile file
 1. add dependencies to metadata.rb file
 1. run **`$ kitchen destroy`**
-1. test the application already deployed on ubuntu at http://localhost:8081
-1. test the application already deployed on centos at http://localhost:8082
+1. test the application already deployed on **ubuntu** at http://localhost:8081
+1. test the application already deployed on **centos** at http://localhost:8082
 
 ### Setting Up the Chef Server
 * Install on AWS
@@ -193,9 +193,9 @@ The app is a flask LAMP with simple frontend
 ### Configuring The Nodes
 
 ```bash
-cd repo/cookbooks/web_app
-berks install  # download the related community cookbooks
-ls ~/.berkshelf/cookbooks/
+$ cd repo/cookbooks/web_app
+$ berks install  # download the related community cookbooks
+$ ls ~/.berkshelf/cookbooks/
 # Is possible to use knife to upload cookbooks
 ```
 
@@ -205,11 +205,7 @@ ls ~/.berkshelf/cookbooks/
     * `--no--ssl-verify` parameter with each call
     * `$ echo '{"ssl":{"verify":false}}' > ~/.berkshelf/config.json  `
     * `cat ~/.berkshelf/config.json`
-
-```bash
-berks upload    # Now in server web page you can see cookbooks
-```
-
+    * `berks upload    # Now in server web page you can see cookbooks`
 * Which recipes for which nodes
 * `$ knife node run_list set ubuntu1604 'recipe[web_app]'` repeatning for each node.
 * You can see server web pages/nodes/recipes
