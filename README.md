@@ -47,11 +47,11 @@ Max Aldunate
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/advanced-aws-cloudformation-course/)
 * Duration 2h 01m
 
-### 8. Lab. ![](..resources/icons/labs.ico) Hands-on CloudFormation for deploy scalability
+### 8. Lab. ![](resources/icons/labs.ico) Hands-on CloudFormation for deploy scalability
 * [My Summary](08-Hands-on-CloudFormation-for-deploy-scalability)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
-### 9. Course. ![](..resources/icons/courses.ico) Getting Started With Chef
+### 9. Course. ![](resources/icons/courses.ico) Getting Started With Chef
 * [My Summary](09-getting-started-chef-course)
 * [Cloudacademy](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
 
@@ -62,7 +62,7 @@ Max Aldunate
 * [Solutions Architect Learning Path](98-exam-preps/02-learning-path-solutions-architect-associate/Readme.md)
 
 ### 99. Side Notes
-* [COnsole vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
+* [Console vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
 * [CIDR examples](99-sidenotes/CIDR-Examples.md)
 * [INstance Metadata](99-sidenotes/Instance-Metadada.md)
 * [Stress Amazon Linux](99-sidenotes/Stress-on-amazon-linux.md)
