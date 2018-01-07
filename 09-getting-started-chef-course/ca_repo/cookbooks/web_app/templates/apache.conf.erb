@@ -1,0 +1,12 @@
+<VirtualHost *>
+    ServerName example.com
+
+    WSGIDaemonProcess webapp user=<%= node["apache_settings"]["user"] %> group=<%= node["apache_settings"]["user"] -%> threads=5
+    WSGIScriptAlias / /var/www/webapp/wsgi.py
+
+    <Directory /var/www/webapp>
+        WSGIProcessGroup webapp
+        WSGIApplicationGroup %{GLOBAL}
+        Require all granted
+    </Directory>
+</VirtualHost>
