@@ -94,10 +94,10 @@ https://github.com/whelmed/getting_started_with_chef
   - Resource type
   - Attribute
   - Action
-  - ex. package 'type' do  
+  - ex. ```package 'type' do  
   		  version '1.7.0-3'  
   		  action :install  
-  	    end  
+  	    end```  
   - You can use if/then/case
   - Attribute methods
   - Data_bag method
