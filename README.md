@@ -55,6 +55,13 @@ Max Aldunate
 * [My Summary](09-getting-started-chef-course)
 * [Cloudacademy](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
 
+### 10. Learning Path. ![](resources/icons/learning-paths.ico) AWS Cloud Management Tools
+* [My Summary](10-learning-paths-aws-cloud-management-tools)
+* [Cloudacademy](https://cloudacademy.com/learning-paths/aws-cloud-management-tools-60/)
+* 5 Video Courses
+* 4 Quiz Sessions
+* 5 Hands-On Labs
+* Duration 11h 51m
 
 ## EXAM PREPS & OTHER RESOURCES
 
