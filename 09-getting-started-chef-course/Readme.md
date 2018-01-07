@@ -3,7 +3,7 @@ Course
 
 # [Getting Started With Chef](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
 
-## Course INtro
+## Course Intro
 
 * Learning objectives
   - Understand the use cases for Chef
@@ -81,7 +81,7 @@ https://github.com/whelmed/getting_started_with_chef
 * Files
   - just files to copy
 * Templates
-  - like files with logic added <%=  %>
+  - like files with logic added `<%=  %>`
   - ERB templates with eRubis template files
 * Libraries
   - Ruby code
