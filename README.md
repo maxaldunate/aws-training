@@ -51,6 +51,11 @@ Max Aldunate
 * [My Summary](08-Hands-on-CloudFormation-for-deploy-scalability)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
+### 9. Course. ![](..resources/icons/courses.ico) Getting Started With Chef
+* [My Summary](09-getting-started-chef-course)
+* [Cloudacademy](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
+
+
 ## EXAM PREPS & OTHER RESOURCES
 
 ### 98. Exam Preps
