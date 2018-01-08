@@ -59,6 +59,7 @@ Auto Scaling supports three types of scaling:
 1. Manual scaling
 2. Scaling based on condition (e.g. CPU utilization is up or down, etc.)
 3. Scaling based on time (e.g. First day of the quarter, 6 am every day, etc.)
+
 LEARN MORE: http://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/scaling_plan.html
 
 ***
