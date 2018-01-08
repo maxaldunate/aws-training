@@ -2,16 +2,18 @@
 
 ## Compute
 
-* By launching your instances into a VPC instead of EC2-Classic, you can optionally associate an IPv6 CIDR block with your VPC, and assign IPv6 addresses to instances in your VPC. Both EC2-Classic and EC2-VPC enable DNS hostnames by default. With VPC, a security group can reference security groups for your VPC only, and you can assign up to five security groups to an instance.
+##
+By launching your instances into a VPC instead of EC2-Classic, you can optionally associate an IPv6 CIDR block with your VPC, and assign IPv6 addresses to instances in your VPC. Both EC2-Classic and EC2-VPC enable DNS hostnames by default. With VPC, a security group can reference security groups for your VPC only, and you can assign up to five security groups to an instance.
 
-* Previously, if you launched an instance for 5 minutes, you would pay for 1 hour. If you launched an instance for 45 minutes, you would also pay for 1 hour. This means that partial hours cost as much as one full hour. Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped. Each partial instance-hour consumed will be billed as a full hour.
+##
+Previously, if you launched an instance for 5 minutes, you would pay for 1 hour. If you launched an instance for 45 minutes, you would also pay for 1 hour. This means that partial hours cost as much as one full hour. Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped. Each partial instance-hour consumed will be billed as a full hour.
 
 With EC2 services now billed per-second  in some cases, as well as per-hour in others as of October 2, 2017, there is more to consider. Amazon AWS is still based on the concept of pay-as-you-go. You pay Amazon EC2 instances by the second for all instance types except Dedicated Host, which is still billed per instance-hour. You are billed per second when using Linux operating systems with no separate hourly charge, and billed per hour when using Windows operating systems.
 
 LEARN MORE: http://aws.amazon.com/ec2/pricing/
 
-* A block device is a storage device that moves data in sequences of bytes or bits (blocks). These devices support random access and generally use buffered I/O. Examples include hard disks, CD-ROM drives, and flash drives. A block device can be physically attached to a computer or accessed remotely as if it were physically attached to the computer. Amazon EC2 supports two types of block devices:
-
+##
+A block device is a storage device that moves data in sequences of bytes or bits (blocks). These devices support random access and generally use buffered I/O. Examples include hard disks, CD-ROM drives, and flash drives. A block device can be physically attached to a computer or accessed remotely as if it were physically attached to the computer. Amazon EC2 supports two types of block devices:
 
 Amazon EC2 supports two types of block devices.
 
@@ -21,14 +23,17 @@ The SSD, HDD and Magnetic choices are all options for the type of storage offere
 
 LEARN MORE: http://docs.amazonwebservices.com/AWSEC2/latest/UserGuide/block-device-mapping-concepts.html
 
-* By default, Amazon EBS root device volumes are automatically deleted when the instance terminates.
+##
+By default, Amazon EBS root device volumes are automatically deleted when the instance terminates.
 
 LEARN MORE: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html
 
-* You can use AWS CloudFormation’s sample templates or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application.
+##
+You can use AWS CloudFormation’s sample templates or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application.
 
 In the following example, the output named BackupLoadBalancerDNSName returns the DNS name for the resource with the logical ID BackupLoadBalancer only when the CreateProdResources condition is true. (The second output shows how to specify multiple outputs.)
 
+```js
 "Outputs" : {
 "BackupLoadBalancerDNSName" : {
 "Description": "The DNSName of the backup load balancer",
@@ -40,13 +45,16 @@ In the following example, the output named BackupLoadBalancerDNSName returns the
 "Value" : { "Ref" : "EC2Instance" }
 }
 }
+```
 LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/outputs-section-structure.htmlxx
 
-* Auto Scaling is well suited to both applications that have stable demand patterns and that experience hourly, daily, or weekly variability in usage. Whether the demand is predictable or unpredictable auto scaling can be a good choice. If the demand is predictable and long term you may choose reserved instances. If the demand is unpredictable you may choose on-demand or even spot instance (if you can afford to have an instance lost unexpectedly).
+##
+Auto Scaling is well suited to both applications that have stable demand patterns and that experience hourly, daily, or weekly variability in usage. Whether the demand is predictable or unpredictable auto scaling can be a good choice. If the demand is predictable and long term you may choose reserved instances. If the demand is unpredictable you may choose on-demand or even spot instance (if you can afford to have an instance lost unexpectedly).
 
 LEARN MORE: http://aws.amazon.com/autoscaling/
 
-* Auto Scaling supports three types of scaling:
+##
+Auto Scaling supports three types of scaling:
 
 1. Manual scaling
 2. Scaling based on condition (e.g. CPU utilization is up or down, etc.)
