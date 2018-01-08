@@ -76,7 +76,7 @@ Max Aldunate
 ### 99. Side Notes
 * [Console vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
 * [CIDR examples](99-sidenotes/CIDR-Examples.md)
-* [INstance Metadata](99-sidenotes/Instance-Metadada.md)
+* [Instance Metadata](99-sidenotes/Instance-Metadada.md)
 * [Stress Amazon Linux](99-sidenotes/Stress-on-amazon-linux.md)
 
 ### Resources & Notes
@@ -84,5 +84,4 @@ Max Aldunate
 * [Icons](resources/icons)
 * [Certificates](resources/certificates)
 * [Aws CF Templates](resources/aws-template-samples)
-* [Bookmarks first time](resources/BookMarks.MD)
 

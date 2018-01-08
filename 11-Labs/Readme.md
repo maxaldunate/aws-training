@@ -15,9 +15,7 @@
 
 [GitHub repo](https://github.com/cloudacademy/dynamo-demo)
 
-```json
 ![](hands-cloudformation-deploy-scalability-final-template.template.json)
-```
 
 Maxito 
 
