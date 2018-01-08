@@ -1556,7 +1556,7 @@ LEARN MORE: http://docs.aws.amazon.com/kinesis/latest/dev/monitoring_with_cloudw
 ***
 Amazon Simple Email Service (Amazon SES) is a highly scalable and cost-effective email-sending service for businesses and developers. Amazon SES eliminates the complexity and expense of building an in-house email solution or licensing, installing, and operating a third-party email service for this type of email communication.
 
-*Every Amazon SES sender has a unique set of sending limits*, which are calculated by Amazon SES on an ongoing basis:
+**Every Amazon SES sender has a unique set of sending limits**, which are calculated by Amazon SES on an ongoing basis:
 
 Sending quota — the maximum number of emails you can send in a 24-hour period.
 
