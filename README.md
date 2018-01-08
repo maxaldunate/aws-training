@@ -84,4 +84,6 @@ Max Aldunate
 * [Icons](resources/icons)
 * [Certificates](resources/certificates)
 * [Aws CF Templates](resources/aws-template-samples)
+* [Labs Diagrams](resources/)
+* [Aws Icons](https://aws.amazon.com/architecture/icons/)
 
