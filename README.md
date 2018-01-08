@@ -63,6 +63,8 @@ Max Aldunate
 * 5 Hands-On Labs
 * Duration 11h 51m
 
+### 11. [Miscellaneous Labs](11-Labs) ![](resources/icons/labs.ico) 
+
 ## EXAM PREPS & OTHER RESOURCES
 
 ### 98. Exam Preps. Solutions Architect Learning Path
