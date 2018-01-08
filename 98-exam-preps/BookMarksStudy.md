@@ -1057,3 +1057,543 @@ LEARN MORE: http://docs.aws.amazon.com/config/latest/developerguide/config-conce
 
 ## Database
 
+***
+The core components of DynamoDB are:
+
+* "Table", a collection of Items;
+* "Items", with Keys and one or more Attribute;
+* "Attribute", with Name and Value.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html
+
+***
+The AWS console for DynamoDB enables you to do all the above operation but not Importing Data from other databases or from files and it is not possible to do it.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ConsoleDynamoDB.html
+
+***
+Amazon DynamoDB allows atomic increment and decrement operations on scalar values.
+
+LEARN MORE: http://aws.amazon.com/dynamodb/faqs/
+
+***
+FGAC can benefit any application that tracks information in a DynamoDB table, where the end user (or application client acting on behalf of an end user) wants to read or modify the table directly, without a middle-tier service. For instance, a developer of a mobile app named Acme can use FGAC to track the top score of every Acme user in a DynamoDB table. FGAC allows the application client to modify only the top score for the user that is currently running the application.
+
+LEARN MORE: http://aws.amazon.com/dynamodb/faqs/#security_anchor
+
+***
+In DynamoDB, a secondary index is a data structure that contains a subset of attributes from a table, along with an alternate key to support Query operations. DynamoDB supports the following two types of secondary indexes:
+
+* Local secondary index is an index that has the same hash key as the table, but a different range key. A local secondary index is "local" in the sense that every partition of a local secondary index is scoped to a table partition that has the same hash key.
+* Global secondary index is an index with a hash and range key that can be different from those on the table. A global secondary index is considered "global" because queries on the index can span all of the data in a table, across all partitions.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DataModel.html
+
+***
+When you create a table with a hash-and-range key in DynamoDB, you can also define one or more secondary indexes on that table.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LSI.html
+
+***
+Yes. When you copy data from an Amazon DynamoDB table into Amazon Redshift, you can perform complex data analysis queries on that data. This includes joins with other tables in your Amazon Redshift cluster.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/RedshiftforDynamoDB.html
+
+***
+No, local secondary indexes cannot be removed from a table once they are created at this time. Of course, they are deleted if you also decide to delete the entire table.
+
+LEARN MORE: http://aws.amazon.com/dynamodb/faqs/#security_anchor
+
+***
+In DynamoDB, DeleteItem deletes a single item in a table by primary key, but BatchDeleteItem doesn’t exist.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/operationlist.html
+
+***
+A secondary index lets you query the data in the table using an alternate key, in addition to queries against the primary key. DynamoDB does not require that you use indexes, but they give your applications more flexibility when it comes to querying your data.
+
+DynamoDB supports two kinds of indexes:
+
+* Global secondary index – an index with a partition key and sort key that can be different from those on the table.
+* Local secondary index – an index that has the same partition key as the table, but a different sort key.
+
+You can define up to 5 global secondary indexes and 5 local secondary indexes per table.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DataModel.html
+
+***
+In Amazon DynamoDB, a database is a collection of tables. A table is a collection of items and each item is a collection of attributes.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DataModel.html
+
+***
+Some Metrics in the Amazon CloudWatch have different units than those used in the Amazon Redshift console. For example, WriteThroughput, is displayed in GB/s (as compared to Bytes/s in Amazon CloudWatch), which is a more relevant unit for the typical storage space of a node.
+
+LEARN MORE: http://docs.aws.amazon.com/redshift/latest/mgmt/using-cloudwatch-console.html
+
+***
+AWS Glacier has four resources. Vault and Archives are core data model concepts. Job is required to initiate download of archive. The notification configuration is required to send user notification when archive is available for download.
+
+LEARN MORE: http://docs.aws.amazon.com/amazonglacier/latest/dev/amazon-glacier-data-model.html
+
+***
+AWS RDS provides a managed DB platform, which offers features, such as automated backup, patch management, automated failure detection and recovery. The scaling is not automated and the user needs to plan it with a few clicks.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
+
+***
+RDS DB instance storage comes in three types: magnetic, standard and provisioned IOPS, but only recommends standard and provisioned IOPS. Standard storage is allocated on the Amazon EBS volumes and connected to the user’s DB instance. Provisioned IOPS uses optimized EBS volumes and an optimized configuration stack. It provides additional, dedicated capacity for the EBS I/O.
+
+EBS-optimized instances offer better performance over time:
+
+When attached to an EBS–optimized instance, General Purpose SSD volumes are designed to deliver within 10% of their baseline and burst performance 99% of the time in a given year, and Provisioned IOPS SSD volumes are designed to deliver within 10% of their provisioned performance 99.9% of the time in a given year. 
+
+LEARN MORE: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSOptimized.html
+
+***
+Amazon RDS provides two different methods for backing up and restoring the Amazon DB instances: automated backups and DB snapshots. Automated backups automatically back up the DB instance during a specific, user-definable backup window, and keep the backups for a limited, user-specified period of time.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html
+
+***
+Because the user needs to stop the instance for 3 months, the most-cost effective option is to create a manual snapshot of the RDS instance to launch later, and terminate the current RDS instance. Stopping the instance is not ideal in this case because the instance will be restarted automatically by Amazon after seven days. Amazon will also charge for provisioned and backup storage.
+
+The best option is to create a manual snapshot of the instance, which can be stored for any length of time, and will not be deleted if the original instance is deleted. Note an automatic snapshot has a limited retention period, and will be deleted if the original instance is deleted. The user will only be charged for storage in this case if the user exceeds his/her default storage space.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.BackingUpAndRestoringAmazonRDSInstances
+
+***
+With regard to RDS, the user can manage the configuration of a DB engine by using a DB parameter group. A DB parameter group contains engine configuration values that can be applied to one or more DB instances of the same instance type.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
+
+***
+If your DB instance and EC2 instance are not in the same VPC, you must configure the DB instance's security group with an ingress rule that allows traffic from the Amazon EC2 instance. You would do this by adding the Amazon EC2 security group, or CIDR IP ranges for the EC2 instance, to the DB security group for the DB instance. In this example, you add an ingress rule to a DB security group for an Amazon EC2 Public IP.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithSecurityGroups.html
+
+***
+When the user makes any changes to the RDS security group the rule status will be authorizing for some time until the changes are applied to all instances that the group is connected with. Once the changes are propagated the rule status will change to authorized.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithSecurityGroups.html
+
+***
+Amazon RDS provides two different methods for backing up and restoring the Amazon DB instances. A brief I/O performance degradation, typically lasting a few seconds, occurs during both automated backups and DB snapshot operations on Single-AZ DB instances.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.BackingUpAndRestoringAmazonRDSInstances
+
+***
+Amazon RDS provides two different methods for backing up and restoring the Amazon DB instances: automated backups and DB snapshots. Automated backups automatically back up the DB instance during a specific, user-definable backup window, and keep the backups for a limited, user-specified period of time. The maximum period can be 35 days.  
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html
+
+***
+If the user does not specify a preferred backup window while enabling an automated backup, Amazon RDS assigns a default 30-minute backup window which is selected at random from an 8-hour block of time per region.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.BackingUpAndRestoringAmazonRDSInstances
+
+***
+DynamoDB supports two types of secondary indexes:
+
+**Local secondary index** — an index that has the same hash key as the table, but a different range key. A local secondary index is "local" in the sense that every partition of a local secondary index is scoped to a table partition that has the same hash key.
+
+**Global secondary index** — an index with a hash and range key that can be different from those on the table. A global secondary index is considered "global" because queries on the index can span all of the data in a table, across all partitions.
+
+LEARN MORE: http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html
+
+***
+A security group controls the access to a DB instance. It does so by allowing access to IP address ranges or Amazon EC2 instances that you specify.
+
+*Amazon RDS uses VPC security groups only for DB instances launched by recently created AWS accounts.* In simple terms, DB security groups only apply to instances used outside of a VPC, which could not apply to any recently created AWS accounts. Let's disqualify that as a security group option. The EC2 security group also applies to only EC2-Classic instances, so let's rule out that option as well. EC2 instances are not available to AWS accounts created in the last several years. 
+
+A VPC security group controls access to DB instances and EC2 instances inside a VPC.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.RDSSecurityGroups.html
+
+***
+Amazon Elastic Map Reduce (EMR) is a web service that enables businesses, researchers, data analysts, and developers to easily and cost-effectively process vast amounts of data.
+
+Amazon EMR historically referred to an Amazon EMR cluster (and all processing steps assigned to it) as a "cluster". Every cluster has a unique identifier that starts with "j-".
+
+The different cluster states of an Amazon EMR cluster are listed below.
+
+* STARTING – The cluster provisions, starts, and configures EC2 instances.
+* BOOTSTRAPPING – Bootstrap actions are being executed on the cluster.
+* RUNNING – A step for the cluster is currently being run.
+* WAITING – The cluster is currently active, but has no steps to run.
+* TERMINATING - The cluster is in the process of shutting down.
+* TERMINATED - The cluster was shut down without error.
+* TERMINATED_WITH_ERRORS - The cluster was shut down with errors.
+
+LEARN MORE: https://aws.amazon.com/elasticmapreduce/faqs/
+
+***
+Amazon Redshift delivers fast query performance by using columnar storage technology to improve I/O efficiency and parallelizing queries across multiple nodes. Redshift uses standard PostgreSQL JDBC and ODBC drivers, allowing you to use a wide range of familiar SQL clients. Data load speed scales linearly with cluster size, with integrations to Amazon S3, Amazon DynamoDB, Amazon Elastic MapReduce, Amazon Kinesis or any SSH-enabled host.
+
+AWS recommends Amazon Redshift for customers who have a combination of needs, such as:
+
+* High performance at scale as data and query complexity grows
+* Desire to prevent reporting and analytic processing from interfering with the performance of OLTP workloads
+* Large volumes of structured data  to persist and query using standard SQL and existing BI tools
+* Desire to the administrative burden of running one's own data warehouse and dealing with setup, durability, monitoring, scaling and patching
+
+LEARN MORE: https://aws.amazon.com/running_databases/#redshift_anchor
+
+***
+Amazon Glacier supports various vault operations.
+
+* A vault inventory refers to the list of archives in a vault. For each archive in the list, the inventory provides archive information such as archive ID, creation date, and size. Amazon Glacier updates the vault inventory approximately once a day, starting on the day the first archive is uploaded to the vault. A vault inventory must exist for you to be able to download it.
+* Downloading a vault inventory is an asynchronous operation. You must first initiate a job to download the inventory. After receiving the job request, Amazon Glacier prepares your inventory for download. After the job completes, you can download the inventory data.
+* Given the asynchronous nature of the job, you can use Amazon Simple Notification Service (Amazon SNS) notifications to notify you when the job completes. You can specify an Amazon SNS topic for each individual job request or configure your vault to send a notification when specific vault events occur.
+* Amazon Glacier prepares an inventory for each vault periodically, every 24 hours. If there have been no archive additions or deletions to the vault since the last inventory, the inventory date is not updated. When you initiate a job for a vault inventory, Amazon Glacier returns the last inventory it generated, which is a point-in-time snapshot and not real-time data. You might not find it useful to retrieve vault inventory for each archive upload. However, suppose you maintain a database on the client-side associating metadata about the archives you upload to Amazon Glacier. Then, you might find the vault inventory useful to reconcile information in your database with the actual vault inventory.
+
+LEARN MORE: http://docs.aws.amazon.com/amazonglacier/latest/dev/working-with-vaults.html
+
+***
+Amazon Relational Database Service (Amazon RDS) is a managed service that makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity, while managing time-consuming database administration tasks, freeing you up to focus on your applications and business.
+
+When you create or modify your DB Instance to run as a Multi-AZ deployment, Amazon RDS automatically provisions and maintains a synchronous “standby” replica in a different Availability Zone. 
+
+*Updates to your DB Instance are synchronously replicated across Availability Zones to the standby in order to keep both in sync and protect your latest database updates against DB Instance failure.*  
+
+During certain types of planned maintenance, or in the unlikely event of DB Instance failure or Availability Zone failure, Amazon RDS will automatically failover to the standby so that you can resume database writes and reads as soon as the standby is promoted. Since the name record for your DB Instance remains the same, you application can resume database operation without the need for manual administrative intervention. With Multi-AZ deployments, replication is transparent: you do not interact directly with the standby, and it cannot be used to serve read traffic. If you are using Amazon RDS for MySQL and are looking to scale read traffic beyond the capacity constraints of a single DB Instance, you can deploy one or more Read Replicas.
+
+LEARN MORE: http://aws.amazon.com/rds/faqs/
+
+***
+Amazon EMR provides several tools to monitor the performance of your cluster.
+
+*Hadoop Web Interfaces*  
+Every cluster publishes a set of web interfaces on the master node that contain information about the cluster. You can access these web pages by using an SSH tunnel to connect them on the master node. For more information, see View Web Interfaces Hosted on Amazon EMR Clusters.
+
+*CloudWatch Metrics*  
+Every cluster reports metrics to CloudWatch. CloudWatch is a web service that tracks metrics, and which you can use to set alarms on those metrics. For more information, see Monitor Metrics with CloudWatch.
+
+*Ganglia*  
+Ganglia is a cluster monitoring tool. To have this available, you have to install Ganglia on the cluster when you launch it. After you've done so, you can monitor the cluster as it runs by using an SSH tunnel to connect to the Ganglia UI running on the master node. For more information, see Monitor Performance with Ganglia.
+
+LEARN MORE: http://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-manage-view.html
+
+***
+Amazon Redshift achieves efficient storage and optimum query performance through a combination of massively parallel processing, columnar data storage, and very efficient, targeted data compression encoding schemes.
+
+*Columnar storage* for database tables is an important factor in optimizing analytic query performance because it drastically reduces the overall disk I/O requirements and reduces the amount of data you need to load from disk.
+
+LEARN MORE: http://docs.aws.amazon.com/redshift/latest/dg/c_columnar_storage_disk_mem_mgmnt.html
+
+***
+A DB instance outage can occur when a DB instance is rebooted, when the DB instance is put into a state that prevents access to it, and when the database is restarted. A reboot can occur when you manually reboot your DB instance or when you change a DB instance setting that requires a reboot before it can take effect.  
+
+A DB instance reboot occurs immediately when one of the following occurs:
+
+* You change the backup retention period for a DB instance from 0 to a nonzero value or from a nonzero value to 0 and set Apply Immediately to true.
+* You change the DB instance class, and Apply Immediately is set to true.
+* You change storage type from standard to PIOPS.
+
+A DB instance reboot occurs during the maintenance window when one of the following occurs:
+
+* You change the backup retention period for a DB instance from 0 to a nonzero value or from a nonzero value to 0, and Apply Immediately is set to false.
+* You change the DB instance class, and Apply Immediately is set to false.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Troubleshooting.html#CHAP_Troublesho
+
+***
+Using Amazon EMR, you can instantly provision as much or as little capacity as you like to perform data-intensive tasks for applications such as web indexing, data mining, log file analysis, machine learning, financial analysis, scientific simulation, and bioinformatics research. Amazon EMR lets you focus on crunching or analyzing your data without having to worry about time-consuming set-up, management or tuning of Hadoop clusters or the compute capacity upon which they sit.
+
+LEARN MORE: https://aws.amazon.com/elasticmapreduce/faqs/
+
+***
+Amazon RDS leverages the same secure infrastructure as Amazon EC2. You can use the Amazon RDS service without additional protection, but if you require encryption or data integrity authentication of data at rest for compliance or other purposes, you can add protection at the application layer, or at the platform layer using SQL cryptographic functions.
+
+LEARN MORE: https://d0.awsstatic.com/whitepapers/aws-security-best-practices.pdf
+
+## MIscellaneous
+
+***
+The current configuration component of a configuration item in AWS Config gives the information returned through a call to the Describe or List API of the resource. For example, the DescribeVolumes API returns the following information about the volume:
+* Availability Zone the volume is in
+* Time the volume was attached
+* ID of the EC2 instance it is attached to
+* Current status of the volume
+* State of DeleteOnTermination flag
+* Device the volume is attached to
+* Type of volume, such as gp2, io1, or standard
+
+LEARN MORE: http://docs.aws.amazon.com/config/latest/developerguide/resource-config-reference.html
+
+***
+The metadata component of a configuration item in AWS Config contains the following information:
+
+* Version ID
+* Configuration item ID
+* Time when the configuration item was captured
+* Status of the configuration item indicating whether the item was captured successfully
+* State ID indicating the ordering of the configuration items of a resource
+* A unique MD5Hash representing the state of a configuration item that can be used to compare two states of two or more configuration items of the same resource
+
+LEARN MORE: http://docs.aws.amazon.com/config/latest/developerguide/resource-config-reference.html
+
+***
+An AWS Config rule represents your desired configuration settings for specific AWS resources or for an entire AWS account. AWS Config provides customizable, predefined rules to help you get started. You can also create custom rules. While AWS Config continuously tracks your resource configuration changes, it checks whether these changes violate any of the conditions in your rules. If a resource violates a rule, AWS Config flags the resource and the rule as noncompliant, and AWS Config notifies you through Amazon SNS.
+
+LEARN MORE: http://docs.aws.amazon.com/config/latest/developerguide/config-concepts.html
+
+***
+AWS Config can:
+
+* Enforce rules that checks the compliancy of your resource against specific controls: Predefined and custom rules can be configured within AWS Config allowing you to check resources compliance against these rules
+* Act as a resource inventory: AWS Config can discover supported resources running within your environment allowing you to see data about that resource type
+* Store configuration history for individual resources: The service will record and hold all existing changes that have happened against the resource, providing a useful history record of changes
+
+LEARN MORE: https://cloudacademy.com/amazon-web-services/introduction-to-aws-config-course/what-is-aws-config.html
+
+***
+AWS CloudFormation takes care of checking references to resources in the template and also checks references to existing resources to ensure that they exist in the region where you are creating the stack. If your template refers to a dependent resource that does not exist, stack creation will fail.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/GettingStarted.Walkthrough.html
+
+***
+Before designing a workflow or any activity, you must register at least one domain. Then, when designing an Amazon SWF workflow, you precisely define each of the required activities. You then register each activity with Amazon SWF as an activity type. When you register the activity, you provide information such as a name and version, and some timeout values based on how long you expect the activity to take. 
+
+LEARN MORE: http://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html
+
+***
+Every Amazon SQS queue has a configurable visibility timeout. A message is not visible to any other reader for a designated amount of time when it is read from a message queue. As long as the amount of time it takes to process the message is less than the visibility timeout, every message is processed and deleted.
+
+If the component processing of the message fails or becomes unavailable, the message again becomes visible to any component reading the message queue once the visibility timeout ends. This allows multiple components to read messages from the same message queue, each one working to process different messages.
+
+LEARN MORE: https://aws.amazon.com/sqs/faqs/
+
+***
+When you use the AWS Elastic Beanstalk console to deploy a new application or an application version, you'll need to upload a source bundle. Your source bundle must meet the following requirements:
+* Consist of a single ZIP file or WAR file (you can include multiple WAR files inside your ZIP file)
+* Not exceed 512 MB
+* Not include a parent folder or top-level directory (subdirectories are fine)
+
+LEARN MORE: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deployment.source.html
+
+***
+When you use the AWS Elastic Beanstalk console to deploy a new application or an application version, you’ll need to upload a source bundle. Your source bundle must meet the following requirements:
+* Consist of a single .zip file or .war file
+* Not exceed 512 MB
+* Not include a parent folder or top-level directory (subdirectories are fine)
+
+LEARN MORE: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deployment.source.html
+
+***
+The FIFO queue improves upon and complements the standard queue. The most important features of this queue type are FIFO (First-In-First-Out) delivery and exactly-once processing: The order in which messages are sent and received is strictly preserved and a message is delivered once and remains available until a consumer processes and deletes it; duplicates are not introduced into the queue. In addition, FIFO queues support message groups that allow multiple ordered message groups within a single queue.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html
+
+***
+*Amazon Simple Notification Service* (Amazon SNS) is a fast, flexible, and fully managed push messaging service. Amazon SNS makes it simple and cost-effective to push to mobile devices, such as iPhone, iPad, Android, Kindle Fire, and internet connected smart devices, as well as pushing to other distributed services.
+
+LEARN MORE: http://aws.amazon.com/sns
+
+***
+In Amazon SNS, you have the ability to send notification messages directly to apps on mobile devices. Notification messages sent to a mobile endpoint can appear in the mobile app as message alerts, badge updates, or even sound alerts. Microsoft Windows Mobile Messaging (MWMM) doesn’t exist and is not supported by Amazon SNS.
+
+LEARN MORE: http://docs.aws.amazon.com/sns/latest/dg/SNSMobilePush.html
+
+***
+A stack is the set of AWS resources that are created and managed as a single unit when AWS CloudFormation initiates a template.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/concept-stack.html
+
+***
+AWS Elastic Beanstalk will change the health status of a web server environment tier to gray color when your application is being updated.
+
+* Green - Your environment has passed the most recent health check. At least one instance in your environment is available and taking requests.
+* Yellow - Your environment has failed one or more health checks. Some requests to your environment are failing.
+* Red - Your environment has failed three or more health checks, or an environment resource has become unavailable. Requests are consistently failing.
+
+LEARN MORE: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.healthstatus.html
+
+***
+In Amazon SWF, at times you might want to record information in the workflow history of a workflow execution that is specific to your use case. Markers enable you to record information in the workflow execution history that you can use for any custom or scenario-specific purpose.
+
+LEARN MORE: http://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-adv.html
+
+***
+The maximum number of AWS CloudFormation stacks that you can create is 200 stacks.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cloudformation-limits.html
+
+***
+To send push notifications to mobile devices using Amazon SNS and ADM, you need to obtain the following: Registration ID and Client secret. You do not need a device token for this specific method of sending push notifications.
+
+LEARN MORE: http://docs.aws.amazon.com/sns/latest/dg/SNSMobilePushPrereq.html
+
+***
+Authentication mechanisms are provided to ensure that messages stored in Amazon SQS queues are secured against unauthorized access. Only the AWS account owners can access the queues they create.
+
+Amazon SQS uses proven cryptographic methods to authenticate your identity, either through the use of your Access Key ID and request signature, or through the use of an X.509 certificate.
+
+LEARN MORE: https://aws.amazon.com/sqs/faqs/
+
+***
+When an instance terminates, Amazon EC2 uses the value of the DeleteOnTermination attribute for each attached Amazon EBS volume to determine whether to preserve or delete the volume.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html
+
+***
+AWS CloudFormation is an application management tool which provides application modeling, deployment, configuration, management and related activities. CloudFormation provides an easy way to create and delete the collection of related AWS resources and provision them in an orderly way.  AWS CloudFormation automates and simplifies the task of repeatedly and predictably creating groups of related resources that power the user’s applications. AWS CloudFront is a CDN; Elastic Beanstalk does quite a few of the required tasks. However, it is a PAAS which uses a ready AMI. AWS Elastic Beanstalk provides an environment to easily develop and run applications in the cloud.
+
+LEARN MORE: http://aws.amazon.com/cloudformation/
+
+***
+AWS Elastic Beanstalk web server environment tiers support applications developed in Java, PHP, .NET, Node.js, Python, and Ruby as well as different container types for each language. Worker environments are supported for all platforms except .NET.
+
+LEARN MORE: http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+
+***
+AWS CloudWatch supports the custom metrics. The user can always capture the custom data and upload the data to CloudWatch using CLI or APIs. The user can publish data to CloudWatch as single data points or as an aggregated set of data points called a statistic set using the command put-metric-data. It is recommended that when the user is having multiple data points per minute, he should aggregate the data so that it will minimize the number of calls to put-metric-data. In this case it will be single call to CloudWatch instead of 1000 calls if the data is aggregated.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/publishingMetrics.html
+
+***
+A dimension is a key-value pair used to uniquely identify a metric. CloudWatch treats each unique combination of dimensions as a separate metric. Thus, if the user is making 4 calls with the same metric name but a separate dimension, it will create 4 separate metrics.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/cloudwatch_concepts.html
+
+***
+To create an alarm on the estimated AWS usage charges, a user must enable monitoring of estimated AWS charges. This enables creating the metric data, which will be used to create a billing alarm. Once the estimated charges monitoring is enabled, the user cannot disable it. The user has to delete the alarms to stop receiving any notifications on billing.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/gs_monitor_estimated_charges_with_cloudwatch.html
+
+***
+Many organizations consider layered security to be a best practice for protecting network infrastructure. In the cloud, you can use a combination of Amazon VPC, implicit firewall rules at the hypervisor-layer, alongside network access control lists, security groups, host-based firewalls, and IDS/IPS systems to create a layered solution for network security. While security groups, NACLs and host-based firewalls meet the needs of many customers, if you're looking for defense in-depth, you should deploy a network-level security control appliance, and you should do so inline, where traffic is intercepted and analyzed prior to being forwarded to its final destination, such as an application server.
+
+Examples of inline threat protection technologies include the following:
+
+* Third-party firewall devices installed on Amazon EC2 instances (also known as soft blades)
+* Unified threat management (UTM) gateways
+* Intrusion prevention systems
+* Data loss management gateways
+* Anomaly detection gateways
+* Advanced persistent threat detection gateways
+
+LEARN MORE: https://d0.awsstatic.com/whitepapers/aws-security-best-practices.pdf
+
+***
+Amazon CloudWatch alarm watches a single metric over a time period the user specifies and performs one or more actions based on the value of the metric relative to a given threshold over a number of time periods. The state of the alarm will be OK for the whole day. When the user stops the instance for three periods the alarm may not receive the data, but since it was stopped only once the alarm is not disrupted and is still receiving data.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/AlarmThatSendsEmail.html
+
+***
+The user can disable or enable the CloudWatch alarm using the DisableAlarmActions and EnableAlarmActions APIs or the mon-disable-alarm-actions and mon-enable-alarm-actions commands.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/AlarmThatSendsEmail.html
+
+***
+AWS CloudWatch supports monitoring of the AWS estimated usage charges. You create an Amazon CloudWatch alarm that will monitor your estimated Amazon Web Services (AWS) charges. When you enable the monitoring of estimated charges for your AWS account, the estimated charges are calculated and sent several times daily to CloudWatch as metric data.
+
+LEARN MORE: http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/monitor_estimated_charges_with_cloudwatch.html
+
+***
+Encryption and Decryption
+
+AWS KMS uses symmetric key cryptography to perform encryption and decryption. Symmetric key cryptography uses the same algorithm and key to both encrypt and decrypt digital data. The unencrypted data is typically called plaintext whether it is text or not. The encrypted data is typically called ciphertext. 
+
+LEARN MORE: http://docs.aws.amazon.com/kms/latest/developerguide/crypto_overview.html
+
+***
+The AWS Key Management Service (AWS KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data. AWS KMS is integrated with other AWS services including Amazon EBS, Amazon S3, Amazon Redshift, Elastic Transcoder, Amazon WorkMail, and Amazon RDS to make it simple to encrypt your data with encryption keys that you manage. AWS KMS is also integrated with AWS CloudTrail to provide you with key usage logs to help meet your regulatory and compliance needs.
+
+AWS KMS currently supports only symmetric (private) key cryptography.
+
+LEARN MORE: http://docs.aws.amazon.com/kms/latest/developerguide/crypto-intro.html
+
+***
+Amazon CloudWatch can monitor AWS resources such as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances, as well as custom metrics generated by your applications and services, and any log files your applications generate. You can use Amazon CloudWatch to gain system-wide visibility into resource utilization, application performance, and operational health. You can use these insights to react and keep your application running smoothly.
+
+LEARN MORE: http://aws.amazon.com/cloudwatch/
+
+***
+DomainKeys Identified Mail (DKIM) is a standard that allows senders to sign their email messages and ISPs, and use those signatures to verify that those messages are legitimate and have not been modified by a third party in transit.
+
+LEARN MORE: http://docs.aws.amazon.com/ses/latest/DeveloperGuide/dkim.html
+
+***
+Key pairs consist of a public and private key, where you use the private key to create a digital signature, and then AWS uses the corresponding public key to validate the signature. Key pairs are used only for Amazon EC2 and Amazon CloudFront.
+
+LEARN MORE: http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+***
+These services are designed to complement each other. AWS Elastic Beanstalk provides an environment to easily deploy and run applications in the cloud. It is integrated with developer tools and provides a one-stop experience for you to manage the lifecycle of your applications. AWS CloudFormation is a convenient provisioning mechanism for a broad range of AWS resources. It supports the infrastructure needs of many different types of applications such as existing enterprise applications, legacy applications, applications built using a variety of AWS resources and container-based solutions (including those built using AWS Elastic Beanstalk).
+
+AWS CloudFormation supports Elastic Beanstalk application environments as one of the AWS resource types. This allows you, for example, to create and manage an AWS Elastic Beanstalk–hosted application along with an RDS database to store the application data. In addition to RDS instances, any other supported AWS resource can be added to the group as well.
+
+LEARN MORE: https://aws.amazon.com/cloudformation/faqs/
+
+***
+You grant AWS Lambda permission to access a DynamoDB Stream using an IAM role known as the “execution role”. 
+
+LEARN MORE: http://docs.aws.amazon.com/lambda/latest/dg/intro-permission-model.html
+
+***
+Third-party software support is available only to AWS Support customers enrolled for Business or Enterprise Support. Third-party support applies only to software running on Amazon EC2 and does not extend to assisting with on-premises software. An exception to this is a VPN tunnel configuration running supported devices for Amazon VPC.
+
+LEARN MORE: https://aws.amazon.com/premiumsupport/features/
+
+***
+Amazon Simple Queue Service (Amazon SQS) is a messaging queue service that handles message or workflows between other components in a system.
+
+Amazon SQS supports an unlimited number of queues, and 120,000 messages per queue for each user. Please be aware that Amazon SQS automatically deletes messages that have been in the queue for more than 14 days.
+
+LEARN MORE: http://aws.amazon.com/documentation/sqs/
+
+***
+The metric *PutRecord.Latency measures* the time taken per `PutRecord` operation, measured over the specified time period.
+Dimensions: StreamName
+
+Statistics: Minimum, Maximum, Average
+
+Units: Milliseconds
+
+LEARN MORE: http://docs.aws.amazon.com/kinesis/latest/dev/monitoring_with_cloudwatch.html
+
+***
+Amazon Simple Email Service (Amazon SES) is a highly scalable and cost-effective email-sending service for businesses and developers. Amazon SES eliminates the complexity and expense of building an in-house email solution or licensing, installing, and operating a third-party email service for this type of email communication.
+
+*Every Amazon SES sender has a unique set of sending limits*, which are calculated by Amazon SES on an ongoing basis:
+
+Sending quota — the maximum number of emails you can send in a 24-hour period.
+
+Maximum send rate — the maximum number of emails you can send per second.
+
+New Amazon SES users start in the Amazon SES sandbox, which is a test environment that has a sending quota of 1,000 emails per 24-hour period, at a maximum rate of 1 email per second..
+
+Sending limits are based on recipients rather than on messages. You can check your sending limits at any time by using the Amazon SES console.
+
+Note that if your email is detected to be of poor or questionable quality (e.g., high complaint rates, high bounce rates, spam, or abusive content), Amazon SES might temporarily or permanently reduce your permitted send volume, or take other action as AWS deems appropriate.
+
+LEARN MORE: https://aws.amazon.com/ses/faqs/
+
+***
+AWS CloudFormation supports Elastic Beanstalk application environments as one of the AWS resource types. This allows you, for example, to create and manage an AWS Elastic Beanstalk–hosted application along with an RDS database to store the application data. In addition to RDS instances, any other supported AWS resource can be added to the group as well.
+
+LEARN MORE: http://aws.amazon.com/cloudformation/faqs/
+
+***
+This is the complete list of CloudFormation Helper Scripts: cfn-init, cfn-signal, cfn-get-metadata, cfn-hup
+
+LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-helper-scripts-reference.html
+
+***
+Event selectors allow you to add a level of customization to the type of API requests you want the corresponding trail to capture, such as the types of events (Management or Data).
+
+LEARN MORE: http://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-management-and-data-events-with-cloudtrail
+
+***
+The CloudTrail Processing Library is a Java library that provides an easy way to process AWS CloudTrail logs in a fault-tolerant, scalable and flexible way. 
+You provide configuration details about your CloudTrail SQS queue and write code to process events. The CloudTrail Processing Library does the rest, polling your Amazon SQS queue, reading and parsing queue messages, downloading CloudTrail log files, parsing events in the log files and passing them to your code as Java objects. The CloudTrail Processing Library is highly scalable and fault-tolerant, handling parallel processing of log files so that you can process as many logs as necessary, and robustly handling network failures related to network timeouts and inaccessible resources.
+
+LEARN MORE: http://docs.aws.amazon.com/awscloudtrail/latest/userguide/using_processing_lib.html
+
+***
+In AWS CloudFormation, to check the operational validity, you need to attempt to create the stack. There is no sandbox or test area for AWS CloudFormation stacks, so you are charged for the resources you create during testing.
+
+LEARN MORE: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-validate-template.html
+
+***
