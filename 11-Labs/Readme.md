@@ -11,5 +11,14 @@
 * Bastion Host example
 * Reuse of Key-Pairs
 
-1. Lab []()
+1. Lab [hands-cloudformation-deploy-scalability](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
+[GitHub repo](https://github.com/cloudacademy/dynamo-demo)
+
+```json
+![](hands-cloudformation-deploy-scalability-final-template.template.json)
+```
+
+Maxito 
+
+1. Lab []()
