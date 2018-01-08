@@ -70,6 +70,8 @@ Max Aldunate
 ### 98. Exam Preps. Solutions Architect Learning Path
 * [Steps 7, 14 and 22 of 31](98-exam-preps/07.14.22-of-31-2017-exam-prep/Readme.md)
 * [Steps 28 of 31](98-exam-preps/28-of-31-2017-exam-primer/Readme.md)
+* [Bookmarks first time](98-exam-preps/BookMarksFirstTime.md)
+* [Bookmarks first time](98-exam-preps/BookMarksFinal.md)
 
 ### 99. Side Notes
 * [Console vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
@@ -82,3 +84,5 @@ Max Aldunate
 * [Icons](resources/icons)
 * [Certificates](resources/certificates)
 * [Aws CF Templates](resources/aws-template-samples)
+* [Bookmarks first time](resources/BookMarks.MD)
+
