@@ -13,10 +13,7 @@
 
 1. Lab [hands-cloudformation-deploy-scalability](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
-[GitHub repo](https://github.com/cloudacademy/dynamo-demo)
-
-{% include hands-cloudformation-deploy-scalability-final-template.template.json %}
-
-Maxito 
+* [GitHub repo](https://github.com/cloudacademy/dynamo-demo)
+* [CloudFormation json template](hands-cloudformation-deploy-scalability-final-template.template.json)
 
 1. Lab []()
