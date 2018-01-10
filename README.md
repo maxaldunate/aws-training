@@ -72,6 +72,8 @@ Max Aldunate
 * [Steps 28 of 31](98-exam-preps/28-of-31-2017-exam-primer/Readme.md)
 * [Bookmarks Study](98-exam-preps/BookMarksStudy.md)
 * [Bookmarks Exam](98-exam-preps/BookMarksExam.md)
+* [AWS Service Limits link](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+* [AWS Service Limits pdf](98-exam-preps/AWS-Service-Limits.pdf)
 
 ### 99. Side Notes
 * [Console vs CLI vs CF vs Terraform](99-sidenotes/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
