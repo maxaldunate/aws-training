@@ -65,6 +65,10 @@ Max Aldunate
 
 ### 11. [Miscellaneous Labs](11-Labs) ![](resources/icons/labs.ico) 
 
+### 12. [Certifications Documents](12-Certifications-Docs)
+
+### 13. [Docs to Read](13-docs-to-read)
+
 ## EXAM PREPS & OTHER RESOURCES
 
 ### 98. Exam Preps. Solutions Architect Learning Path
