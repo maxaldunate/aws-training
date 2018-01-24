@@ -13,20 +13,20 @@ Max Aldunate
 
 ## [Miscellaneous Source](01-others)
 
-### DevOps on AWS: Deep Dive on Infrastructure as Code
+### * DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](01-others/devops-on-AWS.deep-dive-on-infrastructure-as-code)
 * [SlideShare](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
 
 ## [Aws](02-aws)
 
-### AWS Well-Architected Training 
+### * AWS Well-Architected Training 
 * [My Summary](02-aws/aws-well-architected-training)
 * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
 
 
 ## [Cloud Academy](03-cloud-academy)
 
-### Learning Path. ![](resources/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS
+### * Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS
 * [My Summary](03-cloud-academy/learning-paths-developer-associate-certification)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
 * 7 Video Courses
@@ -34,12 +34,12 @@ Max Aldunate
 * 14 Hands-On Labs
 * Duration 24h 0m
 
-### Course.  ![](resources/icons/courses.ico) Working with AWS's Domain Name System: Amazon Route 53
+### * Course.  ![](03-cloud-academy/icons/courses.ico) Working with AWS's Domain Name System: Amazon Route 53
 * [My Summary](03-cloud-academy/amazon-route53-dns-course)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/amazon-route53-dns-course/)
 * Duration 0h 40m
 
-### Learning Path. ![](resources/icons/learning-paths.ico) Solutions Architect – Associate Certification Preparation for AWS
+### * Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) Solutions Architect – Associate Certification Preparation for AWS
 * [My Summary](03-cloud-academy/learning-paths-architect-associate-certification)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/solutions-architect-associate-certification-preparation-for-aws-14/)
 * 8 Video Courses
@@ -47,25 +47,25 @@ Max Aldunate
 * 18 Hands-On Labs
 * Duration 31h 15m
 
-### Course. ![](resources/icons/courses.ico) How to Use CloudFormation for AWS Automation
+### * Course. ![](03-cloud-academy/icons/courses.ico) How to Use CloudFormation for AWS Automation
 * [My Summary](03-cloud-academy/how-to-use-cloudFormation-for-aws-automation)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/aws-automation-how-to-use-cloudformation-course/)
 * Duration 0h 20m
 
-### Course. ![](resources/icons/courses.ico) Advanced Use of AWS CloudFormation
+### * Course. ![](03-cloud-academy/icons/courses.ico) Advanced Use of AWS CloudFormation
 * [My Summary](03-cloud-academy/advanced-use-of-aws-cloudFormation)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/advanced-aws-cloudformation-course/)
 * Duration 2h 01m
 
-### Lab. ![](resources/icons/labs.ico) Hands-on CloudFormation for deploy scalability
+### * Lab. ![](03-cloud-academy/icons/labs.ico) Hands-on CloudFormation for deploy scalability
 * [My Summary](03-cloud-academy/Hands-on-CloudFormation-for-deploy-scalability)
 * [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
 
-### Course. ![](resources/icons/courses.ico) Getting Started With Chef
+### * Course. ![](03-cloud-academy/icons/courses.ico) Getting Started With Chef
 * [My Summary](03-cloud-academy/getting-started-chef-course)
 * [Cloudacademy](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
 
-### Learning Path. ![](resources/icons/learning-paths.ico) AWS Cloud Management Tools
+### * Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) AWS Cloud Management Tools
 * [My Summary](03-cloud-academy/learning-paths-aws-cloud-management-tools)
 * [Cloudacademy](https://cloudacademy.com/learning-paths/aws-cloud-management-tools-60/)
 * 5 Video Courses
@@ -73,7 +73,7 @@ Max Aldunate
 * 5 Hands-On Labs
 * Duration 11h 51m
 
-### [Miscellaneous Labs](03-cloud-academy/11-Labs) ![](resources/icons/labs.ico) 
+### * [Miscellaneous Labs](03-cloud-academy/Labs) ![](03-cloud-academy/icons/labs.ico) 
 
 
 ## [A Cloud Guru](04-a-cloud-guru)
@@ -84,11 +84,11 @@ Max Aldunate
 ## [Other Resources](05-other-resources)
 
 
-### [Certifications Documents](05-other-resources/Certifications-Docs)
+### * [Certifications Documents](05-other-resources/Certifications-Docs)
 
-### [Docs to Read](05-other-resources/docs-to-read)
+### * [Docs to Read](05-other-resources/docs-to-read)
 
-### Exam Preps. Solutions Architect Learning Path
+### * Exam Preps. Solutions Architect Learning Path
 * [Steps 7, 14 and 22 of 31](05-other-resources/exam-preps/07.14.22-of-31-2017-exam-prep/Readme.md)
 * [Steps 28 of 31](05-other-resources/exam-preps/28-of-31-2017-exam-primer/Readme.md)
 * [Bookmarks Study](05-other-resources/exam-preps/BookMarksStudy.md)
@@ -96,7 +96,7 @@ Max Aldunate
 * [AWS Service Limits link](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
 * [AWS Service Limits pdf](05-other-resources/exam-preps/AWS-Service-Limits.pdf)
 
-### Resources & Notes
+### * Resources & Notes
 * [Console vs CLI vs CF vs Terraform](05-other-resources/resources/AWS.-Console-vs-CLI-vs-CloudFormation-vs-SDK-vs-Terraform.md)
 * [CIDR examples](05-other-resources/resources/CIDR-Examples.md)
 * [Instance Metadata](05-other-resources/resources/Instance-Metadada.md)
