@@ -35,3 +35,46 @@
 * ar console/metrics and now can see mem and disk are availables
 
 ## Sending log files to CloudWatch
+* export logs to tools such as 'Athena' or 'Splunk'
+* that tools are analytic, but CloudWatch is collection data tool
+* with autoscaling you need to launch ec2 instances with cloudwatch enable by default
+* Steps
+  * add policy 'CW log full access' to IAM Role
+  * on ec2 install aws log package
+  * put service on at satart up
+  * push logs to correct region
+  * `$ cd /etc/awslogs`
+  * `$ cat awscli.conf` default region
+  * console CW/logs (default /var/messages/)
+  * Add apache logs
+    - `sudo su`
+    - `cd /var/log/http`
+    - `ll`
+    - `cd /etc/awslogs`
+    - `ll`
+    - `nano awslogs.conf` (select files to push)
+    - Add names you want
+  * console CW/log we have the new file
+  * add httpd access_log
+* Expire event (on console)
+* Push to S3
+
+## Alarms
+* set upper or lower limit ie. Tolerance
+* Stepts to create alarm with HC
+  - create a file html to health check
+  - goes Route53/health-checks/create
+  - get notified no
+  - see healthcheckers Tab
+  - create an Alarm inAlarm Tab (SNS)
+  - Conclusion: You create the alarm not via CloudWatch
+* Create Alarm on CW
+  - Console CloudWatch/Alarms/Create Alarm
+  - Add custom metric, instance, disk space used
+  - Period: 1 min, 5, 15, 1 hour, 6, 24
+  - Type average, min, max, sum
+  - missing data (info box)
+  - notification list
+* Add another alarm CPU utilization
+
+
