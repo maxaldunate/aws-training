@@ -2,11 +2,11 @@
 
 ### Domain 1. High Availability and Business Continuity
 
-*
+1.
 ![](Screenshot%20from%202018-02-01%2020-45-04.png)  
-*
+1.
 ![](Screenshot%20from%202018-02-01$2020-47-04.png)  
-*
+1.
 ![](Screenshot%20from%202018-02-01$2020-58-58.png)
 
 * ![](Screenshot%20from%202018-02-01$2021-04-44.png)  
