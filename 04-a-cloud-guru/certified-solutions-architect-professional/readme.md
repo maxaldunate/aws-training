@@ -1,9 +1,13 @@
-## Certified Solutions Architect Professional
+# Certified Solutions Architect Professional
 
 ### Domain 1. High Availability and Business Continuity
 
 ![](domain1-ha-and-bc/Screenshot%20from%202018-02-01%2020-45-04.png)
+
+
 ![](domain1-ha-and-bc/Screenshot%20from%202018-02-01$2020-47-04.png)
+
+
 ![](domain1-ha-and-bc/Screenshot%20from%202018-02-01$2020-58-58.png)
 ![](domain1-ha-and-bc/Screenshot%20from%202018-02-01$2021-04-44.png)
 ![](domain1-ha-and-bc/Screenshot%20from%202018-02-01$2021-07-15.png)
@@ -99,10 +103,12 @@
 
 ### Domain 2. Costing and Account Management
 
-![](domain2-costing-and-acc-mgmnt/dir.txt)
+* policy.json
 ![](domain2-costing-and-acc-mgmnt/polcy.json)
+* role.json
 ![](domain2-costing-and-acc-mgmnt/role.json)
 
+* Slides
 ![](domain2-costing-and-acc-mgmnt/Screenshot%20from$202018-02-04$2012-33-05.png)
 ![](domain2-costing-and-acc-mgmnt/Screenshot%20from$202018-02-04$2013-30-42.png)
 ![](domain2-costing-and-acc-mgmnt/Screenshot%20from$202018-02-04$2013-30-54.png)
