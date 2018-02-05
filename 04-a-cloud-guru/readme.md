@@ -4,15 +4,15 @@
 
 ## AWS Certification Exam Prep Guide
 * [Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
-* [My Summary](aws-certification-exam-prep-guide/readme.md)
+* [My Summary](aws-certification-exam-prep-guide)
 
 ## Certified Solutions Architect - Associate 2018
 * [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
-* [My Summary](certified-solutions-architect-associate-2018/readme.md)
+* [My Summary](certified-solutions-architect-associate-2018)
 
 ## Certified Solutions Architect - Professional
 * [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
-* [My Summary](certified-solutions-architect-professional/readme.md)
+* [My Summary](certified-solutions-architect-professional)
 
 
 ### Pending
