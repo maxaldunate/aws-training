@@ -2,12 +2,6 @@
 
 ### Domain 2. Costing and Account Management
 
-![](Screenshot%20from$202018-02-04%2012-33-05.png?raw=true)
-
-* policy.json
-![](polcy.json)
-* role.json
-![](role.json)
 
 * Slides
 ![](Screenshot%20from$202018-02-04%2012-33-05.png?raw=true)
@@ -96,3 +90,9 @@
 ![](Screenshot%20from$202018-02-04%2020-51-23.png?raw=true)
 ![](Screenshot%20from$202018-02-04%2020-54-29.png?raw=true)
 ![](Screenshot%20from$202018-02-04%2020-57-53.png?raw=true)
+
+
+* policy.json
+![](polcy.json)
+* role.json
+![](role.json)
