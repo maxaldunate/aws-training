@@ -2,6 +2,50 @@
 
 ### Domain 2. Costing and Account Management
 
+* policy.json
+```javascript
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "s3:ListAllMyBuckets",
+      "Resource": "arn:aws:s3:::*"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:ListBucket",
+        "s3:GetBucketLocation"
+       ],
+      "Resource": "arn:aws:s3:::productionapp"
+    },
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": "arn:aws:s3:::productionapp/*"
+    }
+  ]
+}
+```
+
+* role.json
+```javascript
+{
+  "Version": "2012-10-17",
+  "Statement": {
+    "Effect": "Allow",
+    "Action": "sts:AssumeRole",
+    "Resource": "arn:aws:iam::PRODUCTION-ACCOUNT-ID:role/MyDevelopersAccess"
+  }
+}
+```
+
+* Slides  
 ![](Screenshot%20from%202018-02-04%2012-33-05.png?raw=true)  
 ![](Screenshot%20from%202018-02-04%2013-30-42.png?raw=true)  
 ![](Screenshot%20from%202018-02-04%2013-30-54.png?raw=true)  
@@ -91,7 +135,3 @@
 
 
 
-* policy.json
-![](polcy.json)
-* role.json
-![](role.json)
