@@ -1,7 +1,8 @@
+<a id="top" />
 # Certified Solutions Architect - Associate 2018
 [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
-## Content <a id="top"></a>
+## Content
 
 * [Summaries & Exam Tips](#summ)
 * [Overview of AWS Whitepapers](#overview-of-aws-whitepapers)
@@ -174,8 +175,8 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 ---
 
-### Overview of AWS Whitepapers <a align="right" href="#top">Content</a>
-[Top](#top)
+### Overview of AWS Whitepapers 
+<a align="right" href="#top">Content</a>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ---
