@@ -9,6 +9,12 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 
 - Max Aldunate
 
+
+## 4. A Cloud Guru
+* [My Summary](04-a-cloud-guru/readme.md)
+* [A Cloud Guru Website](https://acloud.guru/)
+
+
 ## 1. Miscellaneous Source
 
 ### DevOps on AWS: Deep Dive on Infrastructure as Code
@@ -72,12 +78,6 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 * Duration 11h 51m
 
 ### Miscellaneous Labs ![](03-cloud-academy/icons/labs.ico) [Link to folder](03-cloud-academy/Labs)
-
-
-## 4. A Cloud Guru
-
-
-
 
 ## 5. Other Resources
 
