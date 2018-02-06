@@ -3,17 +3,16 @@
 [Dashboard](https://acloud.guru/dashboard)
 
 ## AWS Certification Exam Prep Guide
-* [Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
 * [My Summary](aws-certification-exam-prep-guide)
+* [Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
 
 ## Certified Solutions Architect - Associate 2018
-* [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 * [My Summary](certified-solutions-architect-associate-2018)
+* [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
 ## Certified Solutions Architect - Professional
-* [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 * [My Summary](certified-solutions-architect-professional)
-
+* [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
 ### Pending
 * [Application Load Balancer](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
