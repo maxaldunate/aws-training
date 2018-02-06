@@ -177,7 +177,7 @@
 ---
 
 ### Overview of AWS Whitepapers 
-<a align="right" href="#top">Top</a>
+<p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ---
@@ -299,16 +299,16 @@
 ---
 
 
-
 ### <a id="waf"></a>Well Architected Framework
+<p align="right"><a href="#top">Top</a></p>
 well-architected-framework/
-[Top](#top)
 
 ### <a id="tips"></a>Additional Exam Tips
+<p align="right"><a href="#top">Top</a></p>
 additional-exam-tips/
-[Top](#top)
 
 ### <a id="soon"></a>Thank You, Good Luck & Coming Soon
+<p align="right"><a href="#top">Top</a></p>
 coming-soon/
-[Top](#top)
+
 
