@@ -1,5 +1,7 @@
 # Certified Solutions Architect - Associate 2018
 
+[a](#overview-of-aws-whitepapers)
+
 ## Content
 
 * [Summaries & Exam Tips](#summ)
