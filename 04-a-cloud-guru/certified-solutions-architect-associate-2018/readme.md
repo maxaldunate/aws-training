@@ -97,7 +97,7 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 
 
-### <a name="whitepapers"></a>Overview of AWS Whitepapers
+### <a id="whitepapers"></a>Overview of AWS Whitepapers
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-58.png)
