@@ -1,7 +1,7 @@
 # Certified Solutions Architect - Associate 2018
 [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
-## Content
+## Content <a id="top"></a>
 
 * [Summaries & Exam Tips](#summ)
 * [Overview of AWS Whitepapers](#overview-of-aws-whitepapers)
@@ -11,6 +11,7 @@
 
 ### <a id="summ"></a>Summaries & Exam Tips 
 ### IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
+[Top](#top)
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-07-28.png)
 ---
@@ -174,6 +175,7 @@
 ---
 
 ### Overview of AWS Whitepapers
+[Top](#top)
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ---
@@ -298,9 +300,13 @@
 
 ### <a id="waf"></a>Well Architected Framework
 well-architected-framework/
+[Top](#top)
 
 ### <a id="tips"></a>Additional Exam Tips
 additional-exam-tips/
+[Top](#top)
 
 ### <a id="soon"></a>Thank You, Good Luck & Coming Soon
 coming-soon/
+[Top](#top)
+
