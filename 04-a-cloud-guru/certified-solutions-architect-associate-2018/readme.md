@@ -1,18 +1,16 @@
 # Certified Solutions Architect - Associate 2018
 
-[a](#overview-of-aws-whitepapers)
-
 ## Content
 
 * [Summaries & Exam Tips](#summ)
-* [Overview of AWS Whitepapers](#whitepapers)
+* [Overview of AWS Whitepapers](#overview-of-aws-whitepapers)
 * [Well Architected Framework](#waf)
 * [Additional Exam Tips](#tips)
 * [Thank You, Good Luck & Coming Soon](#soon)
 
 
 
-### <a name="summ"></a>Summaries & Exam Tips 
+### <a id="summ"></a>Summaries & Exam Tips 
 ### IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-07-28.png)
@@ -97,7 +95,7 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 
 
-### <a id="whitepapers"></a>Overview of AWS Whitepapers
+### Overview of AWS Whitepapers
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-58.png)
@@ -160,11 +158,11 @@
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-19-55.png)
 
 
-### <a name="waf"></a>Well Architected Framework
+### <a id="waf"></a>Well Architected Framework
 well-architected-framework/
 
-### <a name="tips"></a>Additional Exam Tips
+### <a id="tips"></a>Additional Exam Tips
 additional-exam-tips/
 
-### <a name="soon"></a>Thank You, Good Luck & Coming Soon
+### <a id="soon"></a>Thank You, Good Luck & Coming Soon
 coming-soon/
