@@ -10,8 +10,7 @@
 
 
 
-(#summ)
-### Summaries & Exam Tips 
+### <a name="summ"></a>Summaries & Exam Tips 
 ### IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-07-28.png)
@@ -95,8 +94,8 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-06.png)
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 
-(#whitepapers)
-### Overview of AWS Whitepapers
+
+### <a name="whitepapers"></a>Overview of AWS Whitepapers
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-58.png)
@@ -159,14 +158,11 @@
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-19-55.png)
 
 
-(#waf)
-### Well Architected Framework
+### <a name="waf"></a>Well Architected Framework
 well-architected-framework/
 
-(#tips)
-### Additional Exam Tips
+### <a name="tips"></a>Additional Exam Tips
 additional-exam-tips/
 
-(#soon)
-### Thank You, Good Luck & Coming Soon
+### <a name="soon"></a>Thank You, Good Luck & Coming Soon
 coming-soon/
