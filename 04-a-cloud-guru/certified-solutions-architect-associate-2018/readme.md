@@ -1,5 +1,16 @@
 # Certified Solutions Architect - Associate 2018
 
+## Content
+
+* [Summaries & Exam Tips](#summ)
+* [Overview of AWS Whitepapers](#whitepapers)
+* [Well Architected Framework](#waf)
+* [Additional Exam Tips](#tips)
+* [Thank You, Good Luck & Coming Soon](#soon)
+
+
+
+(#summ)
 ### Summaries & Exam Tips 
 ### IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
 
@@ -84,7 +95,7 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-06.png)
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 
-
+(#whitepapers)
 ### Overview of AWS Whitepapers
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
@@ -148,11 +159,14 @@
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-19-55.png)
 
 
+(#waf)
 ### Well Architected Framework
 well-architected-framework/
 
+(#tips)
 ### Additional Exam Tips
 additional-exam-tips/
 
+(#soon)
 ### Thank You, Good Luck & Coming Soon
 coming-soon/
