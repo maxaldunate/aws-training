@@ -174,7 +174,7 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 ---
 
-### Overview of AWS Whitepapers
+### Overview of AWS Whitepapers <a align="right" href="#top">Content</a>
 [Top](#top)
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
