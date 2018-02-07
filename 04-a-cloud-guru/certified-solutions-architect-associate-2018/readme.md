@@ -20,7 +20,7 @@
   * [Storage Options in the Cloud WP](#wp-storage)
   * [Architecting for the Cloud Best Practices WP](#wp-architecting)
   * [Exam Practicalities](#wp-exam)
-  * [Mega Quizz](#wp-exam)
+  * [Mega Quizz](#wp-mega-quizz)
 
 * [Well Architected Framework](#waf)
   * [Pillar One. Security](#waf-security)
@@ -30,6 +30,10 @@
 * [Additional Exam Tips](#tips)
 * [Thank You, Good Luck & Coming Soon](#soon)
 
+---
+
+
+===
 
 <a id="summ"></a>
 
@@ -381,7 +385,7 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-19-55.png)
 
-<a id="wp-exam"></a>
+<a id="wp-mega-quizz"></a>
 
 ### Mega Quizz 
 <p align="right"><a href="#top">Top</a></p>
