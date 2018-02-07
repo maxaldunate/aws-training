@@ -1,4 +1,5 @@
 <a id="top" />
+
 # Certified Solutions Architect - Associate 2018
 [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
@@ -330,8 +331,6 @@
 ### <a id="waf"></a>Well Architected Framework
 <p align="right"><a href="#top">Top</a></p>
 
-![](well-architected-framework/Screenshot%20from%202018-02-06%2020-01-51.png)
----
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-02-16.png)
 ---
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-03-28.png)
