@@ -1,5 +1,4 @@
 <a id="top" />
-
 # Certified Solutions Architect - Associate 2018
 [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
@@ -13,7 +12,7 @@
 
 ### <a id="summ"></a>Summaries & Exam Tips 
 ### IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
-[Top](#top)
+<p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-07-28.png)
 ---
@@ -301,7 +300,91 @@
 
 ### <a id="waf"></a>Well Architected Framework
 <p align="right"><a href="#top">Top</a></p>
-well-architected-framework/
+
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-01-51.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-02-16.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-03-28.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-03-59.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-04-31.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-08-28.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-08-39.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-11-13.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-11-16.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-13-08.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-13-24.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-15-17.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-16-35.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-17-02.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-17-09.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-19-07.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-19-33.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-21-57.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-22-12.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-23-14.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-24-53.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-25-25.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-26-07.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-26-36.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-27-22.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-27-32.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-39-29.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-40-25.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-41-05.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-42-30.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-44-02.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-44-47.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-44-59.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-46-53.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-47-07.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-47-56.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-48-57.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-49-20.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-06%2020-49-52.png)
+---
+
+
+
+
+
+
 
 ### <a id="tips"></a>Additional Exam Tips
 <p align="right"><a href="#top">Top</a></p>
