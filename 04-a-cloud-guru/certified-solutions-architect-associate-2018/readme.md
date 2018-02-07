@@ -31,15 +31,15 @@
 * [Thank You, Good Luck & Coming Soon](#soon)
 
 
+<a id="summ"></a>
 
-
-
-## <a id="summ"></a>Summaries & Exam Tips 
+## Summaries & Exam Tips 
 ## IAM, Storage, EC2, DND [Route53], Databases, VPC, SQS, SWF, SNS & Kinesis
 <p align="right"><a href="#top">Top</a></p>
 
+<a id="summ-iam"></a>
 
-### IAM <a id="summ-iam"></a>
+### IAM 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-07-28.png)
@@ -50,7 +50,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-08-01.png)
 
-### Storage <a id="summ-storage"></a>
+<a id="summ-storage"></a>
+
+### Storage 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-08-36.png)
@@ -89,7 +91,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-13-37.png)
 
-### EC2 <a id="summ-ec2"></a>
+<a id="summ-ec2"></a>
+
+### EC2 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-14-05.png)
@@ -130,7 +134,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-18-09.png)
 
-### DNS - Rote 53 <a id="summ-route53"></a>
+<a id="summ-route53"></a>
+
+### DNS - Rote 53 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-19-10.png)
@@ -139,7 +145,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-19-29.png)
 
-### Databases <a id="summ-ddbb"></a>
+<a id="summ-ddbb"></a>
+
+### Databases 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-20-42.png)
@@ -162,7 +170,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-22-30.png)
 
-### VPC <a id="summ-vpc"></a>
+<a id="summ-vpc"></a>
+
+### VPC 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-23-10.png)
@@ -187,7 +197,9 @@
 ---
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-25-54.png)
 
-### Application. SQS. SWF. SNS. Elastic Transcoder. Kinesis <a id="summ-app"></a>
+<a id="summ-app"></a>
+
+### Application. SQS. SWF. SNS. Elastic Transcoder. Kinesis 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-26-17.png)
@@ -221,7 +233,9 @@
 ![](summaries-and-exam-tips/Screenshot%20from%202018-02-04%2021-29-24.png)
 ---
 
-## Overview of AWS Whitepapers <a id="wp"></a>
+<a id="wp"></a>
+
+## Overview of AWS Whitepapers 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-00-00.png)
@@ -240,7 +254,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-05-17.png)
 
-### Security <a id="wp-security"></a>
+<a id="wp-security"></a>
+
+### Security 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-08-11.png)
@@ -289,7 +305,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-37-06.png)
 
-### Risk & Compliance WP <a id="wp-risk"></a>
+<a id="wp-risk"></a>
+
+### Risk & Compliance WP 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-39-36.png)
@@ -302,7 +320,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-44-10.png)
 
-### Storage Options in the Cloud WP <a id="wp-storage"></a>
+<a id="wp-storage"></a>
+
+### Storage Options in the Cloud WP 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2017-45-59.png)
@@ -323,7 +343,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-03-20.png)
 
-### Architecting for the Cloud Best Practices WP <a id="wp-architecting"></a>
+<a id="wp-architecting"></a>
+
+### Architecting for the Cloud Best Practices WP 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-05-28.png)
@@ -344,7 +366,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-14-42.png)
 
-### Exam Practicalities <a id="wp-exam"></a>
+<a id="wp-exam"></a>
+
+### Exam Practicalities 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-16-43.png)
@@ -357,7 +381,9 @@
 ---
 ![](white-papers-overview/Screenshot%20from%202018-02-05%2018-19-55.png)
 
-### Mega Quizz <a id="wp-exam"></a>
+<a id="wp-exam"></a>
+
+### Mega Quizz 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](white-papers-overview/Screenshot03.png)
@@ -391,7 +417,9 @@
 ![](white-papers-overview/Screenshot17.png)
 ---
 
-## <a id="waf"></a>Well Architected Framework
+<a id="waf"></a>
+
+## Well Architected Framework
 <p align="right"><a href="#top">Top</a></p>
 
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-02-16.png)
@@ -404,7 +432,9 @@
 ---
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-08-28.png)
 
-### Pillar One. Security <a id="waf-security"></a>
+<a id="waf-security"></a>
+
+### Pillar One. Security 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-08-39.png)
@@ -443,7 +473,9 @@
 ---
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-26-36.png)
 
-### Pillar Two. Reliability <a id="waf-rel"></a>
+<a id="waf-rel"></a>
+
+### Pillar Two. Reliability 
 <p align="right"><a href="#top">Top</a></p>
 
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-27-22.png)
