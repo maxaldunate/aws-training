@@ -2,5 +2,4 @@
 
 ### [Domain 1. High Availability and Business Continuity](domain1-ha-and-bc/readme.md)
 ### [Domain 2. Costing and Account Management](domain2-costing-and-acc-mgmnt/readme.md)
-
-### Domain 3.
+### [Domain 3. Deployment Management](domain3-deployment-mgmnt/readme.md)
