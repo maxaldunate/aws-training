@@ -25,10 +25,15 @@
 * [Well Architected Framework](#waf)
   * [Pillar One. Security](#waf-security)
   * [Pillar Two. Reliability](#waf-rel)
-  * ... pending things ...
-  
+  * [Pillar Three. Performance Efficiency](#waf-performance)
+  * [Pillar Four. Cost Optimization](#waf-cost)
+  * [Pillar Five. Operational Excellence](#waf-operational)
+  * [Summary](#waf-summary)
+
 * [Additional Exam Tips](#tips)
+  * PENDING
 * [Thank You, Good Luck & Coming Soon](#soon)
+  * PENDING
 
 ---
 
@@ -512,18 +517,151 @@
 ![](well-architected-framework/Screenshot%20from%202018-02-06%2020-49-52.png)
 ---
 
+<a id="waf-performance"></a>
+
+### Pillar Three. Performance Efficiency 
+<p align="right"><a href="#top">Top</a></p>
+
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-28-21.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-28-29.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-33-49.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-34-46.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-34-50.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-38-59.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-39-06.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-40-09.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-41-38.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-41-44.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-43-36.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-43-40.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-43-58.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-45-05.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-48-49.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-49-21.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-50-15.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-50-27.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-50-33.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-08%2019-50-40.png)
 
 
+<a id="waf-cost"></a>
+
+### Pillar Four. Cost Optimization 
+<p align="right"><a href="#top">Top</a></p>
 
 
+![](well-architected-framework/Screenshot%20from%202018-02-09%2016-56-52.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2016-57-02.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-01-11.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-01-54.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-01-58.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-03-33.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-03-37.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-04-33.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-04-42.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-07-45.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-07-51.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-10-35.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-11-02.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-11-51.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-12-18.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-12-49.png)
+
+<a id="waf-operational"></a>
+
+### Pillar Five. Operational Excellence
+<p align="right"><a href="#top">Top</a></p>
+
+
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-17-18.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-17-38.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-20-57.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-21-51.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-22-00.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-23-11.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-23-33.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-24-18.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-24-28.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-25-15.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-26-04.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-26-44.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-26-50.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-27-55.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-29-23.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-29-37.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-30-14.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-30-34.png)
+---
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-31-42.png)
+---
+
+<a id="waf-summary"></a>
+
+### Summary
+<p align="right"><a href="#top">Top</a></p>
+
+![](well-architected-framework/Screenshot%20from%202018-02-09%2017-32-09.png)
+---
+Nothing to add!
 
 
 ## <a id="tips"></a>Additional Exam Tips
 <p align="right"><a href="#top">Top</a></p>
-additional-exam-tips/
+additional-exam-tips
 
 ## <a id="soon"></a>Thank You, Good Luck & Coming Soon
 <p align="right"><a href="#top">Top</a></p>
-coming-soon/
+coming-soon
 
 
