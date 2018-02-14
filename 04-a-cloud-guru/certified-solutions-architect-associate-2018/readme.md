@@ -5,6 +5,9 @@
 
 ## Content
 
+* [All Content Quizzes](#quizzies)
+
+
 * [Summaries & Exam Tips. IAM-S3-EC2-R53-RDS-VPC-SQS-SWF-SNS-Kinesis](#summ)
   * [IAM](#summ-iam)
   * [Storage](#summ-storage)
@@ -38,6 +41,15 @@
 ---
 
 ---
+
+<a id="quizzies"></a>
+
+## All Content Quizzes
+<p align="right"><a href="#top">Top</a></p>
+
+![](quizzies/Screenshot%20(18).png)
+---
+
 
 <a id="summ"></a>
 
