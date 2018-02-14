@@ -49,6 +49,52 @@
 
 ![](quizzies/Screenshot%20(18).png)
 ---
+![](quizzies/Screenshot%20(19).png)
+---
+![](quizzies/Screenshot%20(20).png)
+---
+![](quizzies/Screenshot%20(21).png)
+---
+![](quizzies/Screenshot%20(22).png)
+---
+![](quizzies/Screenshot%20(23).png)
+---
+![](quizzies/Screenshot%20(24).png)
+---
+![](quizzies/Screenshot%20(25).png)
+---
+![](quizzies/Screenshot%20(26).png)
+---
+![](quizzies/Screenshot%20(27).png)
+---
+![](quizzies/Screenshot%20(28).png)
+---
+![](quizzies/Screenshot%20(29).png)
+---
+![](quizzies/Screenshot%20(30).png)
+---
+![](quizzies/Screenshot%20(31).png)
+---
+![](quizzies/Screenshot%20(32).png)
+---
+![](quizzies/Screenshot%20(33).png)
+---
+![](quizzies/Screenshot%20(34).png)
+---
+![](quizzies/Screenshot%20(35).png)
+---
+![](quizzies/Screenshot%20(36).png)
+---
+![](quizzies/Screenshot%20(37).png)
+---
+![](quizzies/Screenshot%20(38).png)
+---
+![](quizzies/Screenshot%20(39).png)
+---
+![](quizzies/Screenshot%20(40).png)
+---
+![](quizzies/Screenshot%20(41).png)
+---
 
 
 <a id="summ"></a>
