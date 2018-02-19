@@ -146,27 +146,27 @@
 ### Using AWS Direct Connect
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2020-15-15.png)
+![](Screenshot%20from%202018-02-15%2020-15-15.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-16-09.png)
+![](Screenshot%20from%202018-02-15%2020-16-09.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-16-36.png)
+![](Screenshot%20from%202018-02-15%2020-16-36.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-17-56.png)
+![](Screenshot%20from%202018-02-15%2020-17-56.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-18-36.png)
+![](Screenshot%20from%202018-02-15%2020-18-36.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-20-03.png)
+![](Screenshot%20from%202018-02-15%2020-20-03.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-21-22.png)
+![](Screenshot%20from%202018-02-15%2020-21-22.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-23-59.png)
+![](Screenshot%20from%202018-02-15%2020-23-59.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-25-52.png)
+![](Screenshot%20from%202018-02-15%2020-25-52.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-26-37.png)
+![](Screenshot%20from%202018-02-15%2020-26-37.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-28-08.png)
+![](Screenshot%20from%202018-02-15%2020-28-08.png)
 ---
 
 <a id="hpc"></a>
@@ -174,21 +174,21 @@
 ### HPC
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2020-29-07.png)
+![](Screenshot%20from%202018-02-15%2020-29-07.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-29-19.png)
+![](Screenshot%20from%202018-02-15%2020-29-19.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-29-56.png)
+![](Screenshot%20from%202018-02-15%2020-29-56.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-32-23.png)
+![](Screenshot%20from%202018-02-15%2020-32-23.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-32-40.png)
+![](Screenshot%20from%202018-02-15%2020-32-40.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-33-24.png)
+![](Screenshot%20from%202018-02-15%2020-33-24.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-35-25.png)
+![](Screenshot%20from%202018-02-15%2020-35-25.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-36-54.png)
+![](Screenshot%20from%202018-02-15%2020-36-54.png)
 ---
 
 <a id="elb"></a>
@@ -196,27 +196,27 @@
 ### ELBs
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2020-37-59.png)
+![](Screenshot%20from%202018-02-15%2020-37-59.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-40-36.png)
+![](Screenshot%20from%202018-02-15%2020-40-36.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-41-18.png)
+![](Screenshot%20from%202018-02-15%2020-41-18.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-43-21.png)
+![](Screenshot%20from%202018-02-15%2020-43-21.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-44-45.png)
+![](Screenshot%20from%202018-02-15%2020-44-45.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-48-09.png)
+![](Screenshot%20from%202018-02-15%2020-48-09.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-51-19.png)
+![](Screenshot%20from%202018-02-15%2020-51-19.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-55-36.png)
+![](Screenshot%20from%202018-02-15%2020-55-36.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-57-12.png)
+![](Screenshot%20from%202018-02-15%2020-57-12.png)
 ---
-![(Screenshot%20from%202018-02-15%2020-59-50.png)
+![](Screenshot%20from%202018-02-15%2020-59-50.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-02-29.png)
+![](Screenshot%20from%202018-02-15%2021-02-29.png)
 ---
 
 
@@ -225,15 +225,15 @@
 ### Scaling NATs
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2021-03-48.png)
+![](Screenshot%20from%202018-02-15%2021-03-48.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-46-48.png)
+![](Screenshot%20from%202018-02-15%2021-46-48.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-48-19.png)
+![](Screenshot%20from%202018-02-15%2021-48-19.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-48-45.png)
+![](Screenshot%20from%202018-02-15%2021-48-45.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-49-12.png)
+![](Screenshot%20from%202018-02-15%2021-49-12.png)
 ---
 
 
@@ -242,23 +242,23 @@
 ### Domain 4 - Wrap Up
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2021-49-45.png)
+![](Screenshot%20from%202018-02-15%2021-49-45.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-50-15.png)
+![](Screenshot%20from%202018-02-15%2021-50-15.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-52-03.png)
+![](Screenshot%20from%202018-02-15%2021-52-03.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-52-42.png)
+![](Screenshot%20from%202018-02-15%2021-52-42.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-53-13.png)
+![](Screenshot%20from%202018-02-15%2021-53-13.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-53-48.png)
+![](Screenshot%20from%202018-02-15%2021-53-48.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-54-49.png)
+![](Screenshot%20from%202018-02-15%2021-54-49.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-55-10.png)
+![](Screenshot%20from%202018-02-15%2021-55-10.png)
 ---
-![(Screenshot%20from%202018-02-15%2021-56-10.png)
+![](Screenshot%20from%202018-02-15%2021-56-10.png)
 ---
 
 <a id="d4quiz"></a>
@@ -266,21 +266,21 @@
 ### Domain 4 Quiz
 <p align="right"><a href="#top">Top</a></p>
 
-![(Screenshot%20from%202018-02-15%2022-01-55.png)
+![](Screenshot%20from%202018-02-15%2022-01-55.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-02-27.png)
+![](Screenshot%20from%202018-02-15%2022-02-27.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-02-46.png)
+![](Screenshot%20from%202018-02-15%2022-02-46.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-03-39.png)
+![](Screenshot%20from%202018-02-15%2022-03-39.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-04-04.png)
+![](Screenshot%20from%202018-02-15%2022-04-04.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-04-20.png)
+![](Screenshot%20from%202018-02-15%2022-04-20.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-06-40.png)
+![](Screenshot%20from%202018-02-15%2022-06-40.png)
 ---
-![(Screenshot%20from%202018-02-15%2022-06-45.png)
+![](Screenshot%20from%202018-02-15%2022-06-45.png)
 ---
 
 
