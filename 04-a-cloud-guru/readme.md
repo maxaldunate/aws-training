@@ -15,7 +15,7 @@
 * [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
 ## 4. Create a Serverless Portfolio with AWS and React
-* [My Summary](04-serverless-portfolio)
+* [My Summary](04-serverless-portfolio/readme.md)
 * [Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
 
 
