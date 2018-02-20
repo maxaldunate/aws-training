@@ -3,6 +3,14 @@ Learning Path
 
 ## [Developer - Associate Certification Preparation for AWS](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
 
+
+* Links
+  - [GitHub - cloudacademy/aws-developer-fundamentals](https://github.com/cloudacademy/aws-developer-fundamentals)
+  - [GitHub - cloudacademy/cloudformation-jsonschema](https://github.com/cloudacademy/cloudformation-jsonschema)
+  - [GitHub - cloudacademy/cloudformation-lab](https://github.com/cloudacademy/cloudformation-lab)
+  - [GitHub - cloudacademy/advanced-use-of-cloudformation](https://github.com/cloudacademy/advanced-use-of-cloudformation)
+
+
 * 1
 ![](../resources/icons/courses.ico)
 Course. [Certified Developer for AWS - Foundations](https://cloudacademy.com/amazon-web-services/certified-developer-foundations-course/)
