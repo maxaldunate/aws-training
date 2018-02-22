@@ -1,7 +1,7 @@
 # A Cloud Guru Courses
 
 | Course Name | Hours | Link | State |
-| --- | --- | --- | --- |
+| :--- | ---: | --- | :---: |
 | AWS Certification Exam Prep Guide | 2,5 | [Link](https://acloud.guru/course/aws-certification-preparation/dashboard) | Falta 42" Bonus Learning Efferctively |
 | Certified Solutions Architect - Associate 2018 | 18,5 | [Link](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard) | Falta. Edditional Exam Tips |
 | Certified Solutions Architect - Professional | 12 | [Link](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard) | Done |
