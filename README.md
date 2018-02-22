@@ -29,7 +29,7 @@ Max Aldunate
 <a id="cloudacademy"></a>
 
 ## On Cloud Academy
-* [My Summary](03-cloud-academy/readme.md)
+* [My Summary](cloud-academy/readme.md)
 * [Cloud Academy Website](https://cloudacademy.com/)
 
 <p align="right"><a href="#top">Top</a></p>
