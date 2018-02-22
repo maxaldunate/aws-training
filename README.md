@@ -17,21 +17,22 @@ Max Aldunate
 * [On A Cloud Guru](#acloudguru)
 * [Other Resources](#other)
 
-
 <a id="aws"></a>
 
 ## On Aws
 <p align="right"><a href="#top">Top</a></p>
 
-### AWS Well-Architected Training 
-* [My Summary](02-aws/aws-well-architected-training)
-* [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
+* AWS Well-Architected Training 
+  * [My Summary](02-aws/aws-well-architected-training)
+  * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
+
+<p align="right"><a href="#top">Top</a></p>
 
 <a id="cloudacademy"></a>
 
 ## On Cloud Academy
 * [My Summary](03-cloud-academy/readme.md)
-* [A Cloud Guru Website](https://cloudacademy.com/)
+* [Cloud Academy Website](https://cloudacademy.com/)
 
 <p align="right"><a href="#top">Top</a></p>
 
@@ -74,3 +75,4 @@ Max Aldunate
 * [Labs Diagrams](05-other-resources/resources/aws-diagrams)
 * [Aws Icons](https://aws.amazon.com/architecture/icons/)
 
+The End
