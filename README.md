@@ -1,10 +1,10 @@
-<a id="top" />
 # AWS Training
+<a id="top" />
 
 This is my personal summary in the way to take AWS Certifications. I learn mainly from:
-* [Cloudac Ademy](https://cloudacademy.com).
-* [A Cloud Guru](https://acloud.guru/)
-* [AWS Training and Certiﬁcation](https://www.aws.training/)
+* [Cloudac Ademy Site](https://cloudacademy.com).
+* [A Cloud Guru Site](https://acloud.guru/)
+* [AWS Training and Certiﬁcation Site](https://www.aws.training/)
 
 Open an account at [AWS](https://aws.amazon.com/) making almost everything with the [Free Tier](https://aws.amazon.com/free/?sc_channel=PS&sc_campaign=acquisition_ES&sc_publisher=google&sc_medium=english_cloud_computing_b&sc_content=aws_free_e&sc_detail=aws%20free%20tier&sc_category=cloud_computing&sc_segment=188901415348&sc_matchtype=e&sc_country=ES&s_kwcid=AL!4422!3!188901415348!e!!g!!aws%20free%20tier&ef_id=WSnR_gAAAE3x8yoC:20171223121010:s)
 
@@ -37,7 +37,7 @@ Max Aldunate
 
 <a id="acloudguru"></a>
 
-## 4. A Cloud Guru
+## On A Cloud Guru
 * [My Summary](04-a-cloud-guru/readme.md)
 * [A Cloud Guru Website](https://acloud.guru/)
 
@@ -45,7 +45,7 @@ Max Aldunate
 
 
 <a id="other"></a>
-## 5. Other Resources
+## Other Resources
 
 ### DevOps on AWS: Deep Dive on Infrastructure as Code
 * [My Summary](01-others/devops-on-AWS.deep-dive-on-infrastructure-as-code)
