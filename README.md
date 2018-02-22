@@ -43,6 +43,16 @@ Max Aldunate
 <p align="right"><a href="#top">Top</a></p>
 
 
+<a id="exam"></a>
+
+## Exam Preparation
+* [My Summary](exam-preparation/readme.md)
+
+
+<p align="right"><a href="#top">Top</a></p>
+
+
+
 <a id="other"></a>
 ## Other Resources
 
