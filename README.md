@@ -10,11 +10,6 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 - Max Aldunate
 
 
-## 4. A Cloud Guru
-* [My Summary](04-a-cloud-guru/readme.md)
-* [A Cloud Guru Website](https://acloud.guru/)
-
-
 ## 1. Miscellaneous Source
 
 ### DevOps on AWS: Deep Dive on Infrastructure as Code
@@ -27,57 +22,13 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 * [My Summary](02-aws/aws-well-architected-training)
 * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
 
+## 4. A Cloud Guru
+* [My Summary](04-a-cloud-guru/readme.md)
+* [A Cloud Guru Website](https://acloud.guru/)
 
 ## 3. Cloud Academy
-
-### Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) Developer – Associate Certification Preparation for AWS
-* [My Summary](03-cloud-academy/learning-paths-developer-associate-certification)
-* [Cloudacademy](https://cloudacademy.com/learning-paths/developer-associate-certification-preparation-for-aws-15/)
-* 7 Video Courses
-* 9 Quiz Sessions
-* 14 Hands-On Labs
-* Duration 24h 0m
-
-### Course.  ![](03-cloud-academy/icons/courses.ico) Working with AWS's Domain Name System: Amazon Route 53
-* [My Summary](03-cloud-academy/amazon-route53-dns-course)
-* [Cloudacademy](https://cloudacademy.com/amazon-web-services/amazon-route53-dns-course/)
-* Duration 0h 40m
-
-### Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) Solutions Architect – Associate Certification Preparation for AWS
-* [My Summary](03-cloud-academy/learning-paths-architect-associate-certification)
-* [Cloudacademy](https://cloudacademy.com/learning-paths/solutions-architect-associate-certification-preparation-for-aws-14/)
-* 8 Video Courses
-* 5 Quiz Sessions
-* 18 Hands-On Labs
-* Duration 31h 15m
-
-### Course. ![](03-cloud-academy/icons/courses.ico) How to Use CloudFormation for AWS Automation
-* [My Summary](03-cloud-academy/how-to-use-cloudFormation-for-aws-automation)
-* [Cloudacademy](https://cloudacademy.com/amazon-web-services/aws-automation-how-to-use-cloudformation-course/)
-* Duration 0h 20m
-
-### Course. ![](03-cloud-academy/icons/courses.ico) Advanced Use of AWS CloudFormation
-* [My Summary](03-cloud-academy/advanced-use-of-aws-cloudFormation)
-* [Cloudacademy](https://cloudacademy.com/amazon-web-services/advanced-aws-cloudformation-course/)
-* Duration 2h 01m
-
-### Lab. ![](03-cloud-academy/icons/labs.ico) Hands-on CloudFormation for deploy scalability
-* [My Summary](03-cloud-academy/Hands-on-CloudFormation-for-deploy-scalability)
-* [Cloudacademy](https://cloudacademy.com/amazon-web-services/labs/hands-cloudformation-deploy-scalability-41/fstart/)
-
-### Course. ![](03-cloud-academy/icons/courses.ico) Getting Started With Chef
-* [My Summary](03-cloud-academy/getting-started-chef-course)
-* [Cloudacademy](https://cloudacademy.com/cloud-computing/getting-started-chef-course/)
-
-### Learning Path. ![](03-cloud-academy/icons/learning-paths.ico) AWS Cloud Management Tools
-* [My Summary](03-cloud-academy/learning-paths-aws-cloud-management-tools)
-* [Cloudacademy](https://cloudacademy.com/learning-paths/aws-cloud-management-tools-60/)
-* 5 Video Courses
-* 4 Quiz Sessions
-* 5 Hands-On Labs
-* Duration 11h 51m
-
-### Miscellaneous Labs ![](03-cloud-academy/icons/labs.ico) [Link to folder](03-cloud-academy/Labs)
+* [My Summary](03-cloud-academy/readme.md)
+* [A Cloud Guru Website](https://cloudacademy.com/)
 
 ## 5. Other Resources
 
