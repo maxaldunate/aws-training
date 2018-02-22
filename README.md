@@ -57,7 +57,7 @@ Max Aldunate
 ## Other Resources
 
 ### DevOps on AWS: Deep Dive on Infrastructure as Code
-* [My Summary](01-others/devops-on-AWS.deep-dive-on-infrastructure-as-code)
+* [My Summary](other-resources/devops-on-aws-deep-dive-on-infrastructure-as-code)
 * [SlideShare](https://www.slideshare.net/AmazonWebServices/devops-on-aws-deep-dive-on-infrastructure-as-code)
 
 ### Certifications Documents [Link to folder](other-resources/Certifications-Docs)
