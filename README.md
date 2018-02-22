@@ -37,7 +37,7 @@ Max Aldunate
 <a id="acloudguru"></a>
 
 ## On A Cloud Guru
-* [My Summary](04-a-cloud-guru/readme.md)
+* [My Summary](a-cloud-guru/readme.md)
 * [A Cloud Guru Website](https://acloud.guru/)
 
 <p align="right"><a href="#top">Top</a></p>
