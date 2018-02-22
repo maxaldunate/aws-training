@@ -1,11 +1,17 @@
 # AWS Sites
 
-### [AWS Answers](https://aws.amazon.com/answers/)
-### [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
-### [FAQs](https://aws.amazon.com/faqs/)
-### [Aws Documentation](https://aws.amazon.com/documentation/)
+* AWS Answers  
+  https://aws.amazon.com/answers/
+  Clear answers to common questions about architecting, building, and running apps…
+
+* AWS Whitepapers  
+  https://aws.amazon.com/whitepapers/
+* [FAQs](https://aws.amazon.com/faqs/)
+* [Aws Documentation](https://aws.amazon.com/documentation/)
 ### [Aws Glossary](https://docs.aws.amazon.com/general/latest/gr/)
-### [Amazon Web Services - youtube](https://www.youtube.com/user/AmazonWebServices)
+- General Reference - Aws Documentation
+
+### [Amazon Web Services - Youtube Channel](https://www.youtube.com/user/AmazonWebServices)
 ### [Amazon Web Services - slideshare](https://www.slideshare.net/AmazonWebServices)
 ### [AWS Architecture Center](https://aws.amazon.com/architecture/)
 ### [All Customer Success Stories](https://aws.amazon.com/solutions/case-studies/all/)
