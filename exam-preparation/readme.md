@@ -6,5 +6,7 @@
 ## Exam Simulator - Developer Associate Try One
 * [My Summary](02-dev-assoc-try-one/readme.md)
 
+## Docs
+* [AWS Sites](miscs/aws-sites.md)
 
 The End
