@@ -8,5 +8,6 @@
 
 ## Docs
 * [AWS Sites](miscs/aws-sites.md)
+* [A Cloud Guru Courses](miscs/a-cloud-guru-courses.md)
 
 The End
