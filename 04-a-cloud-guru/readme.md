@@ -18,6 +18,10 @@
 * [My Summary](04-serverless-portfolio/readme.md)
 * [Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
 
+## 5. AWS Lambda
+* [My Summary](05-lambda/readme.md)
+* [Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
+
 
 ### Pending
 * [Application Load Balancer](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
