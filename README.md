@@ -10,7 +10,7 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 
 Max Aldunate
 
-#### Content
+### Content
 
 * [On Aws](#aws)
 * [On Cloud Academy](#cloudacademy)
