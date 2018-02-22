@@ -12,28 +12,28 @@ Max Aldunate
 
 ### Content
 
-* [On Aws](#aws)
-* [On Cloud Academy](#cloudacademy)
-* [On A Cloud Guru](#acloudguru)
+* [Amazon Web Services](#aws)
+* [Cloud Academy](#cloudacademy)
+* [A Cloud Guru](#acloudguru)
 * [Other Resources](#other)
 * [Exam Preparation](#exam)
 
 <a id="aws"></a>
 
-## On Aws
+## Amazon Web Services
 * AWS Well-Architected Training 
   * [My Summary](aws/aws-well-architected-training)
   * [Aws Training And Certification](https://www.aws.training/transcript/curriculumplayer?transcriptId=7pGhstV90E2g0kMQPRm6kg2)
 
 <a id="cloudacademy"></a>
 
-## On Cloud Academy
+## Cloud Academy
 * [My Summary](cloud-academy/readme.md)
 * [Cloud Academy Website](https://cloudacademy.com/)
 
 <a id="acloudguru"></a>
 
-## On A Cloud Guru
+## A Cloud Guru
 * [My Summary](a-cloud-guru/readme.md)
 * [A Cloud Guru Website](https://acloud.guru/)
 
