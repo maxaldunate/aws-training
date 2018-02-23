@@ -16,6 +16,7 @@
 | **News 2017** | [Link](https://aws.amazon.com/about-aws/whats-new/2017/) | |
 | News 2016 | [Link](https://aws.amazon.com/about-aws/whats-new/2016/) | |
 | AWS News Blog | [Link](https://aws.amazon.com/blogs/aws/) | |
+| Aws Security Blog | [Link](https://aws.amazon.com/blogs/security/) | |
 | AWS Podcast | [Link](https://aws.amazon.com/podcasts/aws-podcast/) | |
 | AWS Online Tech Talks | [Link](https://aws.amazon.com/about-aws/events/monthlywebinarseries/) | |
 | Aws Discussion Forums | [Link](https://forums.aws.amazon.com/index.jspa) | |
@@ -23,3 +24,4 @@
 | AWS Certification | [Link](https://aws.amazon.com/certification/) | |
 | AWS Training and Certiﬁcation | [Link](https://www.aws.training/) | |
 | AWS Partner Webinar Series | [Link](https://aws.amazon.com/webinars/partner-webinar-series/) | |
+| Aws Tutorial Series | [Link](https://awstutorialseries.com/) | |
