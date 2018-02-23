@@ -35,3 +35,16 @@
 | Amazon Virtual Private Cloud | User Guide | 322 | [Link](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-ug.pdf) |
 | Amazon ElastiCache | User Guide - API Version 2015-02-02 | 508 | [Link](https://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/elasticache-ug.pdf) |
 | AWS Management Portal for vCenter | User Guide | 57 | [Link](https://docs.aws.amazon.com/amp/latest/userguide/amp-ug.pdf) |
+
+<a id="dg" />
+
+### Developer's Guides
+
+| Developer Guide | Comments| Pages | Link |
+| --- | --- | ---: | --- |
+| Amazon DynamoDB | API Version 2012-08-10 | 931 | [Link](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/dynamodb-dg.pdf?shortFooter=true#Streams.CrossRegionRepl) |
+| AWS Import/Export | API Version 2010-06-03 | 155 | [Link](http://s3.amazonaws.com/awsdocs/ImportExport/latest/AWSImportExport-dg.pdf) |
+| Amazon Simple Notification Service | API Version 2010-03-31 | 209 | [Link](https://docs.aws.amazon.com/sns/latest/dg/sns-dg.pdf) |
+ 
+
+ The End
