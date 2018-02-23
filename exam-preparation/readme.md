@@ -8,9 +8,8 @@
 * [AWS Sites](miscs/aws-sites.md)
 * [A Cloud Guru Courses](miscs/a-cloud-guru-courses.md)
 * [Calendar & Tips](miscs/calendar-and-tips.md)
-* [White Papers](miscs/white-papers.md)
-
-
+* [White Papers](miscs/docs-to-read.md/#wp)
+* [User's Guide](miscs/docs-to-read.md/#ug)
 
 
 The End
