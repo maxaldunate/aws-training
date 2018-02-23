@@ -1,3 +1,14 @@
+### Exam Tips
+
+| Name | Description |
+| --- | --- |
+| qestion first | when large question, read first the very question at the end |
+| choose x | choose 2 / choose 3 ---> warning with the number |
+| double no | double negative is difficult to understand in english |
+| english | it is english … pay attention |
+| time | time management is key |
+
+
 ### My Calendar - 2018
 
 > References  
@@ -6,7 +17,7 @@
 > `*30` Holiday  
 
 | | L | M | X | J | V | S | D |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | February |  |  |  |  | 16 | 17 | 18 |
 | | 19 | 20 | 21 | 22 | **23** | **24** | 25|
 | | 26 | 27 | 28 |  |  |  |  |
