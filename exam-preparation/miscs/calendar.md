@@ -1,9 +1,9 @@
 ### My Calendar - 2018
 
-> References
-`18` Vacations
-**25** Work on Certification
-`*30` Holiday
+> References  
+> `18` Vacations  
+> **25** Work on Certification  
+> `*30` Holiday  
 
 | | L | M | X | J | V | S | D |
 | --- | --- | --- | --- | --- | --- | --- | --- |
