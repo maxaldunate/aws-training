@@ -11,6 +11,7 @@
 * [White Papers](miscs/docs-to-read.md/#wp)
 * [User's Guide](miscs/docs-to-read.md/#ug)
 * [Developer's Guide](miscs/docs-to-read.md/#dg)
+* [Aws Services Catalog](miscs/aws-services-catalog.md/)
 
 
 The End
