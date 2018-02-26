@@ -22,6 +22,10 @@
 * [My Summary](05-lambda/readme.md)
 * [Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
 
+## 6. Certified Developer - Associate 2018
+* [My Summary](06-certified-developer-associate-2018/readme.md)
+* [Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
+
 
 ### Pending
 * [Application Load Balancer](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
