@@ -166,6 +166,7 @@
 
 ### STS
 <p align="right"><a href="#top">Top</a></p>
+
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-24%2013-33-58.png)
 ---
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-25%2009-59-23.png)
@@ -201,6 +202,7 @@
 
 ### Web Identity Federation
 <p align="right"><a href="#top">Top</a></p>
+
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-25%2011-53-33.png)
 ---
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-25%2011-54-25.png)
@@ -224,6 +226,7 @@
 
 ### IAM Summary
 <p align="right"><a href="#top">Top</a></p>
+
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-25%2012-00-32.png)
 ---
 ![](03-iam-sts-ad-wif/Screenshot%20from%202018-02-25%2012-01-51.png)
@@ -255,7 +258,7 @@
 
 <a id="04-ec2-1"></a>
 
-### PArt 1
+### Part 1
 
 ![](04-ec2/Screenshot%20from%202018-02-25%2012-12-29.png)
 ---
