@@ -13,5 +13,8 @@
 * [Developer's Guide](miscs/docs-to-read.md/#dg)
 * [Aws Services Catalog](miscs/aws-services-catalog.md/)
 
+## Links
+* [ACG What you need to get AWS Certified](https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f)
+
 
 The End
