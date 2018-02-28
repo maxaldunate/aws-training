@@ -5,9 +5,10 @@
 
 ## Content
 
-* [Chapters 1 & 2](#01-02-intro-and-overview)
-  * [Introduction to the Course](#01-02-intro-and-overview)
-  * [AWS - 10,000 Feet Overview](#01-02-intro-and-overview)
+* [Chapters 1 & 2. Introduction](#01-02-intro-and-overview)
+  * [Exam Blueprint](#01-02-bp)
+  * [The History so far 2018](#01-02-history)
+  * [AWS Service Catalog](#01-02-catalog)
 
 * [Chapter 3. IAM](#03-iam)
   * [IAM Intro](#03-iam)
@@ -26,13 +27,9 @@
 
 <a id="01-02-intro-and-overview"></a>
 
-## Chapters 1 & 2
-## Introduction to the Course
-## AWS - 10,000 Feet Overview
+## Chapters 1 & 2. Introduction
 <p align="right"><a href="#top">Top</a></p>
 
-![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-03-21.png)
----
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-05-26.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-06-31.png)
@@ -40,11 +37,21 @@
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-08-30.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-14-39.png)
----
+
+<a id="01-02-bp"></a>
+
+### Exam Blueprint
+<p align="right"><a href="#top">Top</a></p>
+
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-53-01.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2020-53-07.png)
----
+
+<a id="01-02-history"></a>
+
+### The History so far 2018
+<p align="right"><a href="#top">Top</a></p>
+
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2021-01-21.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-23%2021-02-35.png)
@@ -76,7 +83,12 @@
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-24%2009-34-29.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-24%2009-34-36.png)
----
+
+<a id="01-02-catalog"></a>
+
+### AWS Service Catalog
+<p align="right"><a href="#top">Top</a></p>
+
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-24%2009-41-17.png)
 ---
 ![](01-02-intro-and-overview/Screenshot%20from%202018-02-24%2009-43-08.png)
