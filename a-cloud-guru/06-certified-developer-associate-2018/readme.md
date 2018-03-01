@@ -522,14 +522,14 @@
 ---
 ![](04-ec2/Screenshot%20from%202018-02-28%2018-46-45.png)
 ---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-47-31.png)
+---
 
 <a id="04-ec2-lambda"></a>
 
 ### Lambda
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from%202018-02-28%2018-47-31.png)
----
 ![](04-ec2/Screenshot%20from%202018-02-28%2018-58-08.png)
 ---
 ![](04-ec2/Screenshot%20from%202018-02-28%2019-50-25.png)
@@ -555,3 +555,5 @@
 
 
 The End
+
+<p align="right"><a href="#top">Top</a></p>
