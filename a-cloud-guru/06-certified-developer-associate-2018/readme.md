@@ -24,6 +24,12 @@
   * [EBS](#04-ec2-ebs)  
   * [EFS](#04-ec2-efs)  
   * [AWS CLI](#04-ec2-cli)  
+  * [S3 CLI & Regions](#04-ec2-s3-regions)  
+  * [CLI commands for the Developer Exam](#04-ec2-cli-dev-exam)
+  * [Lambda](#04-ec2-lambda)  
+
+
+
 
 <a id="01-02-intro-and-overview"></a>
 
@@ -445,7 +451,107 @@
 ![](04-ec2/Screenshot%20from%202018-02-26%2020-26-31.png)
 ---
 
+<a id="04-ec2-s3-regions"></a>
 
+### S3 CLI & Regions
+<p align="right"><a href="#top">Top</a></p>
+
+![](04-ec2/Screenshot%20from%202018-02-28%2018-21-22.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-23-10.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-23-30.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-24-18.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-24-26.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-25-14.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-26-06.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-26-10.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-26-41.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-26-44.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-27-35.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-27-49.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-27-53.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-27-58.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-28-47.png)
+---
+
+<a id="04-ec2-cli-dev-exam"></a>
+
+### CLI commands for the Developer Exam
+<p align="right"><a href="#top">Top</a></p>
+
+[CLI EC2 Available Commands](https://docs.aws.amazon.com/cli/latest/reference/ec2/index.html)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-29-35.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-31-01.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-31-15.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-31-19.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-32-45.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-33-26.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-34-02.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-34-55.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-40-07.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-41-27.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-42-54.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-43-45.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-44-22.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-46-45.png)
+---
+
+<a id="04-ec2-lambda"></a>
+
+### Lambda
+<p align="right"><a href="#top">Top</a></p>
+
+![](04-ec2/Screenshot%20from%202018-02-28%2018-47-31.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2018-58-08.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2019-50-25.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2019-54-24.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2019-55-26.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2019-56-23.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2019-58-31.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2020-00-01.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2020-04-22.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2020-05-49.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2020-09-16.png)
+---
+![](04-ec2/Screenshot%20from%202018-02-28%2020-10-51.png)
+---
 
 
 The End
