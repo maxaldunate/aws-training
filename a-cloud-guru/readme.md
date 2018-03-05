@@ -7,11 +7,11 @@
 * [Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
 
 ## 2. Certified Solutions Architect - Associate 2018
-* [My Summary](02-certified-solutions-architect-associate-2018)
+* [My Summary](02-certified-solutions-architect-associate-2018/readme.md)
 * [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
 ## 3. Certified Solutions Architect - Professional
-* [My Summary](03-certified-solutions-architect-professional)
+* [My Summary](03-certified-solutions-architect-professional/readme.md)
 * [Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
 ## 4. Create a Serverless Portfolio with AWS and React
