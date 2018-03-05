@@ -7,7 +7,6 @@
 
 * [All Content Quizzes](#quizzies)
 
-
 * [Summaries & Exam Tips. IAM-S3-EC2-R53-RDS-VPC-SQS-SWF-SNS-Kinesis](#summ)
   * [IAM](#summ-iam)
   * [Storage](#summ-storage)
@@ -48,7 +47,9 @@
   * [ECS Part 2](#tips-ecs-2)
 
 * [Thank You, Good Luck & Coming Soon](#soon)
-  * PENDING
+  * [Mega Quiz](#mega-quiz)
+  * [Scenario Quiz](#scenario-quiz)
+  * [Mini Exam](#mini-exam)
 
 <a id="quizzies"></a>
 
@@ -971,10 +972,91 @@ Nothing to add!
 ---
 
 
-## <a id="soon"></a>Thank You, Good Luck & Coming Soon
+<a id="soon"></a>
+
+## Thank You, Good Luck & Coming Soon
 <p align="right"><a href="#top">Top</a></p>
-coming-soon
 
+![](coming-soon/Screenshot%20from%202018-03-02%2015-51-34.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2015-53-30.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2015-54-20.png)
 
+<a id="mega-quiz"></a>
+
+### Mega Quiz
+<p align="right"><a href="#top">Top</a></p>
+
+![](coming-soon/Screenshot%20from%202018-03-02%2016-01-50.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-05-23.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-11-50.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-14-00.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-16-17.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-16-23.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-18-08.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-19-52.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-21-04.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-22-51.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-23-12.png)
+
+<a id="scenario-quiz"></a>
+
+### Scenario Quiz
+<p align="right"><a href="#top">Top</a></p>
+
+![](coming-soon/Screenshot%20from%202018-03-02%2016-27-41.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-35-30.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-39-30.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-40-23.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-41-14.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-43-04.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-44-02.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-45-25.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-46-35.png)
+
+<a id="mini-exam"></a>
+
+### Mini Exam
+<p align="right"><a href="#top">Top</a></p>
+
+![](coming-soon/Screenshot%20from%202018-03-02%2016-50-28.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2016-50-55.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-25-18.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-25-46.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-28-31.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-30-37.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-31-03.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-32-01.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-32-42.png)
+---
+![](coming-soon/Screenshot%20from%202018-03-02%2017-33-33.png)
+---
 
 The End
