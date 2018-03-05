@@ -563,161 +563,161 @@
 ### Install PHP and Composer
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-02-28%2020-12-08.png)
+![](04-ec2/Screenshot%20from%202018-02-28%2020-12-08.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2019-54-59.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2019-54-59.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2019-55-56.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2019-55-56.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2019-56-57.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2019-56-57.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2019-59-17.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2019-59-17.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2019-59-47.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2019-59-47.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-00-37.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-00-37.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-01-23.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-01-23.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-01-33.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-01-33.png)
 
 <a id="04-ec2-sdk"></a>
 
 ### Using the PHP SDK to access S3
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-02-13.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-02-13.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-02-45.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-02-45.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-02-50.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-02-50.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-04-06.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-04-06.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-04-08.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-04-08.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-04-51.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-04-51.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-04-53.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-04-53.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-05-40.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-05-40.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-05-47.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-05-47.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-06-05.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-06-05.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-06-07.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-06-07.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-07-39.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-07-39.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-08-24.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-08-24.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-08-34.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-08-34.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-08-48.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-08-48.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-09-07.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-09-07.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-09-15.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-09-15.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-09-28.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-09-28.png)
 
 <a id="04-ec2-metadata"></a>
 
 ### EC2 Instance Metadata
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-10-14.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-10-14.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-13-40.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-13-40.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-15-22.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-15-22.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-15-34.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-15-34.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-16-29.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-16-29.png)
 
 <a id="04-ec2-elb"></a>
 
 ### Elastic Load Balancers - Exam Tips
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-16-46.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-16-46.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-20-20.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-20-20.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-27-05.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-27-05.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-29-22.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-29-22.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-30-31.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-30-31.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-32-20.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-32-20.png)
 
 <a id="04-ec2-sdk-tips"></a>
 
 ### SDKs Exam tips
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-33-06.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-33-06.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-33-49.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-33-49.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-34-36.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-34-36.png)
 
 <a id="04-ec2-summary"></a>
 
 ### Summary Of EC2 Section
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-37-40.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-37-40.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-38-12.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-38-12.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-40-52.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-40-52.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-43-15.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-43-15.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-44-28.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-44-28.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-45-15.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-45-15.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-46-01.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-46-01.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-46-18.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-46-18.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-47-18.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-47-18.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-48-26.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-48-26.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-48-30.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-48-30.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-49-28.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-49-28.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-50-07.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-50-07.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-50-32.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-50-32.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-51-47.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-51-47.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-52-12.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-52-12.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-52-46.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-52-46.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-54-12.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-54-12.png)
 
 <a id="04-ec2-quiz"></a>
 
 ### EC2 Quiz
 <p align="right"><a href="#top">Top</a></p>
 
-![](04-ec2/Screenshot%20from$202018-03-01%2020-59-44.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-59-44.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2020-59-50.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2020-59-50.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2021-01-20.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2021-01-20.png)
 ---
-![](04-ec2/Screenshot%20from$202018-03-01%2021-01-24.png)
+![](04-ec2/Screenshot%20from%202018-03-01%2021-01-24.png)
 ---
 
 
