@@ -8,7 +8,7 @@
 ### [Chapters 1 & 2. Introduction](01-02-intro-and-overview/readme.md)
 ### [Chapter 3. IAM](03-iam-sts-ad-wif/readme.md)
 ### [Chapter 4. EC2](04-ec2/readme.md)
-
+### [Chapter 5. S3](05-s3/readme.md)
 
 The End
 
