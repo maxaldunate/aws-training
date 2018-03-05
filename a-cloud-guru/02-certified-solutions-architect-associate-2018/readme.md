@@ -34,11 +34,21 @@
   * [Summary](#waf-summary)
 
 * [Additional Exam Tips](#tips)
-  * PENDING
+  * [Exam Tips based on student feedback](#tips-student)
+  * [AWS Organizations & Consolidated Billing](#tips-billing)
+  * [AWS Organizations Lab](#tips-org-lab)
+  * [Cross Account Access](#tips-cross-account)
+  * [Tagging & Resource Groups](#tips-tagging)
+  * [VPC Peering](#tips-vpc-peering)
+  * [Direct Connect](#tips-direct-connect)
+  * [STS Security Token Service](#tips-sts)
+  * [Active Directory Integration](#tips-ad)
+  * [Workspaces](#tips-worspaces)
+  * [ECS Part 1](#tips-ecs-1)
+  * [ECS Part 2](#tips-ecs-2)
+
 * [Thank You, Good Luck & Coming Soon](#soon)
   * PENDING
-
-
 
 <a id="quizzies"></a>
 
@@ -711,13 +721,260 @@
 ---
 Nothing to add!
 
+<a id="tips"></a>
 
-## <a id="tips"></a>Additional Exam Tips
+## Additional Exam Tips
 <p align="right"><a href="#top">Top</a></p>
-additional-exam-tips
+
+<a id="tips-student"></a>
+
+### Exam Tips based on student feedback
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2011-55-26.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2011-56-11.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2011-56-45.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-00-29.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-00-54.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-02-03.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-02-57.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-04-06.png)
+
+<a id="tips-billing"></a>
+
+### AWS Organizations & Consolidated Billing
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2012-05-44.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-05-54.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-06-47.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-08-11.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-08-42.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-09-02.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-12-18.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-12-45.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-13-24.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-14-05.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-14-51.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-15-04.png)
+
+<a id="tips-org-lab"></a>
+
+### AWS Organizations Lab
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2012-15-30.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-16-54.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-18-09.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-19-02.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-19-40.png)
+
+<a id="tips-cross-account"></a>
+
+### Cross Account Access
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2012-20-10.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-20-12.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-21-37.png)
+
+<a id="tips-tagging"></a>
+
+### Tagging & Resource Groups
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2012-23-33.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-23-35.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-24-46.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-27-03.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-27-33.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-27-57.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-28-13.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-28-41.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-29-23.png)
+
+<a id="tips-vpc-peering"></a>
+
+### VPC Peering
+<p align="right"><a href="#top">Top</a></p>
+
+
+![](exam-tips/Screenshot%20from%202018-03-02%2012-30-16.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-31-14.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-32-17.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-32-33.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-33-14.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2012-33-21.png)
+
+<a id="tips-direct-connect"></a>
+
+### Direct Connect
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-11-52.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-12-03.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-12-45.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-12-49.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-14-35.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-15-32.png)
+
+<a id="tips-sts"></a>
+
+### STS Security Token Service
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-15-51.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-16-00.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-16-31.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-17-15.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-17-36.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-17-46.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-17-56.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-18-00.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-18-12.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-18-35.png)
+
+<a id="tips-ad"></a>
+
+### Active Directory Integration
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-19-14.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-19-29.png)
+
+<a id="tips-worspaces"></a>
+
+### Workspaces
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-20-12.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-20-23.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-22-06.png)
+
+<a id="tips-ecs-1"></a>
+
+### ECS Part 1
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-22-42.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-25-14.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-26-44.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-27-06.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-27-27.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-27-38.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-28-11.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-30-24.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-31-31.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-35-06.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-35-45.png)
+
+<a id="tips-ecs-2"></a>
+
+### ECS Part 2
+<p align="right"><a href="#top">Top</a></p>
+
+![](exam-tips/Screenshot%20from%202018-03-02%2015-36-52.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-37-18.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-38-33.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-38-52.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-39-49.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-40-25.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-41-03.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-41-35.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-42-01.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-42-50.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-43-32.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-44-07.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-44-58.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-45-27.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-46-26.png)
+---
+![](exam-tips/Screenshot%20from%202018-03-02%2015-47-20.png)
+---
+
 
 ## <a id="soon"></a>Thank You, Good Luck & Coming Soon
 <p align="right"><a href="#top">Top</a></p>
 coming-soon
 
 
+
+The End
