@@ -38,9 +38,7 @@
 * [Thank You, Good Luck & Coming Soon](#soon)
   * PENDING
 
----
 
----
 
 <a id="quizzies"></a>
 
