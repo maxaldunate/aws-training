@@ -3,6 +3,10 @@
 # Chapter 5. S3
 [Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
 
+## Links
+
+* [S3 Accelerate Speed Test](https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html)
+
 ## Materials
 
 * [S3 Cors Code Website](s3-cors-code)

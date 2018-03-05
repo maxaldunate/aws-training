@@ -3,6 +3,10 @@
 # Chapter 4. EC2
 [Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
 
+## Links
+* [Instance Metadata and User Data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+* [Storage - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html)
+
 ## Content
 
 * [EC2 101 - Part 1](#04-ec2-1)
