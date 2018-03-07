@@ -3,7 +3,7 @@
 # Resources
 
 ### Collection on folders
-* [Labs Diagrams](aws-diagrams/readmex.md)
+* [Labs Diagrams](aws-diagrams/readme.md)
 * [Aws CF Templates](aws-template-samples)
 * [CloudFormation Templates](cloud-formation-templates)
 
