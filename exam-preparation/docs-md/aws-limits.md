@@ -2,7 +2,11 @@
 https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html  
 
 
-### Auto Scaling Limits
-* Launch configurations per region	200
-* Auto Scaling groups per region	200
+| Resource  | Limit |
+| --- |  ---: |
+| **Auto Scaling Limits** ||
+| Launch configurations per region | 200 |
+| Auto Scaling groups per region | 200 | 
+
+
 
