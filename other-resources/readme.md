@@ -3,12 +3,12 @@
 # Resources
 
 ### Collection on folders
-* [Labs Diagrams](aws-diagrams)
+* [Labs Diagrams](aws-diagrams/readme.md)
 * [Aws CF Templates](aws-template-samples)
 * [CloudFormation Templates](cloud-formation-templates)
 
 ### 'md' docs
-* [CIDR examples](resources/cidr-examples.md)
+* [CIDR examples](cidr-examples.md)
 * [Instance Metadata](instance-metadada.md)
 * [Stress Amazon Linux](stress-on-amazon-linux.md)
 
