@@ -7,43 +7,31 @@
 * [Steps 7, 14 and 22 of 31](cloud-academy-summary/07.14.22-of-31-2017-exam-prep/Readme.md)
 * [Steps 28 of 31](cloud-academy-summary/28-of-31-2017-exam-primer/Readme.md)
 
+## Docs 'md' to Memorize
+* [AWS FAQs](docs-md/aws-faqs.md)
+* [AWS Service Limits](docs-md/aws-limits.md)
+* [White Papers](docs-md/docs-to-read.md/#wp)
+
 ## Docs 'md'
 * [AWS Sites](docs-md/aws-sites.md)
 * [A Cloud Guru Courses](docs-md/a-cloud-guru-courses.md)
 * [Calendar & Tips](docs-md/calendar-and-tips.md)
-* [White Papers](docs-md/docs-to-read.md/#wp)
 * [User's Guide](docs-md/docs-to-read.md/#ug)
 * [Developer's Guide](docs-md/docs-to-read.md/#dg)
 * [Aws Services Catalog](docs-md/aws-services-catalog.md)
 * [Deep dive on infrastructure as code](docs-md/deep-dive-on-infrastructure-as-code.md)
-
-
-pending  
-
-aws FAQs links
-
-aws service limits. link to aws and make a summary  
-https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
-
-
-
 
 ## Docs
 * [AWS - Certified Developer Associate Blueprint](docs/AWS_certified_developer_associate_blueprint.pdf)
 * [AWS - Certified Developer Associate Sample Exam Questions](docs/AWS_certified_developer_associate_examsample.pdf)
 * [AWS - Certified Solutions Architect Associate Blueprint](docs/AWS_certified_solutions_architect_associate_blueprint.pdf)
 * [AWS - Certified Solutions Architect Associate Sample Exam Questions](docs/AWS_certified_solutions_architect_associate_examsample.pdf)
-
 * [CloudElements - App Connections are easy, integrations are hard](docs/app-connections-are-easy-integrations-are-hard.pdf)
 * [CloudElements - Build platforms not products](docs/ebook-build-platforms-not-products.pdf)
-
 * [CAPSiDE - Catálogo de cursos 2017](docs/CAPSiDE-Catálogo-de-cursos-2017-Q1.pdf)
-
-
-
 
 ## Links
 * [ACG What you need to get AWS Certified](https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f)
 
-
+---
 The End
