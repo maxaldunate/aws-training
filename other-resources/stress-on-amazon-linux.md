@@ -11,10 +11,10 @@ chmod 644 /var/www/html/index.html
 sudo yum install stress
 ```
 
-> $ which stress
->      /usr/bin/stress
+Check if is ok  
+`$ which stress`  
+     /usr/bin/stress
 
-
-Run stress to eat up CPU cycles for five minutes (-t 5m option):
+Run stress to eat up CPU cycles for five minutes (-t 5m option):  
 `$ stress -c 2 -i 1 -m 1 --vm-bytes 128M -t 5m`
 
