@@ -7,10 +7,11 @@
 * [Steps 7, 14 and 22 of 31](cloud-academy-summary/07.14.22-of-31-2017-exam-prep/Readme.md)
 * [Steps 28 of 31](cloud-academy-summary/28-of-31-2017-exam-primer/Readme.md)
 
-## Docs 'md' to Memorize
-* [AWS FAQs](docs-md/aws-faqs.md)
+## To Memorize
 * [AWS Service Limits](docs-md/aws-limits.md)
+* [Instance Types](docs-md/instance-types.md)
 * [White Papers](docs-md/docs-to-read.md/#wp)
+* [AWS FAQs](docs-md/aws-faqs.md)
 
 ## Docs 'md'
 * [AWS Sites](docs-md/aws-sites.md)
