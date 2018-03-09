@@ -26,11 +26,21 @@
 * [My Summary](06-certified-developer-associate-2018/readme.md)
 * [Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
 
+## WI. Web Identity. Security
+* [My Summary](wi-web-identity/readme.md)
+* Mix of 
+  - "Amazon DynamoDB - From Beginner to Pro"
+    - Controlling Access
+    - Federated Access
+  - "Certified DevOps Engineer - Professional"
+    - Delegation & Federation
+    - Corporate Identity Federation
+    - Web Identity Federation
 
 ### Pending
 * [Application Load Balancer](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
 * [Advanced Alexa](https://acloud.guru/course/aws-advanced-alexa-skills-kit/dashboard)
 * [Advanced CloudFormation](https://acloud.guru/course/aws-advanced-cloudformation/dashboard)
 * [Certified Big Data](https://acloud.guru/course/aws-certified-big-data-specialty/dashboard)
-* [Dynamo DB](https://acloud.guru/course/aws-dynamodb/dashboard)
-
+* [Amazon DynamoDB - From Beginner to Pro](https://acloud.guru/course/aws-dynamodb/dashboard)
+* [Certified DevOps Engineer - Professional](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
