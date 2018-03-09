@@ -170,25 +170,81 @@
 ![](Screenshot%20from%202018-03-05%2021-18-48.png)
 ---
 
-
-
-
-
-
 <a id="api"></a>
 
 ### Scan vs Query API Call
 <p align="right"><a href="#top">Top</a></p>
+
+![](Screenshot%20from%202018-03-08%2019-13-07.png)
+---
+![](Screenshot%20from%202018-03-08%2019-14-31.png)
+---
+![](Screenshot%20from%202018-03-08%2019-16-15.png)
+---
+![](Screenshot%20from%202018-03-08%2019-16-44.png)
+---
+![](Screenshot%20from%202018-03-08%2019-17-49.png)
+---
+![](Screenshot%20from%202018-03-08%2019-20-09.png)
+---
+![](Screenshot%20from%202018-03-08%2019-22-05.png)
+---
 
 <a id="throu"></a>
 
 ### DynamoDB Provisioned Throughput
 <p align="right"><a href="#top">Top</a></p>
 
+![](Screenshot%20from%202018-03-08%2019-22-50.png)
+---
+![](Screenshot%20from%202018-03-08%2019-26-24.png)
+---
+![](Screenshot%20from%202018-03-08%2019-26-37.png)
+---
+![](Screenshot%20from%202018-03-08%2019-28-07.png)
+---
+![](Screenshot%20from%202018-03-08%2019-30-00.png)
+---
+![](Screenshot%20from%202018-03-08%2019-32-09.png)
+---
+![](Screenshot%20from%202018-03-08%2019-33-23.png)
+---
+![](Screenshot%20from%202018-03-08%2019-34-28.png)
+---
+![](Screenshot%20from%202018-03-08%2019-35-40.png)
+---
+![](Screenshot%20from%202018-03-08%2019-36-46.png)
+---
+
 <a id="web-id"></a>
 
 ### Using Web Identity Providers To Connect To Authenticate To DynamoDB
 <p align="right"><a href="#top">Top</a></p>
+
+![](Screenshot%20from%202018-03-08%2019-37-54.png)
+---
+![](Screenshot%20from%202018-03-08%2019-40-00.png)
+---
+![](Screenshot%20from%202018-03-08%2019-43-40.png)
+---
+![](Screenshot%20from%202018-03-08%2020-13-17.png)
+---
+![](Screenshot%20from%202018-03-08%2020-13-29.png)
+---
+![](Screenshot%20from%202018-03-08%2020-17-45.png)
+---
+![](Screenshot%20from%202018-03-08%2020-17-58.png)
+---
+![](Screenshot%20from%202018-03-08%2020-18-31.png)
+---
+![](Screenshot%20from%202018-03-08%2020-19-16.png)
+---
+![](Screenshot%20from%202018-03-08%2020-19-28.png)
+---
+![](Screenshot%20from%202018-03-08%2020-19-47.png)
+---
+![](Screenshot%20from%202018-03-08%2020-20-05.png)
+---
 
 <a id="aspects"></a>
 
@@ -196,6 +252,10 @@
 <p align="right"><a href="#top">Top</a></p>
 
 <a id="summary"></a>
+
+
+
+
 
 ### DynamoDB Summary
 <p align="right"><a href="#top">Top</a></p>
