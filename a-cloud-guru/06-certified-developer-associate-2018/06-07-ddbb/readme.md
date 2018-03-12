@@ -251,20 +251,86 @@
 ### Other Important Aspects Of DynamoDB
 <p align="right"><a href="#top">Top</a></p>
 
+![](Screenshot%20from%202018-03-10%2012-03-00.png)
+---
+![](Screenshot%20from%202018-03-10%2012-04-25.png)
+---
+![](Screenshot%20from%202018-03-10%2012-05-09.png)
+---
+![](Screenshot%20from%202018-03-10%2012-05-13.png)
+---
+![](Screenshot%20from%202018-03-10%2012-06-05.png)
+---
+![](Screenshot%20from%202018-03-10%2012-06-49.png)
+---
+![](Screenshot%20from%202018-03-10%2012-08-08.png)
+---
+
 <a id="summary"></a>
-
-
-
-
 
 ### DynamoDB Summary
 <p align="right"><a href="#top">Top</a></p>
+
+![](Screenshot%20from%202018-03-10%2012-08-52.png)
+---
+![](Screenshot%20from%202018-03-10%2012-09-14.png)
+---
+![](Screenshot%20from%202018-03-10%2012-11-40.png)
+---
+![](Screenshot%20from%202018-03-10%2012-11-45.png)
+---
+![](Screenshot%20from%202018-03-10%2012-12-38.png)
+---
+![](Screenshot%20from%202018-03-10%2012-13-23.png)
+---
+![](Screenshot%20from%202018-03-10%2012-14-33.png)
+---
+![](Screenshot%20from%202018-03-10%2012-15-19.png)
+---
+![](Screenshot%20from%202018-03-10%2012-16-36.png)
+---
+![](Screenshot%20from%202018-03-10%2012-17-11.png)
+---
+![](Screenshot%20from%202018-03-10%2012-17-41.png)
+---
+![](Screenshot%20from%202018-03-10%2012-17-52.png)
+---
+![](Screenshot%20from%202018-03-10%2012-18-59.png)
+---
+![](Screenshot%20from%202018-03-10%2012-19-13.png)
+---
+![](Screenshot%20from%202018-03-10%2012-20-09.png)
+---
+![](Screenshot%20from%202018-03-10%2012-20-12.png)
+---
+![](Screenshot%20from%202018-03-10%2012-20-33.png)
+---
+![](Screenshot%20from%202018-03-10%2012-21-14.png)
+---
+![](Screenshot%20from%202018-03-10%2012-22-17.png)
+---
+![](Screenshot%20from%202018-03-10%2012-22-38.png)
+---
 
 <a id="quiz"></a>
 
 ### DynamoDB Quiz
 <p align="right"><a href="#top">Top</a></p>
 
+![](Screenshot%20from%202018-03-10%2012-24-17.png)
+---
+![](Screenshot%20from%202018-03-10%2012-26-50.png)
+---
+![](Screenshot%20from%202018-03-10%2012-30-46.png)
+---
+![](Screenshot%20from%202018-03-10%2012-33-23.png)
+---
+![](Screenshot%20from%202018-03-10%2012-35-13.png)
+---
+![](Screenshot%20from%202018-03-10%2012-35-29.png)
+---
+![](Screenshot%20from%202018-03-10%2012-35-32.png)
+---
 
 The End
 
