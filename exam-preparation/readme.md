@@ -21,6 +21,7 @@
 * [Developer's Guide](docs-md/docs-to-read.md/#dg)
 * [Aws Services Catalog](docs-md/aws-services-catalog.md)
 * [Deep dive on infrastructure as code](docs-md/deep-dive-on-infrastructure-as-code.md)
+* [All Symmary](docs-md/all-summary.md)
 
 ## Docs
 * [AWS - Certified Developer Associate Blueprint](docs/AWS_certified_developer_associate_blueprint.pdf)
