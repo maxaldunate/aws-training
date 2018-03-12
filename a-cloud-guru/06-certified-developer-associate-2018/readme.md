@@ -11,6 +11,7 @@
 ### [Chapter 5. S3](05-s3/readme.md)
 ### [Chapter 6. Databases Overview (RDS)](06-07-ddbb/readme.md)
 ### [Chapter 7. DynamoDB](06-07-ddbb/readme.md)
+### [Chapter 8, 9 & 10. SQS, SNS & SWF](08-09-10-sqs-sns-swf/readme.md)
 
 The End
 
