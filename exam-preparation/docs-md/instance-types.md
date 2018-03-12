@@ -1,4 +1,4 @@
-# AWS EC2 Instance Types
+# AWS EC2 Instance Types & EBS Types
 
 ## Mnemonics
 **DR MC GIFT PX**
@@ -21,3 +21,19 @@
 |**P**|Graphics|P-**2**|Graphics - G.Purpose GPU|Machine L. - BC Mining|
 |**X**|Extreme Memory|X-**1**|Mem opt|SAP Hana - Apache Spark|
 
+
+## EBS Types
+|Code|Name|Hardware|Use|
+|---|---|---|---|
+|GP2|General Purpose|SSD|Up to 10.000 IOPS|
+|IO1|Provisiones IOPs|SSD|More than 10.000 IOPS|
+|ST1|Throughput Optimized|HDD|Frequently accessed workloads|
+|SC1|Cold|HDD|Less frequently accessed data|
+|Magnetic|Magnetic|HDD|Standard - Cheap, infrequently accessed storage|
+
+
+## Links to my summary
+
+* [EC2 Instance Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-38-12.png)
+* [Instance Types Mnemonics](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-40-52.png)
+* [EBS Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-43-15.png)

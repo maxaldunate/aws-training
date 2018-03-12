@@ -9,7 +9,7 @@
 
 ## To Memorize
 * [AWS Service Limits](docs-md/aws-limits.md)
-* [Instance Types](docs-md/instance-types.md)
+* [Instance Types & EBS Types](docs-md/instance-types.md)
 * [White Papers](docs-md/docs-to-read.md/#wp)
 * [AWS FAQs](docs-md/aws-faqs.md)
 
