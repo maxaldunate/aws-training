@@ -22,6 +22,23 @@
 |**X**|Extreme Memory|X-**1**|Mem opt|SAP Hana - Apache Spark|
 
 
+## Instance Size - Normalization Factors
+
+|Instance Size|Normalization Factor|
+|:---:|:---:|
+|micro|0.5|
+|small|1|
+|medium|2|
+|xlarge|4|
+|2xlarge|8|
+|4xlarge|16|
+|8xlarge|32|
+|10xlarge|64|
+
+
+[Normalization Factors](https://raw.githubusercontent.com/escamarla/aws-training/master/a-cloud-guru/03-certified-solutions-architect-professional/domain2-costing-and-acc-mgmnt/Screenshot%20from%202018-02-04%2015-06-12.png)
+
+
 ## EBS Types
 |Code|Name|Hardware|Use|
 |---|---|---|---|
