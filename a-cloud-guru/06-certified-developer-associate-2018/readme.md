@@ -13,7 +13,9 @@
 ### [Chapter 7. DynamoDB](06-07-ddbb/readme.md)
 ### [Chapter 8, 9 & 10. SQS, SNS & SWF](08-09-10-sqs-sns-swf/readme.md)
 ### [Chapter 11, 12 & 13. Elastic Beanstalk, CloudFormation & Shared Responsability Model](11-12-13-beanstalk-cf-shared-resp/readme.md)
+### [Chapter 14. Route53 & DNS](14-route-53-and-dns/readme.md)
 
-The End
+
+
 
 <p align="right"><a href="#top">Top</a></p>
