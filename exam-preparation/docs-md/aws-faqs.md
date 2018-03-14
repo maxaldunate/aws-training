@@ -13,7 +13,7 @@
 
 
 ### Storage
-* [Amazon Simple Storage Service (S3) FAQs]https://aws.amazon.com/s3/faqs/)
+* [Amazon Simple Storage Service (S3) FAQs](https://aws.amazon.com/s3/faqs/)
 * [Amazon EBS FAQs](https://aws.amazon.com/ebs/faqs/)
 * [Amazon Elastic File System (EFS) FAQs](https://aws.amazon.com/efs/faq/)
 * [Amazon Glacier FAQs](https://aws.amazon.com/glacier/faqs/)
@@ -30,7 +30,7 @@
 ### Networking & COntent Delivery
 * [Amazon VPC FAQs](https://aws.amazon.com/vpc/faqs/)
 * [Amazon CloudFront FAQs](https://aws.amazon.com/cloudfront/details/#faq)
-* [Amazon Route 53 FAQs]https://aws.amazon.com/route53/faqs/)
+* [Amazon Route 53 FAQs](https://aws.amazon.com/route53/faqs/)
 * [AWS Direct Connect FAQs](https://aws.amazon.com/directconnect/faqs/)
 
 ### Developer Tools
@@ -78,6 +78,6 @@
 ### Payments & Billing
 
 ### Support
-* [AWS Support FAQs](https://aws.amazon.com/faqs/)
+* [AWS Support FAQs](https://aws.amazon.com/premiumsupport/faqs/)
 
 The End
