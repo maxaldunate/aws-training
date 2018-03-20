@@ -11,7 +11,8 @@
 * [AWS Service Limits](docs-md/aws-limits.md)
 * [Instance Types & EBS Types](docs-md/instance-types.md)
 * [White Papers](docs-md/docs-to-read.md/#wp)
-* [AWS FAQs](docs-md/aws-faqs.md)
+* [AWS FAQs List](docs-md/aws-faqs-list.md)
+* [AWS FAQs Summary](docs-md/aws-faqs-summary.md)
 
 ## Docs 'md'
 * [AWS Sites](docs-md/aws-sites.md)
