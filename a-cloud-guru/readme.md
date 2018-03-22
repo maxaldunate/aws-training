@@ -26,11 +26,12 @@
 * [My Summary](06-certified-developer-associate-2018/readme.md)
 * [Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
 
+## 7. Certified SysOps Administrator - Associate 2018
+* [My Summary](07-certified-sysops-assoc-2018/readme.md)
+* [Course Dashboard](https://acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
 
-### Pending
-* [Application Load Balancer](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
-* [Advanced Alexa](https://acloud.guru/course/aws-advanced-alexa-skills-kit/dashboard)
-* [Advanced CloudFormation](https://acloud.guru/course/aws-advanced-cloudformation/dashboard)
-* [Certified Big Data](https://acloud.guru/course/aws-certified-big-data-specialty/dashboard)
-* [Amazon DynamoDB - From Beginner to Pro](https://acloud.guru/course/aws-dynamodb/dashboard)
-* [Certified DevOps Engineer - Professional](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
+## 8. Certified DevOps Engineer - Professional
+* [My Summary](08-cert-devops-eng-pro/readme.md)
+* [Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
+
+The End
