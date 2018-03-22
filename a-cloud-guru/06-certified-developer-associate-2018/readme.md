@@ -15,7 +15,9 @@
 ### [Chapter 11, 12 & 13. Elastic Beanstalk, CloudFormation & Shared Responsability Model](11-12-13-beanstalk-cf-shared-resp/readme.md)
 ### [Chapter 14. Route53 & DNS](14-route-53-and-dns/readme.md)
 ### [Chapter 15. VPC](15-vpc/readme.md)
+### [Chapter 15. VPC](15-vpc/readme.md)
+### [Chapter 16 & 17. The Exam & What's Next?](16-17-the-exam-and-what-next/readme.md)
 
-
+The End
 
 <p align="right"><a href="#top">Top</a></p>
