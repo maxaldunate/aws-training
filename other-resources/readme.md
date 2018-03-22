@@ -17,4 +17,15 @@
 * [Console vs CLI vs CF vs Terraform](https://medium.com/tieto-developers/how-to-create-and-manage-resources-in-amazon-web-services-infrastructure-f9af85b77c4a)
 
 
+### WI. Web Identity. Security
+* [My Summary](wi-web-identity/readme.md)
+* Mix of 
+  - "Amazon DynamoDB - From Beginner to Pro"
+    - Controlling Access
+    - Federated Access
+  - "Certified DevOps Engineer - Professional"
+    - Delegation & Federation
+    - Corporate Identity Federation
+    - Web Identity Federation
+
 The End
