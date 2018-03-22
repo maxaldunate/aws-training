@@ -119,32 +119,126 @@
 ### Build A Custom VPC - Part 2
 <p align="right"><a href="#top">Top</a></p>
 
-
-
-
+![](Screenshot%20from%202018-03-20%2018-31-53.png)
+---
+![](Screenshot%20from%202018-03-20%2018-33-06.png)
+---
+![](Screenshot%20from%202018-03-20%2018-33-23.png)
+---
+![](Screenshot%20from%202018-03-20%2018-33-46.png)
+---
+![](Screenshot%20from%202018-03-20%2018-33-56.png)
+---
+![](Screenshot%20from%202018-03-20%2018-34-57.png)
+---
+![](Screenshot%20from%202018-03-20%2018-35-57.png)
+---
+![](Screenshot%20from%202018-03-20%2018-36-19.png)
+---
 
 <a id="nat"></a>
 
 ### Network Address Translation (NAT)
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-20%2018-36-43.png)
+---
+![](Screenshot%20from%202018-03-20%2018-37-35.png)
+---
+![](Screenshot%20from%202018-03-20%2018-38-02.png)
+---
+![](Screenshot%20from%202018-03-20%2018-38-14.png)
+---
+![](Screenshot%20from%202018-03-20%2018-38-54.png)
+---
+![](Screenshot%20from%202018-03-20%2018-39-43.png)
+---
+![](Screenshot%20from%202018-03-20%2018-39-47.png)
+---
+![](Screenshot%20from%202018-03-20%2018-40-09.png)
+---
+![](Screenshot%20from%202018-03-20%2018-41-10.png)
+---
+![](Screenshot%20from%202018-03-20%2018-41-58.png)
+---
+![](Screenshot%20from%202018-03-20%2018-42-12.png)
+---
+![](Screenshot%20from%202018-03-20%2018-42-58.png)
+---
+![](Screenshot%20from%202018-03-20%2018-44-04.png)
+---
+![](Screenshot%20from%202018-03-20%2018-44-29.png)
+---
+![](Screenshot%20from%202018-03-20%2018-45-46.png)
+---
+![](Screenshot%20from%202018-03-20%2018-47-04.png)
+---
+![](Screenshot%20from%202018-03-20%2018-47-52.png)
+---
 
 <a id="nacls-sg"></a>
 
 ### NACLs vs Security Groups
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-20%2018-48-06.png)
+---
+![](Screenshot%20from%202018-03-20%2018-48-52.png)
+---
+![](Screenshot%20from%202018-03-20%2018-49-49.png)
+---
+![](Screenshot%20from%202018-03-20%2018-50-29.png)
+---
+![](Screenshot%20from%202018-03-20%2018-51-05.png)
+---
+![](Screenshot%20from%202018-03-20%2018-51-32.png)
+---
+![](Screenshot%20from%202018-03-20%2018-51-50.png)
+---
+![](Screenshot%20from%202018-03-20%2018-52-04.png)
+---
+![](Screenshot%20from%202018-03-20%2018-53-10.png)
+---
+![](Screenshot%20from%202018-03-20%2018-53-25.png)
+---
+![](Screenshot%20from%202018-03-20%2018-54-02.png)
+---
+![](Screenshot%20from%202018-03-20%2018-54-08.png)
+---
+![](Screenshot%20from%202018-03-20%2018-54-44.png)
+---
+![](Screenshot%20from%202018-03-20%2018-55-35.png)
+---
+![](Screenshot%20from%202018-03-20%2018-56-23.png)
+---
+![](Screenshot%20from%202018-03-20%2018-56-35.png)
+---
+![](Screenshot%20from%202018-03-20%2018-56-56.png)
+---
+![](Screenshot%20from%202018-03-20%2018-57-10.png)
+---
+![](Screenshot%20from%202018-03-20%2018-58-44.png)
+---
+![](Screenshot%20from%202018-03-20%2018-59-58.png)
+---
+![](Screenshot%20from%202018-03-20%2019-01-12.png)
+---
 
 <a id="app-lb"></a>
 
 ### Application Load Balancers & Custom VPCs
 <p align="right"><a href="#top">Top</a></p>
 
-
+![](Screenshot%20from%202018-03-20%2019-02-28.png)
+---
+![](Screenshot%20from%202018-03-20%2019-03-09.png)
+---
+![](Screenshot%20from%202018-03-20%2019-03-28.png)
+---
+![](Screenshot%20from%202018-03-20%2019-04-02.png)
+---
+![](Screenshot%20from%202018-03-20%2019-04-12.png)
+---
 
 
 <a id="flow-logs"></a>
@@ -152,50 +246,142 @@
 ### VPC Flow Logs
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-20%2019-04-49.png)
+---
+![](Screenshot%20from%202018-03-20%2019-04-53.png)
+---
+![](Screenshot%20from%202018-03-20%2019-05-21.png)
+---
+![](Screenshot%20from%202018-03-20%2019-05-46.png)
+---
+![](Screenshot%20from%202018-03-20%2019-06-19.png)
+---
+![](Screenshot%20from%202018-03-20%2019-06-27.png)
+---
+![](Screenshot%20from%202018-03-20%2019-06-51.png)
+---
+![](Screenshot%20from%202018-03-20%2019-07-10.png)
+---
+![](Screenshot%20from%202018-03-20%2019-07-34.png)
+---
+![](Screenshot%20from%202018-03-20%2019-07-52.png)
+---
+![](Screenshot%20from%202018-03-20%2019-08-21.png)
+---
 
 <a id="nat-and-bastions"></a>
 
 ### NAT's vs Bastions
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-20%2019-08-55.png)
+---
+![](Screenshot%20from%202018-03-20%2019-09-27.png)
+---
+![](Screenshot%20from%202018-03-20%2019-12-17.png)
+---
 
 <a id="end-points"></a>
 
 ### VPC End Points
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-20%2019-12-32.png)
+---
+![](Screenshot%20from%202018-03-21%2008-21-41.png)
+---
+![](Screenshot%20from%202018-03-21%2008-22-56.png)
+---
+![](Screenshot%20from%202018-03-21%2008-23-06.png)
+---
+![](Screenshot%20from%202018-03-21%2008-23-13.png)
+---
+![](Screenshot%20from%202018-03-21%2008-23-57.png)
+---
+![](Screenshot%20from%202018-03-21%2008-24-02.png)
+---
+![](Screenshot%20from%202018-03-21%2008-24-05.png)
+---
+![](Screenshot%20from%202018-03-21%2008-24-26.png)
+---
+![](Screenshot%20from%202018-03-21%2008-25-00.png)
+---
+![](Screenshot%20from%202018-03-21%2008-25-54.png)
+---
+![](Screenshot%20from%202018-03-21%2008-26-28.png)
+---
+![](Screenshot%20from%202018-03-21%2008-26-30.png)
+---
+![](Screenshot%20from%202018-03-21%2008-26-45.png)
+---
+![](Screenshot%20from%202018-03-21%2008-27-05.png)
+---
+![](Screenshot%20from%202018-03-21%2008-28-05.png)
+---
+![](Screenshot%20from%202018-03-21%2008-28-25.png)
+---
+![](Screenshot%20from%202018-03-21%2008-28-36.png)
+---
+![](Screenshot%20from%202018-03-21%2008-28-50.png)
+---
+![](Screenshot%20from%202018-03-21%2008-29-00.png)
+---
+![](Screenshot%20from%202018-03-21%2008-29-09.png)
+---
+![](Screenshot%20from%202018-03-21%2008-29-15.png)
+---
 
 <a id="clean-up"></a>
 
 ### VPC Clean Up
 <p align="right"><a href="#top">Top</a></p>
 
-
-
+![](Screenshot%20from%202018-03-21%2008-29-34.png)
+---
+![](Screenshot%20from%202018-03-21%2008-30-25.png)
+---
+![](Screenshot%20from%202018-03-21%2008-30-49.png)
+---
+![](Screenshot%20from%202018-03-21%2008-31-57.png)
+---
 
 <a id="summary"></a>
 
 ### VPC Summary
 <p align="right"><a href="#top">Top</a></p>
 
-
-
-
+![](Screenshot%20from%202018-03-21%2008-32-30.png)
+---
+![](Screenshot%20from%202018-03-21%2008-32-56.png)
+---
+![](Screenshot%20from%202018-03-21%2008-34-05.png)
+---
+![](Screenshot%20from%202018-03-21%2008-35-04.png)
+---
+![](Screenshot%20from%202018-03-21%2008-36-19.png)
+---
+![](Screenshot%20from%202018-03-21%2008-36-29.png)
+---
+![](Screenshot%20from%202018-03-21%2008-37-03.png)
+---
+![](Screenshot%20from%202018-03-21%2008-37-09.png)
+---
+![](Screenshot%20from%202018-03-21%2008-37-35.png)
+---
+![](Screenshot%20from%202018-03-21%2008-38-30.png)
+---
+![](Screenshot%20from%202018-03-21%2008-38-43.png)
+---
 
 <a id="quiz"></a>
 
 ### VPC Quiz
 <p align="right"><a href="#top">Top</a></p>
 
-
-
-
+![](Screenshot%20from%202018-03-21%2008-40-03.png)
+---
+![](Screenshot%20from%202018-03-21%2008-40-34.png)
+---
 
 
 The End
