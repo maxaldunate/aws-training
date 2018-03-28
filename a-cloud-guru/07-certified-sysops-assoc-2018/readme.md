@@ -8,6 +8,7 @@
 ### [Chapter 1. Introduction to the Course](01-intro/readme.md)
 ### [Chapter 2. Monitoring, Metrics and Analysis](02-mma/readme.md)
 ### [Chapter 3. High Availability](03-ha/readme.md)
+### [Chapter 4. Deployment & Provisioning](04-dp/readme.md)
 
 The End
 
