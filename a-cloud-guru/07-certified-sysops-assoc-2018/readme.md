@@ -9,6 +9,7 @@
 ### [Chapter 2. Monitoring, Metrics and Analysis](02-mma/readme.md)
 ### [Chapter 3. High Availability](03-ha/readme.md)
 ### [Chapter 4. Deployment & Provisioning](04-dp/readme.md)
+### [Chapter 5. Data Management](05-dm/readme.md)
 
 The End
 
