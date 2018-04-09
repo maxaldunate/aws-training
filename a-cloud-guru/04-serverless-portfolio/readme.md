@@ -1,9 +1,9 @@
 <a id="top" />
 
-# Certified SysOps Administrator - Associate 2018
-[Course Dashboard](https://acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
+# Create a Serverless Portfolio with AWS and React
+[Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
 
-### [CODE](code/)
+### [Original Code](code/)
 
 ## Content
 
