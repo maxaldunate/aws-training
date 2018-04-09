@@ -5,6 +5,8 @@
 
 ### [Original Code](code/)
 
+### [Final Code Github repo](https://github.com/pearcem0/serverless-portfolio)
+
 ## Content
 
 ### [Chapter 1, 2 & 3. Intro, Getting Started & Deploy Your Portfolio to AWS](01-02-03-intro-and-deploy-to-aws/readme.md)
