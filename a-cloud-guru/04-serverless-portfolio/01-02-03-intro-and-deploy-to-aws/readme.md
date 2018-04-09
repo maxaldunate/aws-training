@@ -29,8 +29,6 @@
   * [Deploying to S3](#deploy-s3)
   * [CloudFront & SSL](#deploy-cloudFront)
 
-* [Links](#links)
-
 <a id="st"></a>
 
 ## Getting Started

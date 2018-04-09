@@ -22,8 +22,6 @@
   * [SNS: Simple Notification Service](#automate-sns)
   * [CodePipeline](#automate-pipe)
 
-* [Links](#links)
-
 <a id="automate"></a>
 ## Automate Your Deployment
 <p align="right"><a href="#top">Top</a></p>
