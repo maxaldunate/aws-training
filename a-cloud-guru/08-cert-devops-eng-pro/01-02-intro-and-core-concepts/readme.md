@@ -70,37 +70,84 @@
 ### Deployment Types Explained
 <p align="right"><a href="#top">Top</a></p>
 
-
+![](Screenshot%20from%202018-04-11%2018-52-31.png)
+---
+![](Screenshot%20from%202018-04-11%2018-53-13.png)
+---
+![](Screenshot%20from%202018-04-11%2018-54-32.png)
+---
+![](Screenshot%20from%202018-04-11%2018-59-00.png)
+---
+![](Screenshot%20from%202018-04-11%2019-01-19.png)
+---
+![](Screenshot%20from%202018-04-11%2019-03-23.png)
+---
+![](Screenshot%20from%202018-04-11%2019-04-27.png)
+---
 
 <a id="ab"></a>
 
 ### AB Testing
 <p align="right"><a href="#top">Top</a></p>
 
-
+![](Screenshot%20from%202018-04-11%2019-04-38.png)
+---
+![](Screenshot%20from%202018-04-11%2019-07-01.png)
+---
+![](Screenshot%20from%202018-04-11%2019-08-21.png)
+---
+![](Screenshot%20from%202018-04-11%2019-08-40.png)
+---
+![](Screenshot%20from%202018-04-11%2019-09-56.png)
+---
+![](Screenshot%20from%202018-04-11%2019-10-54.png)
+---
 
 <a id="boot"></a>
 
 ### Bootstrapping
 <p align="right"><a href="#top">Top</a></p>
 
-
+![](Screenshot%20from%202018-04-11%2019-11-18.png)
+---
+![](Screenshot%20from%202018-04-11%2019-12-48.png)
+---
+![](Screenshot%20from%202018-04-11%2019-14-37.png)
+---
 
 <a id="immutable"></a>
 
 ### Immutable Architecture
 <p align="right"><a href="#top">Top</a></p>
 
-
+![](Screenshot%20from%202018-04-11%2019-16-33.png)
+---
+![](Screenshot%20from%202018-04-11%2019-17-33.png)
+---
+![](Screenshot%20from%202018-04-11%2019-18-01.png)
+---
+![](Screenshot%20from%202018-04-11%2019-18-07.png)
+---
+![](Screenshot%20from%202018-04-11%2019-18-12.png)
+---
+![](Screenshot%20from%202018-04-11%2019-18-52.png)
+---
+![](Screenshot%20from%202018-04-11%2019-19-58.png)
+---
 
 <a id="docker"></a>
 
 ### Containers/Docker Primer
 <p align="right"><a href="#top">Top</a></p>
 
-
-
-
+![](Screenshot%20from%202018-04-11%2019-20-17.png)
+---
+![](Screenshot%20from%202018-04-11%2019-21-52.png)
+---
+![](Screenshot%20from%202018-04-11%2019-24-01.png)
+---
+![](Screenshot%20from%202018-04-11%2019-27-12.png)
+---
 
 
 The End
