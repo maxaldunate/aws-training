@@ -1,7 +1,7 @@
 <a id="top" />
 
 # Chapter 1 & 2. Introductions & Core Concepts
-[Course Dashboard](https://acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
+[Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
 
 ## Content
