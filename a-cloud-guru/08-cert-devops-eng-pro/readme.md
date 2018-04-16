@@ -9,6 +9,6 @@
 ### [Chapter 3. CI/CD/Automation](03-ci-cd-automation/readme.md)
 ### [Chapter 4. Monitoring/Metrics/Logging](04-monitoring-metrics-logging/readme.md)
 ### [Chapter 5. Security/Governance/Validation](05-security-governance-validation/readme.md)
-
+### [Chapter 6. High Availability and Elasticity](06-autoscaling-rds-aurora-dynamo/readme.md)
 
 <p align="right"><a href="#top">Top</a></p>
