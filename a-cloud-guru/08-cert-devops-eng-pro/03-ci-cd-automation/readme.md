@@ -3,6 +3,11 @@
 # Chapter 3. CI/CD/Automation
 [Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
+## Links 
+* [Parameters - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html)
+* [Intrinsic Function Reference - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html)
+* [AWS Resource Types Reference - AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html)
+
 ## Content
 
 * [CloudFormation Primer](#cfn-primer)
