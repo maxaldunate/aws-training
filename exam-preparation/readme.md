@@ -10,11 +10,6 @@
 ## FAQs
 * [AWS FAQs List](faqs/aws-faqs-list.md)
 * [AWS FAQs Summary](faqs/aws-faqs-summary.md)
-	* [ACM](faqs/aws-faqs-summary.md#acm)
-	* [Cognito](faqs/aws-faqs-summary.md#cognito)
-	* [WorkSpaces](faqs/aws-faqs-summary.md#workspaces)
-	* [DynamoDB](faqs/aws-faqs-summary.md#dynamodb)
-	* [IAM](faqs/aws-faqs-summary.md#iam)
 
 ## To Memorize
 * [AWS Service Limits](docs-md/aws-limits.md)
