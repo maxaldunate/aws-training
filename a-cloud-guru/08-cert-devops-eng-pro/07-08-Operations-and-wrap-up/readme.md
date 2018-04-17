@@ -17,6 +17,10 @@
   * Compute  
     [Amazon EC2 Foundations (CMP203)](https://www.youtube.com/watch?v=97Wi7V1wLYA&list=PLhrlKZpdzukeiPpqZ3C7r-6DDqr0pWTow)
 
+* [Serverless Code](https://serverlesscode.com)
+* [Paul Wakeford](https://www.paulwakeford.info/)
+
+
 ## Content
 * Operations
   * [Instance Types Deep Dive](#instance-types)
