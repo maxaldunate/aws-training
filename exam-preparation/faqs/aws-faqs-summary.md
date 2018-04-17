@@ -2,6 +2,16 @@
 
 # AWS FAQs
 
+## Content
+* [FAQs ACM (Amazon Certificate Manager)](#acm)
+* [FAQs Cognito](#cognito)
+* [FAQs WorkSpaces](#workspaces)
+* [FAQs DynamoDB](#dynamodb)
+* [FAQs IAM](#iam)
+* [FAQs API GW](#api-gw)
+* [FAQs SES](#ses)
+* [FAQs CloudFormation](#cfn)
+
 <a id="acm" />
 
 ## FAQs ACM (Amazon Certificate Manager)
@@ -118,6 +128,48 @@
 * Q. Does MFA-protected API access control API access for AWS root accounts? No, MFA-protected API access only controls access for IAM users. Root accounts are not bound by IAM policies, which is why we recommend that you create IAM users to interact with AWS service APIs rather than use AWS root account credentials.
 * Q. How does MFA-protected API access interact with existing MFA use cases such as S3 MFA Delete? MFA-protected API access and S3 MFA Delete do not interact with each other. S3 MFA Delete currently does not support temporary security credentials. Instead, calls to the S3 MFA Delete API must be made using long-term access keys.
 * Q. Does MFA-protected API access work for federated users? Customers cannot use MFA-protected API access to control access for federated users. The GetFederatedSession API does not accept MFA parameters. Since federated users can’t authenticate with AWS MFA devices, they are unable to access resources designated using MFA-protected API access.
+
+<a id="api-gw" />
+
+## FAQs API GW
+<p align="right"><a href="#top">Top</a></p>
+
+* Q: What is an usage plan? Usage plans help you declare plans for third-party developers that restrict access only to certain APIs, define throttling and request quota limits, and associate them with API keys. You can also extract utilization data on an per-API key basis to analyze API usage and generate billing documents. For example, you can create a basic, professional, and enterprise plans – you can configure the basic usage plan to only allow 1,000 requests per day and a maximum of 5 requests per second (RPS).
+* Q: What if I mistakenly deployed to a stage? Amazon API Gateway saves the history of your deployments. At any point, using the Amazon API Gateway APIs or the console, you can roll back a stage to a previous deployment.
+* Q: How do I monetize my APIs on API Gateway? You can monetize your APIs on API Gateway by publishing them as products in AWS Marketplace. You will first need to register as a seller in AWS Marketplace, and submit your usage plans on API Gateway as products. Read here to learn more about API Monetization.
+* Q: How does AWS Signature Version 4 work? You can use AWS credentials -- access and secret keys – to sign requests to your service and authorize access like other AWS services. The signing of an Amazon API Gateway API request is managed by the custom API Gateway SDK generated for your service. You can retrieve temporary credentials associated with a role in your AWS account using Amazon Cognito.
+* Q: What is a custom authorizer? Custom authorizers are AWS Lambda functions. With custom request authorizers, you will be able to authorize access to APIs using a bearer token auth strategy such as OAuth. When an API is called, API Gateway checks if a custom authorizer is configured, API Gateway then calls the Lambda function with the incoming authorization token. You can use Lambda to implement various authorization strategies (e.g. JWT verification, OAuth provider callout) that return IAM policies which are used to authorize the request. If the policy returned by the authorizer is valid, API Gateway will cache the policy associated with the incoming token for up to 1 hour.
+* Q: How are throttling rules applied? First. API Gateway checks against your AWS account limit. If the traffic is below the set account limit, API Gateway checks the limit you have set on a stage or method. If the traffic is below the stage limit, then API Gateway applies the usage plans limits you set on a per-API key basis.
+* Q: How am I charged for using Amazon API Gateway? Amazon API Gateway rates are $3.50 per million API calls, plus the cost of data transfer out, in gigabytes. If you choose to provision a cache for your API, hourly rates apply. Please see the API Gateway Pricing pages for details on data transfer and caching costs.
+
+<a id="ses" />
+
+## FAQs SES
+<p align="right"><a href="#top">Top</a></p>
+
+* Q: What should I do after I'm finished testing and evaluating Amazon SES? Once you are ready to use Amazon SES to send email, you can request an Amazon SES sending limit increase. If granted, this increase will move your account out of the sandbox environment so that you can begin sending email to your customers. You will no longer need to verify recipient email addresses or recipient domains, and you will be able to send much larger quantities of email. To request a sending limit increase, please complete the request form in Support Center. We generally respond to these requests within 24 hours.
+* Q: What is the Amazon SES sandbox? The Amazon SES sandbox is an area in which new users can test the capabilities of Amazon SES. New Amazon SES users are automatically placed in the sandbox. While in the sandbox, you will only be able to send mail to verified email addresses, or to email addresses associated with the Amazon SES mailbox simulator. Additionally, while in the sandbox, you can send no more than 200 messages per 24-hour period, and no more than one message per second. When you are ready to move out of the sandbox, you can submit an SES Sending Limit Increase request.
+* Amazon SES will deliver? Amazon
+* Q: Is there a limit on the size of emails Amazon SES will deliver? Amazon SES will accept email messages up to 10 MB in size. This includes any images and attachments that are part of the message.
+* The total number of email addresses in the To:, CC:, and BCC: field must not exceed 50 recipients.
+* Sending limits are based on recipients rather than on messages. You can check your sending limits at any time by using the Amazon SES console.
+* For more information about the Amazon SES mailbox simulator, see Testing Amazon SES Email Sending in the Amazon SES Developer Guide.
+* Q. Where does Amazon SES send my bounce, complaint, and delivery notifications? Delivery notifications are available through Amazon SNS. Bounces and complaints can be sent to you by email, through Amazon SNS, or both. If you choose to receive bounce and complaint notifications by email, Amazon SES will send you your bounce and complaint notifications based on the following logic: If you used the SMTP interface to send the message, then notifications go to the address specified in SMTP's required MAIL FROM command, which overrides any Return-Path header specified in the SMTP DATA. If you used the SendEmail API operation to send the message, then: If you specified SendEmail's optional ReturnPath parameter, then notifications go to the specified address. Otherwise, notifications go to the address specified in SendEmail's required Source parameter, which populates the From: header of the message. If you used the SendRawEmail API operation to send the message, then: If you specified SendRawEmail's optional Source parameter, then notifications go to that address, overriding any Return-Path header specified in the raw message. Otherwise, if the Return-Path header was specified in the raw message, then notifications go to that address. Otherwise, notifications go to the address in the From: header of the raw message.
+* Q: How can I monitor the bounce and complaint rates for the email I send using Amazon SES? Amazon SES provides three main ways to monitor your bounces, complaints, deliveries, sent emails, and rejected emails. The first method is to use the Amazon SES console, Amazon SES API, or Amazon CloudWatch to access basic email sending metrics across your entire AWS account. The second method is to set up Amazon SES to send you detailed feedback notifications through email or through Amazon SNS. The third method is to use Amazon SES event publishing. With event publishing, you categorize your emails and collect event data for each category of emails separately using either Amazon CloudWatch or Amazon Kinesis Firehose. You can set up Amazon Kinesis Firehose to send the event records to Amazon Redshift, Amazon S3, or Amazon Elasticsearch Service. If you use Amazon Elasticsearch Service, you can visualize your event data using Kibana. For more information about monitoring methods, see Monitoring Your Amazon SES Sending Activity in the Amazon SES Developer Guide.
+* Q: How is Amazon SES different from Amazon SNS? Amazon SES is for applications that need to send communications via email. Amazon SES supports custom email header fields, and many MIME types. By contrast, Amazon Simple Notification Service (Amazon SNS) is for messaging-oriented applications, with multiple subscribers requesting and receiving "push" notifications of time-critical messages via a choice of transport protocols, including HTTP, Amazon SQS, and email. The body of an Amazon SNS notification is limited to 8192 characters of UTF-8 strings, and is not intended to support multimedia content.
+* Q: How do I make requests to Amazon SES? Amazon SES accepts Query requests over HTTPS. These requests use verbs such as GET or POST, and a parameter named Action to indicate the action being performed. For security reasons, Amazon SES does not support HTTP requests; you must use HTTPS instead.
+
+<a id="cfn" />
+
+## FAQs CloudFormation
+<p align="right"><a href="#top">Top</a></p>
+
+* Q: Can I install software at stack creation time using AWS CloudFormation? Yes. AWS CloudFormation provides a set of application bootstrapping scripts that enable you to install packages, files, and services on your EC2 instances by simply describing them in your CloudFormation template. For more details and a how-to see Bootstrapping Applications via AWS CloudFormation.
+* Q: Can I use AWS CloudFormation with Chef? Yes. AWS CloudFormation can be used to bootstrap both the Chef Server and Chef Client software on your EC2 instances. For more details and a how-to see Integrating AWS CloudFormation with Chef.
+* Q: Can I use AWS CloudFormation with Puppet? Yes. AWS CloudFormation can be used to bootstrap both the Puppet Master and Puppet Client software on your EC2 instances. For more details and a how-to see Integrating AWS CloudFormation with Puppet
+* Q: Can stack creation wait for my application to start up? Yes. AWS CloudFormation provides a WaitCondition resource that acts as a barrier, blocking the creation of other resources until a completion signal is received from an external source such as your application, or management system.
+* Q: Are there limits to the size of description fields? Template, Parameter, Output, and Resource description fields are limited to 4096 characters.
+* Q: Are there limits to the number of parameters or outputs in a template? You can include up to 60 parameters and 60 outputs in a template.
 
 
 The End
