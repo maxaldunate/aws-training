@@ -8,8 +8,8 @@
 * [Steps 28 of 31](cloud-academy-summary/28-of-31-2017-exam-primer/Readme.md)
 
 ## FAQs
-* [AWS FAQs List](faqs/aws-faqs-list.md)
-* [AWS FAQs Summary](faqs/aws-faqs-summary.md)
+* [AWS FAQs List (AWS Website)](faqs/aws-faqs-list.md)
+* [AWS FAQs My Summary](faqs/aws-faqs-summary.md)
 
 ## To Memorize
 * [AWS Service Limits](docs-md/aws-limits.md)
