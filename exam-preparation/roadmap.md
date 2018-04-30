@@ -6,12 +6,11 @@
 ### Content
 * [Exam Approaching](#exam-approaching)
 * [Question Points](#question-points)
-* [AWS Recommended Resources](#aws-recommended-resources)
 * [To Memorize](#to-memorize)
+* [AWS Recommended Resources](#aws-recommended-resources)
 
-
-### Exam Approaching
 <p align="right"><a href="#top">Top</a></p>
+### Exam Approaching
 
 * [AWS Manin Site](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)
@@ -30,8 +29,8 @@
     * 5  6% Define Operationally Excellent Arhcs
 
 
-### Question Points
 <p align="right"><a href="#top">Top</a></p>
+### Question Points
 
 * min size ESB = 1 GiB
 * dedicate hosting state transitions = dedicated & host & vs
@@ -54,8 +53,8 @@
 * aws sms concurrent vmware vms migrated = 50
 
 
-### To Memorize
 <p align="right"><a href="#top">Top</a></p>
+### To Memorize
 
 * Well Architected Framework
 * Service Limits
@@ -71,8 +70,8 @@
 * Fichas Resumen
 
 
-### AWS Recommended Resources
 <p align="right"><a href="#top">Top</a></p>
+### AWS Recommended Resources
 
 - Recommended for SA Associate - 2018 
   * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
