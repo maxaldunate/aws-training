@@ -4,4 +4,5 @@
 1. [CloudAcademy Study Bookmarks](BookMarksStudy.md)
 1. [Solution Archietct Associate Try One](01-sa-assoc-try-one/readme.md)
 1. [Developer Associate Try One](02-dev-assoc-try-one/readme.md)
+1. [2018-04-29 Solution Archietct Associate Try 2](03-sa-assoc-try-2/readme.md)
 
