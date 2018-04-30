@@ -10,6 +10,7 @@
 * [AWS Recommended Resources](#aws-recommended-resources)
 
 <p align="right"><a href="#top">Top</a></p>
+
 ### Exam Approaching
 
 * [AWS Manin Site](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
@@ -30,6 +31,7 @@
 
 
 <p align="right"><a href="#top">Top</a></p>
+
 ### Question Points
 
 * min size ESB = 1 GiB
@@ -54,6 +56,7 @@
 
 
 <p align="right"><a href="#top">Top</a></p>
+
 ### To Memorize
 
 * Well Architected Framework
@@ -71,6 +74,7 @@
 
 
 <p align="right"><a href="#top">Top</a></p>
+
 ### AWS Recommended Resources
 
 - Recommended for SA Associate - 2018 
