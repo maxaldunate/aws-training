@@ -4,13 +4,15 @@
 # Released February 2018. SAA-C01 
 
 ### Content
-* Exam Approaching
-* Question Points
-* AWS Recommended Resources
-* To Memorize
+* [Exam Approaching](#exam-approaching)
+* [Question Points](#question-points)
+* [AWS Recommended Resources](#aws-recommended-resources)
+* [To Memorize](#to-memorize)
+
 
 ### Exam Approaching
 <p align="right"><a href="#top">Top</a></p>
+
 * [AWS Manin Site](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)
 * [Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf)
@@ -27,8 +29,10 @@
     * 4 10% Design Cost-Optimized Archs
     * 5  6% Define Operationally Excellent Arhcs
 
+
 ### Question Points
 <p align="right"><a href="#top">Top</a></p>
+
 * min size ESB = 1 GiB
 * dedicate hosting state transitions = dedicated & host & vs
 * rds failover = failure primary, network primary & loss AZ primary
@@ -52,6 +56,7 @@
 
 ### To Memorize
 <p align="right"><a href="#top">Top</a></p>
+
 * Well Architected Framework
 * Service Limits
 * Instance Types
@@ -66,9 +71,9 @@
 * Fichas Resumen
 
 
-
 ### AWS Recommended Resources
 <p align="right"><a href="#top">Top</a></p>
+
 - Recommended for SA Associate - 2018 
   * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
   * [Architecting for the Cloud - AWS Best Practices - February 2016](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
