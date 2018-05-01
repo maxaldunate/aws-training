@@ -60,17 +60,31 @@
 ### To Memorize
 
 * Well Architected Framework
-* Service Limits
-* Instance Types
+  - [AWS Training summary](https://github.com/escamarla/aws-training/tree/master/aws/aws-well-architected-training)
+  - [A Cloud Guru](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/02-certified-solutions-architect-associate-2018/readme.md#waf)
+  - [AWS Well-Architected Framework November 2017](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+* [Service Limits](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/aws-limits.md)
+* [Instance Types](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/instance-types.md)
 * Shares responsability model
+  - [Chart](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-13-security-responsability.png)
 * S3 types availability and durability %
+  - https://aws.amazon.com/s3/storage-classes/
 * Trusted Advisor Checkpoints
 * Diff: SSE-KMS, SSE-S3 & SSE-C
 * VPN connection
 * Autoscaling and launch configuration
 * DR memorize
-* Federation steps (SAML)
-* Fichas Resumen
+  - https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-06-disaster-recovery-comparission.png
+* Federation
+  - [Federated Identity](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-15-federate-identity.png)
+  - [Fed Id with Cognito](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-16-federate-identity-aws-cognito.png)
+  - [SAML]()
+* [HA Top 10](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-09-ha-top-ten.png)
+* EC2 States
+  - [Sate Machine](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-02-ec2-states.png)
+  - [Comparission](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-03-ec2-differences-stop-reboot-terminate.png)
+* [Encryption Options](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-21-aws-encryption-options.png)
+* [Service Catalog](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/aws-services-catalog.md)
 
 
 <p align="right"><a href="#top">Top</a></p>
@@ -86,7 +100,8 @@
   * [Amazon Web Services: Risk and Compliance - May 2017](https://d1.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
   * [AWS Storage Services Overview - A Look at Storage Services Offered by AWS - Dec 2016](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
 - Others Recommended
-  * [AWS Well-Architected Framework November 2017](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf) 
+  * [FAQs Summary](https://github.com/escamarla/aws-training/blob/master/exam-preparation/faqs/aws-faqs-summary.md)
+  * [White papers recommended by ACG](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/docs-to-read.md/#wp)
 - AWS Playlist. https://www.youtube.com/user/AmazonWebServices/
   * [AWS re:Invent 2017: A Field Guide to Monitoring on the AWS Cloud: From Lift and Shif (DEV209)](https://www.youtube.com/watch?v=HjhqjG3YWFI&list=PLhrlKZpdzukf34vxrO18JKjMLT_5tGNJi)
   * [AWS re:Invent 2017: The Open Guide to AWS: A GitHub-Based Resource for Practitioners (DVC202)](https://www.youtube.com/watch?v=6LFE4IijMXw&list=PLhrlKZpdzukcXiSxwm8Q-A14n17gZj_kT)
