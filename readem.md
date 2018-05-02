@@ -10,7 +10,7 @@ Open an account at [AWS](https://aws.amazon.com/) making almost everything with 
 
 Max Aldunate
 
-### Content
+## Content
 
 * [AWS Well-Architected Training](aws/aws-well-architected-training)
 * [Cloud Academy](cloud-academy/readme.md)
