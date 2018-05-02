@@ -27,13 +27,9 @@
 * [All Symmary](docs-md/all-summary.md)
 
 ## Docs
-* [AWS - Certified Developer Associate Blueprint](docs/AWS_certified_developer_associate_blueprint.pdf)
 * [AWS - Certified Developer Associate Sample Exam Questions](docs/AWS_certified_developer_associate_examsample.pdf)
-* [AWS - Certified Solutions Architect Associate Blueprint](docs/AWS_certified_solutions_architect_associate_blueprint.pdf)
 * [AWS - Certified Solutions Architect Associate Sample Exam Questions](docs/AWS_certified_solutions_architect_associate_examsample.pdf)
-* [CloudElements - App Connections are easy, integrations are hard](docs/app-connections-are-easy-integrations-are-hard.pdf)
-* [CloudElements - Build platforms not products](docs/ebook-build-platforms-not-products.pdf)
-* [CAPSiDE - Catálogo de cursos 2017](docs/CAPSiDE-Catálogo-de-cursos-2017-Q1.pdf)
+
 
 ## Links
 * [ACG What you need to get AWS Certified](https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f)
