@@ -7,6 +7,18 @@
 * [Results](#results)
 * [Questions](#questions)
 
+### Related links
+* [Compare AWS Support Plans](https://aws.amazon.com/premiumsupport/compare-plans/)
+* [AWS Server Migration Service - FAQs](https://aws.amazon.com/server-migration-service/faqs/)
+* [Dedicated Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html#dedicated-howitworks)
+* [EBS Volume Types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html)
+* [Automated Backups and Database Snapshots](https://aws.amazon.com/rds/faqs/#automated-backups-database-snapshots)
+* [EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
+* [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+* [S3 Lifecycle Management Update – Support for Multipart Uploads and Delete Markers](https://aws.amazon.com/blogs/aws/s3-lifecycle-management-update-support-for-multipart-uploads-and-delete-markers/)
+* [Trusted Advisor Best Practices Security](https://aws.amazon.com/premiumsupport/trustedadvisor/best-practices/#security)
+* [Overview of Setting Up a VPN Connection](https://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html#Summary)
+
 <a id="results"></a>
 
 ## Results
