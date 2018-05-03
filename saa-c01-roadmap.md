@@ -1,15 +1,13 @@
 <a id="top" />
 
-# AWS Certified Solutions Architect Associate
-# Released February 2018. SAA-C01 
+# SAA-C01 - Released February 2018
+AWS Certified Solutions Architect Associate
 
 ### Content
 * [Exam Approaching](#exam-approaching)
-* [Question Points](#question-points)
-* [To Memorize](#to-memorize)
 * [AWS Recommended Resources](#aws-recommended-resources)
-
-<p align="right"><a href="#top">Top</a></p>
+* [Question Points](#question-points)
+* [Big Summary](#big-summary)
 
 ### Exam Approaching
 
@@ -29,6 +27,24 @@
     * 4 10% Design Cost-Optimized Archs
     * 5  6% Define Operationally Excellent Arhcs
 
+### AWS Recommended Resources
+
+- Recommended for SA Associate - 2018 
+  * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+  * [Architecting for the Cloud - AWS Best Practices - February 2016](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+- Recommended for SA Associate
+  * [Overview of Amazon Web Services - April 2017](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+  * [Overview of Security Processes - June 2016](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
+  * [Amazon Web Services: Risk and Compliance - May 2017](https://d1.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
+  * [AWS Storage Services Overview - A Look at Storage Services Offered by AWS - Dec 2016](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
+- Others Recommended
+  * [FAQs Summary](https://github.com/escamarla/aws-training/blob/master/exam-preparation/faqs/aws-faqs-summary.md)
+  * [White papers recommended by ACG](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/docs-to-read.md/#wp)
+- AWS Playlist. https://www.youtube.com/user/AmazonWebServices/
+  * [AWS re:Invent 2017: A Field Guide to Monitoring on the AWS Cloud: From Lift and Shif (DEV209)](https://www.youtube.com/watch?v=HjhqjG3YWFI&list=PLhrlKZpdzukf34vxrO18JKjMLT_5tGNJi)
+  * [AWS re:Invent 2017: The Open Guide to AWS: A GitHub-Based Resource for Practitioners (DVC202)](https://www.youtube.com/watch?v=6LFE4IijMXw&list=PLhrlKZpdzukcXiSxwm8Q-A14n17gZj_kT)
+  * [AWS re:Invent 2017: A story of Netflix and AB Testing in the User Interface using Dy (DAT308)](https://www.youtube.com/watch?v=k8PTetgYzLA&list=PLhrlKZpdzuketnzOgclLSIXCacM84ryFX)
+  * [AWS re:Invent 2017: Amazon EC2 Foundations (CMP203)](https://www.youtube.com/watch?v=97Wi7V1wLYA&list=PLhrlKZpdzukeiPpqZ3C7r-6DDqr0pWTow)
 
 <p align="right"><a href="#top">Top</a></p>
 
@@ -57,7 +73,7 @@
 
 <p align="right"><a href="#top">Top</a></p>
 
-### To Memorize
+### Big Summary
 
 * Well Architected Framework
   - [AWS Training summary](https://github.com/escamarla/aws-training/tree/master/aws/aws-well-architected-training)
@@ -88,25 +104,6 @@
 
 
 <p align="right"><a href="#top">Top</a></p>
-
-### AWS Recommended Resources
-
-- Recommended for SA Associate - 2018 
-  * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-  * [Architecting for the Cloud - AWS Best Practices - February 2016](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
-- Recommended for SA Associate
-  * [Overview of Amazon Web Services - April 2017](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
-  * [Overview of Security Processes - June 2016](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
-  * [Amazon Web Services: Risk and Compliance - May 2017](https://d1.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
-  * [AWS Storage Services Overview - A Look at Storage Services Offered by AWS - Dec 2016](https://d1.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
-- Others Recommended
-  * [FAQs Summary](https://github.com/escamarla/aws-training/blob/master/exam-preparation/faqs/aws-faqs-summary.md)
-  * [White papers recommended by ACG](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/docs-to-read.md/#wp)
-- AWS Playlist. https://www.youtube.com/user/AmazonWebServices/
-  * [AWS re:Invent 2017: A Field Guide to Monitoring on the AWS Cloud: From Lift and Shif (DEV209)](https://www.youtube.com/watch?v=HjhqjG3YWFI&list=PLhrlKZpdzukf34vxrO18JKjMLT_5tGNJi)
-  * [AWS re:Invent 2017: The Open Guide to AWS: A GitHub-Based Resource for Practitioners (DVC202)](https://www.youtube.com/watch?v=6LFE4IijMXw&list=PLhrlKZpdzukcXiSxwm8Q-A14n17gZj_kT)
-  * [AWS re:Invent 2017: A story of Netflix and AB Testing in the User Interface using Dy (DAT308)](https://www.youtube.com/watch?v=k8PTetgYzLA&list=PLhrlKZpdzuketnzOgclLSIXCacM84ryFX)
-  * [AWS re:Invent 2017: Amazon EC2 Foundations (CMP203)](https://www.youtube.com/watch?v=97Wi7V1wLYA&list=PLhrlKZpdzukeiPpqZ3C7r-6DDqr0pWTow)
 
 
 The End
