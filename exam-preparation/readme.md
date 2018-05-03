@@ -25,6 +25,7 @@
 * [Aws Services Catalog](docs-md/aws-services-catalog.md)
 * [Deep dive on infrastructure as code](docs-md/deep-dive-on-infrastructure-as-code.md)
 * [All Symmary](docs-md/all-summary.md)
+* [AWS Well Architected Framework](docs-md/aws-well-architected-framework.md)
 
 ## Docs
 * [AWS - Certified Developer Associate Sample Exam Questions](docs/AWS_certified_developer_associate_examsample.pdf)
