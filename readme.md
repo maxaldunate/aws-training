@@ -12,13 +12,11 @@ Max Aldunate
 
 ## Content
 
-* [AWS Well-Architected Training](aws/aws-well-architected-training)
 * [Courses done at 'Cloud Academy' website](cloud-academy/readme.md)
 * [Courses done at 'A Cloud Guru' website](a-cloud-guru/readme.md)
 * [Other Resources](other-resources/readme.md)
-* [Exam Preparation](exam-preparation/readme.md)
-* [Exam Roadmap](exam-preparation/roadmap.md)
 
+* [Exam Roadmap Summary](roadmap.md)
 
 <p align="right"><a href="#top">Top</a></p>
 
