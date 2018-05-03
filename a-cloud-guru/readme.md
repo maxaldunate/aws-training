@@ -2,8 +2,7 @@
 - [ACG Website](https://acloud.guru)
 - [ACG dashboard](https://acloud.guru/dashboard)
 
-Associate
----
+> Associate
 
 1. [Certified Solutions Architect - Associate 2018](certified-solutions-architect-associate-2018/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
@@ -14,8 +13,7 @@ Associate
 1. [Certified SysOps Administrator - Associate 2018](certified-sysops-assoc-2018/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
 
-Professional
----
+> Professional
 
 1. [Certified Solutions Architect - Professional](certified-solutions-architect-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
@@ -23,8 +21,7 @@ Professional
 1. [Certified DevOps Engineer - Professional](certified-devops-eng-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
-Others
----
+> Others
 
 1. [AWS Certification Exam Prep Guide](aws-certification-exam-prep-guide/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
@@ -34,4 +31,5 @@ Others
 
 1. [AWS Lambda](lambda/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
+
 The End
