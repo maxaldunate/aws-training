@@ -51,6 +51,6 @@
 
 ## Links to my summary
 
-* [EC2 Instance Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-38-12.png)
-* [Instance Types Mnemonics](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-40-52.png)
-* [EBS Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/06-certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-43-15.png)
+* [EC2 Instance Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-38-12.png)
+* [Instance Types Mnemonics](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-40-52.png)
+* [EBS Types](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-developer-associate-2018/04-ec2/Screenshot%20from%202018-03-01%2020-43-15.png)
