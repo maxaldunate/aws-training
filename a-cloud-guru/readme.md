@@ -32,6 +32,6 @@ Others
 1. [Create a Serverless Portfolio with AWS and React](serverless-portfolio/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
 
-1. [AWS Lambda](05-lambda/readme.md)  
+1. [AWS Lambda](lambda/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
 The End
