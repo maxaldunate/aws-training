@@ -20,13 +20,13 @@ Professional
 1. [Certified Solutions Architect - Professional](certified-solutions-architect-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
-1. [Certified DevOps Engineer - Professional](08-cert-devops-eng-pro/readme.md)  
+1. [Certified DevOps Engineer - Professional](cert-devops-eng-pro/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
 Others
 ---
 
-1. [AWS Certification Exam Prep Guide](01-aws-certification-exam-prep-guide/readme.md)  
+1. [AWS Certification Exam Prep Guide](aws-certification-exam-prep-guide/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
 
 1. [Create a Serverless Portfolio with AWS and React](serverless-portfolio/readme.md)  
