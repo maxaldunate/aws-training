@@ -1,10 +1,6 @@
 # Exam Preparation
 
 
-## FAQs
-* [AWS FAQs List (AWS Website)](faqs/aws-faqs-list.md)
-* [AWS FAQs My Summary](faqs/aws-faqs-summary.md)
-
 ## To Memorize
 * [AWS Service Limits](docs-md/aws-limits.md)
 * [Instance Types & EBS Types](docs-md/instance-types.md)
