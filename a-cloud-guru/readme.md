@@ -2,15 +2,6 @@
 - [ACG Website](https://acloud.guru)
 - [ACG dashboard](https://acloud.guru/dashboard)
 
-1. [AWS Certification Exam Prep Guide](01-aws-certification-exam-prep-guide/readme.md)  
-[ACG Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
-
-1. [Create a Serverless Portfolio with AWS and React](04-serverless-portfolio/readme.md)  
-[ACG Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
-
-1. [AWS Lambda](05-lambda/readme.md)  
-[ACG Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
-
 Associate
 ---
 
@@ -32,4 +23,15 @@ Professional
 1. [Certified DevOps Engineer - Professional](08-cert-devops-eng-pro/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
+Others
+---
+
+1. [AWS Certification Exam Prep Guide](01-aws-certification-exam-prep-guide/readme.md)  
+[ACG Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
+
+1. [Create a Serverless Portfolio with AWS and React](04-serverless-portfolio/readme.md)  
+[ACG Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
+
+1. [AWS Lambda](05-lambda/readme.md)  
+[ACG Course Dashboard](https://acloud.guru/course/aws-lambda/dashboard)
 The End
