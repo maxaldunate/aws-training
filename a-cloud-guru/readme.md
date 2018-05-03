@@ -5,7 +5,7 @@
 Associate
 ---
 
-1. [Certified Solutions Architect - Associate 2018](02-certified-solutions-architect-associate-2018/readme.md)  
+1. [Certified Solutions Architect - Associate 2018](certified-solutions-architect-associate-2018/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard)
 
 1. [Certified Developer - Associate 2018](06-certified-developer-associate-2018/readme.md)  
@@ -17,7 +17,7 @@ Associate
 Professional
 ---
 
-1. [Certified Solutions Architect - Professional](03-certified-solutions-architect-professional/readme.md)  
+1. [Certified Solutions Architect - Professional](certified-solutions-architect-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
 1. [Certified DevOps Engineer - Professional](08-cert-devops-eng-pro/readme.md)  
