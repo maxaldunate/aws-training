@@ -29,7 +29,7 @@ Others
 1. [AWS Certification Exam Prep Guide](01-aws-certification-exam-prep-guide/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certification-preparation/dashboard)
 
-1. [Create a Serverless Portfolio with AWS and React](04-serverless-portfolio/readme.md)  
+1. [Create a Serverless Portfolio with AWS and React](serverless-portfolio/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/serverless-portfolio-with-react/dashboard)
 
 1. [AWS Lambda](05-lambda/readme.md)  
