@@ -9,16 +9,14 @@ This is my personal summary in the way to take AWS Certifications. I learn mainl
 Open an account at [AWS](https://aws.amazon.com/) making almost everything with the [Free Tier](https://aws.amazon.com/free/)
 
 Max Aldunate - May 2018
----
 
-## [Exam Roadmap Summary](roadmap.md)
+## Courses & Resources
+### [Courses done at 'Cloud Academy' website](cloud-academy/readme.md)
+### [Courses done at 'A Cloud Guru' website](a-cloud-guru/readme.md)
+### [Other Resources](other-resources/readme.md)
 
-## Content
-
-* [Courses done at 'Cloud Academy' website](cloud-academy/readme.md)
-* [Courses done at 'A Cloud Guru' website](a-cloud-guru/readme.md)
-* [Other Resources](other-resources/readme.md)
-
+## Exams
+### [Exam SAA-C01 Released February 2018. Roadmap](saa-c01-roadmap.md)
 
 
 <p align="right"><a href="#top">Top</a></p>
