@@ -11,7 +11,7 @@ Associate
 1. [Certified Developer - Associate 2018](certified-developer-associate-2018/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-developer-associate/dashboard)
 
-1. [Certified SysOps Administrator - Associate 2018](07-certified-sysops-assoc-2018/readme.md)  
+1. [Certified SysOps Administrator - Associate 2018](certified-sysops-assoc-2018/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-sysops-administrator-associate/dashboard)
 
 Professional
