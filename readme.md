@@ -8,7 +8,10 @@ This is my personal summary in the way to take AWS Certifications. I learn mainl
 
 Open an account at [AWS](https://aws.amazon.com/) making almost everything with the [Free Tier](https://aws.amazon.com/free/)
 
-Max Aldunate
+Max Aldunate - May 2018
+---
+
+## [Exam Roadmap Summary](roadmap.md)
 
 ## Content
 
@@ -16,7 +19,7 @@ Max Aldunate
 * [Courses done at 'A Cloud Guru' website](a-cloud-guru/readme.md)
 * [Other Resources](other-resources/readme.md)
 
-* [Exam Roadmap Summary](roadmap.md)
+
 
 <p align="right"><a href="#top">Top</a></p>
 
