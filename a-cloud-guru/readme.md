@@ -20,7 +20,7 @@ Professional
 1. [Certified Solutions Architect - Professional](certified-solutions-architect-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-solutions-architect-professional/dashboard)
 
-1. [Certified DevOps Engineer - Professional](cert-devops-eng-pro/readme.md)  
+1. [Certified DevOps Engineer - Professional](certified-devops-eng-professional/readme.md)  
 [ACG Course Dashboard](https://acloud.guru/course/aws-certified-devops-engineer-professional/dashboard)
 
 Others
