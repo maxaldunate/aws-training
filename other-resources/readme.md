@@ -16,7 +16,7 @@
 * [AWS FAQs my summary](faqs/aws-faqs-summary.md)
 * [A Cloud Guru Courses](docs-md/a-cloud-guru-courses.md)
 * [AWS Service Limits](docs-md/aws-limits.md)
-* [Aws Services Catalog](docs-md/aws-services-catalog.md)
+* [Aws Cloud Products](docs-md/aws-cloud-products.md)
 * [AWS Sites](docs-md/aws-sites.md)
 * [AWS Well Architected Framework](docs-md/aws-well-architected-framework.md)
 * [CIDR examples](docs-md/cidr-examples.md)
