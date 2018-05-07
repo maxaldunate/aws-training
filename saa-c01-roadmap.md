@@ -68,7 +68,7 @@ AWS Certified Solutions Architect Associate
 | read replicas s/a | async |
 | multi az s/a | sync |
 | min size s3 object | 0 bytes |
-| VPN conn | 1.vpc w/hardware vpn access 2.on-premise CG & 3.VPG w/public IP |
+| VPN conn | -vpc hw vpn access -on-prem CG -VPG public IP |
 | aws support | enterprise, business, developer plus the basic free level |
 | aws sms concurrent vmware vms migrated | 50 |
 | record configuration changes | aws config |
@@ -77,9 +77,9 @@ AWS Certified Solutions Architect Associate
 | use ms win server license | dedicated host is required |
 | vpc peering not support | edge-to-edge routing |
 | Elastic IP addresses [EIP] | max 5 |
-| EBS redundant multiple physical volumes in the same AZ | true |
-| RDS enables autom backups with 1 day retention period | by default  |
-| max s3 buckets by default 100 |
+| EBS multiple physical volumes in the same AZ | true |
+| RDS enables autom backups with 1 day ret.p. | by default  |
+| max s3 buckets by default | 100 |
 | who delete a version of s3 object | just the owner |
 
 
