@@ -31,8 +31,7 @@ AWS Certified Solutions Architect Associate
 
 - Recommended for SA Associate - 2018 
   * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-  * [Architecting for the Cloud - AWS Best Practices - February 2016](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
-- Recommended for SA Associate
+  - Recommended for SA Associate
   * [Overview of Amazon Web Services - April 2017](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
   * [Overview of Security Processes - June 2016](http://d0.awsstatic.com/whitepapers/Security/AWS%20Security%20Whitepaper.pdf)
   * [Amazon Web Services: Risk and Compliance - May 2017](https://d1.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf)
@@ -69,7 +68,7 @@ AWS Certified Solutions Architect Associate
 | multi az s/a | sync |
 | min size s3 object | 0 bytes |
 | VPN conn | -vpc hw vpn access -on-prem CG -VPG public IP |
-| aws support | enterprise, business, developer plus the basic free level |
+| aws support | enter., business, devs + basic free level |
 | aws sms concurrent vmware vms migrated | 50 |
 | record configuration changes | aws config |
 | cloudwatch defaul metric for rds | memory usage |
@@ -87,124 +86,28 @@ AWS Certified Solutions Architect Associate
 
 ### Big Summary
 
-Summary
+
+Courses to Review
+
+- Certified Solutions Architect - Associate 2018
+- Certified Developer - Associate 2018
+- Certified SysOps Administrator - Associate 2018
+- Certified Solutions Architect - Professional
+- Certified DevOps Engineer - Professional
+- AWS Certification Exam Prep Guide
+- Create a Serverless Portfolio with AWS and React
+- AWS Lambda
 ---
 
-> Compute 
-  EC2
-  Elastic Beanstalk
-  Lightsail
-  ECS
-  Lambda
-  Batch
-> Storage 
-  S3
-  EFS
-  Glacier
-  Snowball
-  Storage Gateway
-> Databases 
-  RDS
-  DynamoDB
-  Elasticache
-  Redshift
-> Migration 
-  AWS Migration Hub
-  Application Discovery Service
-  Database Migration Service
-  Server Migration Service
-  Snowball
-> Networking & Content Delivery 
-  VPC
-  CloudFront
-  Route53
-  API Gateway
-  Direct Connect
-> Developer Tools 
-  CodeStar
-  CodeCommit
-  CodeBuild
-  CodeDeploy
-  CodePipeline
-  X-Ray
-  Cloud9
-> Management Tools  
-  CloudWatch
-  CloudFormation
-  CloudTrail
-  AWS Config
-  OpsWorks
-  Service Catalog
-  System Manager
-  Trusted Advisor
-  Managed Services
-> Media Services  
-  Elastic Transcoder
-  MediaConvert
-  MediaLive
-  MediaPackage
-  MediaStore
-  MediaTailor
-> Machine Learning  
-  SageMaker
-  Comprehend
-  DeepLens
-  Lex
-  Machine Learning
-  Polly
-  Rekognition
-  Amazon Trasnlate
-> Analytics 
-  Athena
-  EMR
-  CloudSearch
-  ElasticSearch Service
-  Kinesis
-  Kinesis Video Streams
-  QuickSight
-  Data Pipeline
-  Glue
-> Security & Identity & Compliance  
-  IAM
-  Cognito
-  GuardDuty
-  Inspector
-  Macie
-  Certificate Manager
-  CloudHSM
-  Directory Service
-  WAF
-  Shield
-  Artifact
-> Application Integration 
-  Step Functions
-  Amazon MQ
-  SNS
-  SQS
-  SWF
-> Customer Engagement 
-  Connect
-  SES
-> Business Productivity 
-  Alexa for Business
-  Chime
-  Work Docs
-  WorkMail
-> Desktop & App Streaming 
-  Workspaces
-  AppStream 2.0
 
 
+* Storage Options in the Cloud Whitepaper
+  - S3, Glacier, EBS, Instance-Storage, Imp/Exp
+  - Storage GW, CloudFront, SQS, RDS, DynamoDB, Elasticache, Redshift, DDBB on EC2
 
 
-Summary 
----
-
-ACG must read:
-- security process whitepaper (Shared Security Model)
-
-
-* Shared Security Model
+* Risk & Compliance Whitepaper - Shared Responsability Model
+  - request permissions do not violate aws acceptable use policy
   - storage decommissioning
   - https against eavesdropping, tampering and message forgery
   - VPN <-> VPC
@@ -220,6 +123,36 @@ ACG must read:
   - Instance Isolation
     * Xen hypervisor separate ram and networking
     * ram set to zero
+
+* Architecting for the Cloud Best Practices Whitepaper
+  - [Architecting for the Cloud - AWS Best Practices - February 2016](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+  - Business Benefits of Cloud
+    * almost zero upfront
+    * just-in-time infraestructure
+    * efficient resource utilization
+    * usage-based costing
+    * reduced time to market
+  - Techincal Benefits of Cloud
+    * Automation "Scriptable" infra
+    * Auto-scaling
+    * Proactive scaling
+    * efficient development lifecycle
+    * improve testability
+    * disaster recovery & business continuity
+    * "overflow" the traffic to the cloud
+  - Elasticity
+  - Design for failure (Decoupling)
+  - Security
+
+
+* Well Architected Framework
+  - [AWS Training summary](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/aws-well-architected-framework.md)
+  - [A Cloud Guru](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/02-certified-solutions-architect-associate-2018/readme.md#waf)
+  - [AWS Well-Architected Framework November 2017](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+
+
+
+
 
 
 
@@ -272,8 +205,7 @@ Batch
   - multi AZ one region
   - Read After Write Consistency
 
-
-* Snowball
+* AWS Import/Export - Snowball
   - Can Import -to-> S3
   - Can Export -from-> S3
   - What is Import/Export
@@ -300,6 +232,9 @@ Batch
 * DynamoDB
   - push button scaling, no downtime
   - Eventual Consistent Reads or strongly CR
+  - partition 10GB-3K rcu-1K wcu
+  - auto increase, no auto decrease
+  - wcu & rcu split between partitions
 
 * Elasticache
   - Memcached
@@ -506,6 +441,7 @@ AppStream 2.0
       - SSE-KMS
       - SSE-C
     * Client Side Encryption (CSE)
+  - EBS encryption powerfull instance (M3, C3, R3, G2 ...)
 
 
 
@@ -543,10 +479,6 @@ AppStream 2.0
 
 
 
-* Well Architected Framework
-  - [AWS Training summary](https://github.com/escamarla/aws-training/tree/master/aws/aws-well-architected-training)
-  - [A Cloud Guru](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/02-certified-solutions-architect-associate-2018/readme.md#waf)
-  - [AWS Well-Architected Framework November 2017](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 * [Service Limits](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/aws-limits.md)
 * [Instance Types](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/instance-types.md)
 * Shares responsability model
