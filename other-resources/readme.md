@@ -28,6 +28,7 @@
 * [Stress Amazon Linux](docs-md/stress-on-amazon-linux.md)
 * [AWS - Certified Developer Associate Sample Exam Questions](aws-cert-pdfs/AWS_certified_developer_associate_examsample.pdf)
 * [AWS - Certified Solutions Architect Associate Sample Exam Questions](aws-cert-pdfs/AWS_certified_solutions_architect_associate_examsample.pdf)
+* [AWS Main Summary](docs-md/aws-main-summary.md)
 
 
 
