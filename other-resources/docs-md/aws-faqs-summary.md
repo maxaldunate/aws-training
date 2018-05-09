@@ -11,7 +11,7 @@
 * [FAQs API GW](#api-gw)
 * [FAQs SES](#ses)
 * [FAQs CloudFormation](#cfn)
-* [FAQs Kinesis](faqs-kinesis)
+* [FAQs Kinesis](#faqs-kinesis)
 
 <a id="acm" />
 
