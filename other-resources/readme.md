@@ -12,7 +12,7 @@
 * [CloudAcademy Summary. Steps 7, 14 and 22 of 31](cloud-academy-summary/07.14.22-of-31-2017-exam-prep/Readme.md)
 * [CloudAcademy Summary. Steps 28 of 31](cloud-academy-summary/28-of-31-2017-exam-primer/Readme.md)
 * [Exam Simulations](exam-simulations/readme.md)
-* [AWS FAQs on AWS Website)](docs-md/aws-faqs-list.md)
+* [AWS FAQs on AWS Website](docs-md/aws-faqs-list.md)
 * [AWS FAQs my summary](docs-md/aws-faqs-summary.md)
 * [A Cloud Guru Courses](docs-md/a-cloud-guru-courses.md)
 * [AWS Service Limits](docs-md/aws-limits.md)
