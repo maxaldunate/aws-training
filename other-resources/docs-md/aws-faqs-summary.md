@@ -10,7 +10,7 @@
 * [FAQs IAM](#faqs-iam)
 * [FAQs API GW](#faqs-api-gw)
 * [FAQs SES](#faqs-ses)
-* [FAQs CloudFormation](#faqs-cfn)
+* [FAQs CloudFormation](#faqs-cloud-formation)
 * [FAQs Kinesis](#faqs-kinesis)
 
 ## FAQs ACM
@@ -237,7 +237,7 @@
 * **Q: How do I make requests to Amazon SES?**  
   Amazon SES accepts Query requests over HTTPS. These requests use verbs such as GET or POST, and a parameter named Action to indicate the action being performed. For security reasons, Amazon SES does not support HTTP requests; you must use HTTPS instead.
 
-## FAQs CloudFormation
+## FAQs Cloud Formation
 <p align="right"><a href="#top">Top</a></p>
 
 * **Q: Can I install software at stack creation time using AWS CloudFormation?**  
