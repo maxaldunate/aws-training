@@ -3,19 +3,18 @@
 # AWS FAQs
 
 ## Content
-* [FAQs ACM (Amazon Certificate Manager)](#acm)
-* [FAQs Cognito](#cognito)
-* [FAQs WorkSpaces](#workspaces)
-* [FAQs DynamoDB](#dynamodb)
-* [FAQs IAM](#iam)
-* [FAQs API GW](#api-gw)
-* [FAQs SES](#ses)
-* [FAQs CloudFormation](#cfn)
+* [FAQs ACM (Amazon Certificate Manager)](#faqs-acm)
+* [FAQs Cognito](#faqs-cognito)
+* [FAQs WorkSpaces](#faqs-workspaces)
+* [FAQs DynamoDB](#faqs-dynamodb)
+* [FAQs IAM](#faqs-iam)
+* [FAQs API GW](#faqs-api-gw)
+* [FAQs SES](#faqs-ses)
+* [FAQs CloudFormation](#faqs-cfn)
 * [FAQs Kinesis](#faqs-kinesis)
 
-<a id="acm" />
-
-## FAQs ACM (Amazon Certificate Manager)
+## FAQs ACM
+**Amazon Certificate Manager**
 <p align="right"><a href="#top">Top</a></p>
 
 * To use an ACM certificate with Amazon CloudFront, you must request the certificate in the US East (N. Virginia) region. ACM certificates in this region that are associated with a CloudFront distribution are distributed to all the geographic locations configured for that distribution.
@@ -43,8 +42,6 @@
 * **Q: Does my site drop existing connections when ACM deploys the renewed certificate?**  
   No, connections established after the new certificate is deployed use the new certificate, and existing connections are not affected.
 
-<a id="cognito" />
-
 ## FAQs Cognito
 <p align="right"><a href="#top">Top</a></p>
 
@@ -61,8 +58,6 @@
   No. You decide when to call the synchronize() method. Every write or read from the device is to the local SQlite store. This way you are in complete control of your costs.
 * **Q: Is data saved directly to the Amazon Cognito sync store?**  
   No. The optional AWS Mobile SDK saves your data to an SQLite database on the local device, this way the data is always accessible to your app. The data is pushed to the Amazon Cognito sync store by calling the synchronize() method and, if push synchronization is enabled, all other devices linked to an identity are notified of the data change in the sync store via Amazon SNS.
-
-<a id="workspaces" />
 
 ## FAQs WorkSpaces
 <p align="right"><a href="#top">Top</a></p>
@@ -106,8 +101,6 @@
   Yes, you will be able to monitor the total number hours your Amazon WorkSpaces has been running in a given period of time through Amazon CloudWatch “UserConnected” metric.
 * **Q: Can I print from my tablet or Chromebook?**  
   The Amazon WorkSpaces clients for tablets and Chromebook support cloud printing services including, but not limited to, Cortado ThinPrint® and Google Cloud Print. Local and network printing are not currently supported.
-
-<a id="dynamodb" />
 
 ## FAQs DynamoDB
 <p align="right"><a href="#top">Top</a></p>
@@ -168,8 +161,6 @@
 * **Q. Can I use different service default keys for different tables?**  
   No, DynamoDB uses a single service default key for encrypting all of your DynamoDB tables.
 
-<a id="iam" />
-
 ## FAQs IAM
 <p align="right"><a href="#top">Top</a></p>
 
@@ -207,8 +198,6 @@
 * **Q. Does MFA-protected API access work for federated users?**  
   Customers cannot use MFA-protected API access to control access for federated users. The GetFederatedSession API does not accept MFA parameters. Since federated users can’t authenticate with AWS MFA devices, they are unable to access resources designated using MFA-protected API access.
 
-<a id="api-gw" />
-
 ## FAQs API GW
 <p align="right"><a href="#top">Top</a></p>
 
@@ -226,8 +215,6 @@
   First. API Gateway checks against your AWS account limit. If the traffic is below the set account limit, API Gateway checks the limit you have set on a stage or method. If the traffic is below the stage limit, then API Gateway applies the usage plans limits you set on a per-API key basis.
 * **Q: How am I charged for using Amazon API Gateway?**  
   Amazon API Gateway rates are $3.50 per million API calls, plus the cost of data transfer out, in gigabytes. If you choose to provision a cache for your API, hourly rates apply. Please see the API Gateway Pricing pages for details on data transfer and caching costs.
-
-<a id="ses" />
 
 ## FAQs SES
 <p align="right"><a href="#top">Top</a></p>
@@ -249,8 +236,6 @@
   Amazon SES is for applications that need to send communications via email. Amazon SES supports custom email header fields, and many MIME types. By contrast, Amazon Simple Notification Service (Amazon SNS) is for messaging-oriented applications, with multiple subscribers requesting and receiving "push" notifications of time-critical messages via a choice of transport protocols, including HTTP, Amazon SQS, and email. The body of an Amazon SNS notification is limited to 8192 characters of UTF-8 strings, and is not intended to support multimedia content.
 * **Q: How do I make requests to Amazon SES?**  
   Amazon SES accepts Query requests over HTTPS. These requests use verbs such as GET or POST, and a parameter named Action to indicate the action being performed. For security reasons, Amazon SES does not support HTTP requests; you must use HTTPS instead.
-
-<a id="cfn" />
 
 ## FAQs CloudFormation
 <p align="right"><a href="#top">Top</a></p>
