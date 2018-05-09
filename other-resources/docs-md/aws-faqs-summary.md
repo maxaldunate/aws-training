@@ -283,6 +283,7 @@
   No. Amazon Kinesis Data Streams is not currently available in AWS Free Tier. AWS Free Tier is a program that offers free trial for a group of AWS services. For more details about AWS Free Tier, see AWS Free Tier.
 
 ### FAQs Trusted Advisor
+<p align="right"><a href="#top">Top</a></p>
 
 * **Q. How can I get the Service Limit data with command-line tools?**
   You can retrieve Service Limit data using the AWS CLI. This AWS Command Line Interface command displays the regions Trusted Advisor has flagged as approaching or reaching the limit for Amazon EC2 on-demand instance utilization, sorted by region name. aws support describe-trusted-advisor-check-result --language en --check-id eW7HH0l7J9 --query 'result.sort_by(flaggedResources[?status!=`ok`],&metadata[2])[].metadata' --output table You can check any of the limits covered by Trusted Advisor using this method. For more details, see Check Categories, IDs, and Report Columns
@@ -296,6 +297,7 @@
   Recommendations are available for Amazon Linux/UNIX and Windows Reserved Instances. The calculation excludes usage and recommendations for Red Hat Enterprise Linux, SUSE Linux Enterprise, Amazon RDS, Amazon ElastiCache, and others.
 
 ### FAQs SQS
+<p align="right"><a href="#top">Top</a></p>
 
 * Amazon SQS provides common middleware constructs such as dead-letter queues and poison-pill management.
 * **Q: How does Amazon SQS handle unsuccessfully-processed messages?**
@@ -334,6 +336,7 @@
   You can transfer data between Amazon SQS and Amazon EC2 or AWS Lambda free of charge within a single region. When you transfer data between Amazon SQS and Amazon EC2 or AWS Lambda in different regions, you will be charged the normal data transfer rate.
 
 ### FAQs SNS
+<p align="right"><a href="#top">Top</a></p>
 
 * A common pattern is to use SNS to publish messages to Amazon SQS queues to reliably send messages to one or many system components asynchronously.
 * If you're using messaging with existing applications, and want to move your messaging to the cloud quickly and easily, we recommend you consider Amazon MQ
@@ -386,6 +389,7 @@
   In iOS 8 and later, voice-over-IP (VoIP) apps can register for VoIP remote notifications such that iOS can launch or wake the app, as appropriate, when an incoming VoIP call arrives for the user. The procedure to register for VoIP notifications is similar to registering for regular push notifications on iOS. For more information, please refer to our documentation.
 
 ### FAQs OpsWorks
+<p align="right"><a href="#top">Top</a></p>
 
 * **Q: How is OpsWorks for Chef Automate different from OpsWorks Stacks?**
   OpsWorks for Chef Automate is a configuration management service that helps you instantly provision a Chef server and lets the service operate it, including performing backups and software upgrades. The service offers full compatibility with Chef’s Supermarket cookbooks and recipes. It supports native Chef tools such as TestKitchen and Knife. The OpsWorks Stacks service helps you model, provision, and manage your applications on AWS using the embedded Chef solo client that is installed on Amazon EC2 instances on your behalf. To learn more, see OpsWorks Stacks.
@@ -399,6 +403,7 @@
   Chef node upgrades can be done at your convenience by using the Chef omnibus recipe. Although OpsWorks regularly performs Chef server version upgrades on your behalf, your Chef nodes continue to operate even if they remain on the earlier version.
 
 ### FAQs Route 53
+<p align="right"><a href="#top">Top</a></p>
 
 * **Q. Does Amazon Route 53 offer a Service Level Agreement (SLA)?**
   Yes. The Amazon Route 53 SLA provides for a service credit if a customer’s monthly uptime percentage is below our service commitment in any billing cycle. More information can be found here
