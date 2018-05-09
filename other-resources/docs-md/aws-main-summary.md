@@ -2,9 +2,10 @@
 
 ### Courses that this document summarize
 
-> Certified Solutions Architect - Associate 2018
+- DONE. Certified Solutions Architect - Associate 2018
 
-- Certified Developer - Associate 2018
+> Certified Developer - Associate 2018
+
 - Certified SysOps Administrator - Associate 2018
 - Certified Solutions Architect - Professional
 - Certified DevOps Engineer - Professional
@@ -21,9 +22,6 @@
   - [Fed Id with Cognito](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-16-federate-identity-aws-cognito.png)
   - [SAML]()
 
-* EC2 States
-  - [Sate Machine](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-02-ec2-states.png)
-  - [Comparission](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-03-ec2-differences-stop-reboot-terminate.png)
 
 * [Service Catalog](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/aws-cloud-products.md)
 
@@ -102,10 +100,38 @@
   - Make public unencrypted volumes only
   - Snapshot of a RAID array: freeze the file system or unmount the RAID or (better) Shutdown ec2 instance
   - AMI are regionals
+  - [State Machine](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-02-ec2-states.png)
+  - [States Comparission](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-03-ec2-differences-stop-reboot-terminate.png)
+
+
 
 Elastic Beanstalk
 Lightsail
-ECS
+
+* ECS
+  - Regional, one or more AZ
+  - Containerisation Benefits
+    * Escape from dependency hell
+    * Consistent progression from DEV->TEST->QA->PROD
+    * Isolation app A, B and C
+    * Much better resource management
+    * EXtreme code portability
+    * Micro-services
+  - Docker Components
+    * Docker IMage, Docker Container, Layers/Union File System
+    * DockerFile, Docker Daemon/Engine, Docker Client, Docker Registries / Docker Hub
+  - Soft Limits
+    * Cluster per Region defualt 1.000
+    * Instacnes per Cluster defualt 1.000
+    * Services per Cluster defualt 500
+  - Hard Limits
+    * One load balancer per Service
+    * 1.000 tasks per service (the "desired count")
+    * Max 10 containers per task definition
+    * Max 10 tasks per instance (host)
+    
+
+
 Lambda
 Batch
 
@@ -128,6 +154,7 @@ Batch
 
 * EBS
   - [Types](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/instance-types.md)
+  - Instance stored volume cannot be detached and reattached to other ec2
 
 * EFS
   - NFSv4
@@ -195,9 +222,13 @@ Snowball
     * apply in order
     * stateless
     * block IPs no SG
+  - VPC Peering
+    * No transitive
+    * No overlapping CIDR
+    * No in different regions
   - VPC Flow Logs
     * Stores in CW
-    * peerinf vpc if both are in your account
+    * peering vpc if both are in your account
     * immutable configuration
     * no log
       - ec2 <-> aws dns
@@ -205,7 +236,7 @@ Snowball
       - to/from 169.254.169.254
       - DHCP traffic
       - reserved ip default vpc router
-  - VPC Endpoints (ex S3 endpoint)
+  - VPC Endpoints (ex S3, Kinessis)
 
 * CloudFront
   - Origins: S3, EC2, ELB or Route53
@@ -221,7 +252,14 @@ Snowball
   - Routing policies: Simple, Weighted, Latency, Failover and Geolocation
 
 API Gateway
-Direct Connect
+
+* Direct Connect
+  - Reduce costs w/large volumes, increase reliability & bandwith
+  - 10Gbps or 1Gbps
+  - Sub 1Gbps can be puchased to aws direct connect partners
+  - Uses Ethernet VLAN trunking 802.1Q
+
+
 
 > Developer Tools 
 CodeStar
@@ -238,9 +276,17 @@ Cloud9
   - Dashboards/Alarms/Events/Logs
 
 CloudFormation
-CloudTrail
+
+* CloudTrail
+  - Per Region
+  - Consolidate logs using S3 buckets
+
 AWS Config
-OpsWorks
+
+* OpsWorks
+  - Orchestration Service that use Chef
+  - Recipes, cookbooks, knife, kitchen
+
 Service Catalog
 System Manager
 
@@ -258,6 +304,7 @@ Managed Services
 * Elastic Transcoder
   - media files phones, tablets, pc's
   - popular formats, resolutions
+  - pay based on minutes and resolution
 
 
 MediaConvert
@@ -286,17 +333,27 @@ ElasticSearch Service
   - processing of streaming big data in real-time
   - [sumlogic](https://www.sumologic.com/blog/devops/kinesis-streams-vs-firehose/)
   - Kinesis Streams
-    * Producers (ec2, pcs, mobiles)   
+    * Definition
+      Capturing large amounts of data (terabytes per hour) from data producers, and streaming it into custom applications for data processing and analysis.
+    * Producers (ec2, pcs, mobiles)
+    * Producers (Kinesis Producer Library, Kinesis Client Library &  Kinesis Agent)
       --> Kinesis streams Shards --> ec2 consumers   
       --> Dynamo/S3/EMR/Redshift  
-    * 24 hs - 7 days Retention
+    * Data available from 24 hs to 7 days Retention
+    * Not scale automatically, each shard have a capacity (1MB in 2 MB out per second)
   - Kinesis Firehose
+    * Definition
+      Data-ingestion product offering for Kinesis. It is used to capture and load streaming data into other Amazon services such as S3 and Redshift.
     * Producers (ec2, pcs, mobiles)    
       --> Kinesis Firehose (Lambda Optional) --> S3
+    * Automatically scale to meet demand, which is in contrast to Kinesis Streams
   - Kinesis Analytics
+    * Definition
+      Forthcoming product offering that will allow running of standard SQL queries against data streams, and send that data to analytics tools for monitoring and alerting.
     * Producers (ec2, pcs, mobiles)    
       --> 
   - Kinesis Video Streams
+  - 
 
 QuickSight
 Data Pipeline
@@ -346,7 +403,47 @@ Amazon MQ
     * Both messaging services
     * Push - Polls
 
+* STS
+  - Security Token Service
+  - [Link](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-solutions-architect-associate-2018/readme.md#sts-security-token-service)
+  - Sources
+    * Federation (typically AD). Uses SaML
+    * Federation with Mobile Apps. Uses OpenId Provider (Facebook, Google, Amazon)
+    * Cross Account Access
+  - Key Terms: Federation, Identity Broker, Identity Store, Identities
+  - Scenario for SSO-AD-STS uses S3
+    * Actors
+      - E    = Employee
+      - ERA  = Enterprise Reporting App
+      - IB   = Identity Broker
+      - STS  = AWS Security Token Service
+      - LDAP = Organization LDAP Directory
+      - IAM  = AWS Identity Access Management
+      - S3   = AWS S3
+    * Flow
+      1. E enters usr/psw on ERA
+      2. ERA calls IB which captures usr/psw
+      3. IB validates identity against LDAP
+      4. IB calls STS w/GetFederationToken 
+         - using IAM credentials
+         - include duration (1 to 36 hours)
+         - include IAM policy
+      5. STS confirms and returns:
+         - Access Key
+         - Secret Access Key
+         - Token
+         - Duration (Token's lifetime)
+      6. IB return tem security credentials to ERA
+      7. ERA uses the security credentials (including the token) to requests S3
+      8. S3 uses IAM to verify credentials
+      9. IAM provides S3 with go-ahead
+  - Exam Tips
+    * Develop IB to communicate w/LDAO and STS
+    * IB auth with LDAP first, THEN with STS
+    * App gets temporary access to aws resources
 
+
+     
 
 > Customer Engagement 
 Connect
@@ -359,9 +456,16 @@ Work Docs
 WorkMail
 
 > Desktop & App Streaming 
-Workspaces
+
+* Workspaces
+  - Win7 provided by WinServer 25008R2
+  - D: data backed up every 12 hours
+
 AppStream 2.0
 
+
+
+>>> Luego ver donde poner todo esto
 
 
 * Encryption
@@ -374,6 +478,23 @@ AppStream 2.0
       - SSE-C
     * Client Side Encryption (CSE)
   - EBS encryption powerfull instance (M3, C3, R3, G2 ...)
+
+
+
+* AWS Organizations
+  - Consolidated Billing
+  - Paying account should be used for billing porposes only (best practice)
+  - 20 linked accounts
+  - Billing Alerts
+
+
+
+
+* Tags
+  - Key value pairs, metadata
+  - Sometime inherited: CloudFormation & Elastic Beanstalk
+* Resource Groups
+  - Info like Region, Name & Health Checks
 
 
 
