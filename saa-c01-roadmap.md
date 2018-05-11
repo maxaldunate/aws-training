@@ -80,7 +80,13 @@ AWS Certified Solutions Architect Associate
 | RDS enables autom backups with 1 day ret.p. | by default  |
 | max s3 buckets by default | 100 |
 | who delete a version of s3 object | just the owner |
-
+| min & max size EBS SSD | 1 GiB to 16 TiB |
+| S3 supports redirects | Yes |
+| aws services supporting stateless web servers | RDS+ECache+Dynamo. No ELB |
+| Read Replicas not supported engines | Oracle & SQL Server |
+| Glacier first-byte latency | 3-5 hours |
+| Securely to/from S3 | Via HTTP or SSL endpoints using HTTPS protocol |
+| RDS upgrade to a larger instance go offline | Yes couple of minutes |
 
 ### Main Summary
 
