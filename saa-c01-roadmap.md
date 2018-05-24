@@ -86,7 +86,14 @@ AWS Certified Solutions Architect Associate
 | Read Replicas not supported engines | Oracle & SQL Server |
 | Glacier first-byte latency | 3-5 hours |
 | Securely to/from S3 | Via HTTP or SSL endpoints using HTTPS protocol |
-| RDS upgrade to a larger instance go offline | Yes couple of minutes |
+| RDS upgrade to a larger instance go offline | Yes, for a couple of minutes |
+| Condition to IAM policies allowing access by Tags? | yes |
+
+
+
+
+
+
 
 ### Main Summary
 
