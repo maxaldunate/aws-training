@@ -90,6 +90,12 @@ AWS Certified Solutions Architect Associate
 | Condition to IAM policies allowing access by Tags? | yes |
 
 
+Aquí ha quedado el resumen
+https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-developer-associate-2018/03-iam-sts-ad-wif/readme.md
+
+Create Origin Access Identify (OAI)
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
+Using an Origin Access Identity to Restrict Access to Your Amazon S3 Content
 
 
 

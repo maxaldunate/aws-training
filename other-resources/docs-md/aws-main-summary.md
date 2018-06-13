@@ -1,10 +1,10 @@
 # AWS Main Summary
 
-### Courses that this document summarize
+## Courses that this document summarize
 
 - DONE. Certified Solutions Architect - Associate 2018
 
-> Certified Developer - Associate 2018
+> **I'm here** Certified Developer - Associate 2018
 
 - Certified SysOps Administrator - Associate 2018
 - Certified Solutions Architect - Professional
@@ -14,8 +14,9 @@
 - AWS Lambda
 
 
-### Main Summary
+## Main Summary
 
+### Miscelaneous subjects
 
 * Federation
   - [Federated Identity](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-15-federate-identity.png)
@@ -81,10 +82,41 @@
   - [AWS Well-Architected Framework November 2017](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 
 
+* Encryption
+  - [Encryption Options](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-21-aws-encryption-options.png)
+  - In Transit: SSL/TLS
+  - At Rest
+    * SSE
+      - SSE-S3
+      - SSE-KMS
+      - SSE-C
+    * Client Side Encryption (CSE)
+  - EBS encryption powerfull instance (M3, C3, R3, G2 ...)
 
 
 
-> Compute 
+* AWS Organizations
+  - Consolidated Billing
+  - Paying account should be used for billing porposes only (best practice)
+  - 20 linked accounts
+  - Billing Alerts
+
+
+
+
+* Tags
+  - Key value pairs, metadata
+  - Sometime inherited: CloudFormation & Elastic Beanstalk
+* Resource Groups
+  - Info like Region, Name & Health Checks
+
+
+* Available SDK's
+  - Android, iOS, JavaScript
+  - Java/.Net/Node.js/PHP/Python/Ruby/Go/C++
+
+
+### Compute 
 
 * EC2
   - spot pay p/hour, except if aws terminate it (get free hour)
@@ -135,7 +167,7 @@ Lightsail
 Lambda
 Batch
 
-> Storage 
+### Storage 
 
 * S3 
   - 0 byte to 5TB
@@ -174,7 +206,7 @@ Batch
     * Cached Volumes. On S3 and freq access data cached on site
   - GW Virutal Tape Labrary (VTL)
 
-> Databases 
+### Databases 
 
 * RDS
   - SQL, MySQL, PostgreSQL, Oracle, Aurora, MariaDB
@@ -204,7 +236,7 @@ Batch
     * Leader Node: manages client connections and receives queries
     * Compute Node: store data and perform queries and computations. Up to 128 COmpute Nodes
 
-> Migration 
+### Migration 
 
 AWS Migration Hub
 Application Discovery Service
@@ -212,7 +244,7 @@ Database Migration Service
 Server Migration Service
 Snowball
 
-> Networking & Content Delivery 
+### Networking & Content Delivery 
 
 * VPC
   - NAT instances vs. NAT GWs. Up to 10 Gbps
@@ -261,7 +293,8 @@ API Gateway
 
 
 
-> Developer Tools 
+### Developer Tools 
+
 CodeStar
 CodeCommit
 CodeBuild
@@ -270,7 +303,7 @@ CodePipeline
 X-Ray
 Cloud9
 
-> Management Tools  
+### Management Tools  
 
 * Cloud Watch
   - Dashboards/Alarms/Events/Logs
@@ -299,7 +332,7 @@ System Manager
 
 Managed Services
 
-> Media Services  
+### Media Services  
 
 * Elastic Transcoder
   - media files phones, tablets, pc's
@@ -312,7 +345,8 @@ MediaLive
 MediaPackage
 MediaStore
 MediaTailor
-> Machine Learning  
+
+### Machine Learning  
 
 SageMaker
 Comprehend
@@ -323,7 +357,8 @@ Polly
 Rekognition
 Amazon Trasnlate
 
-> Analytics 
+### Analytics 
+
 Athena
 EMR
 CloudSearch
@@ -359,7 +394,7 @@ QuickSight
 Data Pipeline
 Glue
 
-> Security & Identity & Compliance  
+### Security & Identity & Compliance  
 
 * IAM
   - Effect-Action-Resource
@@ -376,7 +411,7 @@ WAF
 Shield
 Artifact
 
-> Application Integration 
+### Application Integration 
 Step Functions
 Amazon MQ
 
@@ -445,17 +480,17 @@ Amazon MQ
 
      
 
-> Customer Engagement 
+### Customer Engagement 
 Connect
 SES
 
-> Business Productivity 
+### Business Productivity 
 Alexa for Business
 Chime
 Work Docs
 WorkMail
 
-> Desktop & App Streaming 
+### Desktop & App Streaming 
 
 * Workspaces
   - Win7 provided by WinServer 25008R2
@@ -463,43 +498,5 @@ WorkMail
 
 AppStream 2.0
 
-
-
->>> Luego ver donde poner todo esto
-
-
-* Encryption
-  - [Encryption Options](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-21-aws-encryption-options.png)
-  - In Transit: SSL/TLS
-  - At Rest
-    * SSE
-      - SSE-S3
-      - SSE-KMS
-      - SSE-C
-    * Client Side Encryption (CSE)
-  - EBS encryption powerfull instance (M3, C3, R3, G2 ...)
-
-
-
-* AWS Organizations
-  - Consolidated Billing
-  - Paying account should be used for billing porposes only (best practice)
-  - 20 linked accounts
-  - Billing Alerts
-
-
-
-
-* Tags
-  - Key value pairs, metadata
-  - Sometime inherited: CloudFormation & Elastic Beanstalk
-* Resource Groups
-  - Info like Region, Name & Health Checks
-
-
-* Available SDK's
-  - Android, iOS, JavaScript
-  - Java/.Net/Node.js/PHP/Python/Ruby/Go/C++
-  
 
 The End
