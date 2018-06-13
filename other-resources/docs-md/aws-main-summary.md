@@ -4,7 +4,7 @@
 
 - DONE. Certified Solutions Architect - Associate 2018
 
-> **I'm here** Certified Developer - Associate 2018
+**I'm here** Certified Developer - Associate 2018  
 
 - Certified SysOps Administrator - Associate 2018
 - Certified Solutions Architect - Professional
@@ -12,6 +12,25 @@
 - AWS Certification Exam Prep Guide
 - Create a Serverless Portfolio with AWS and React
 - AWS Lambda
+
+## Content
+
+* [Miscelaneous subjects](#miscelaneous-subjects)
+* [Compute](#compute)
+* [Storage](#storage)
+* [Databases](#databases)
+* [Migration](#migration)
+* [Networking & Content Delivery](#networking--content-delivery)
+* [Developer Tools](#developer-tools)
+* [Management Tools](#management-tools)
+* [Media Services](#media-services)
+* [Machine Learning](#machine-learning)
+* [Analytics](#analytics)
+* [Security & Identity & Compliance](#security--identity--compliance)
+* [Application Integration](#application-integration)
+* [Customer Engagement](#customer-engagement)
+* [Business Productivity](#business-productivity)
+* [Desktop & App Streaming](#desktop--app-streaming)
 
 
 ## Main Summary
@@ -137,8 +156,8 @@
 
 
 
-Elastic Beanstalk
-Lightsail
+* Elastic Beanstalk
+* Lightsail
 
 * ECS
   - Regional, one or more AZ
@@ -164,8 +183,8 @@ Lightsail
     
 
 
-Lambda
-Batch
+* Lambda
+* Batch
 
 ### Storage 
 
@@ -238,11 +257,11 @@ Batch
 
 ### Migration 
 
-AWS Migration Hub
-Application Discovery Service
-Database Migration Service
-Server Migration Service
-Snowball
+* AWS Migration Hub
+* Application Discovery Service
+* Database Migration Service
+* Server Migration Service
+* Snowball
 
 ### Networking & Content Delivery 
 
@@ -283,7 +302,7 @@ Snowball
   - Alias Record vs. CNAME (always choose alias)
   - Routing policies: Simple, Weighted, Latency, Failover and Geolocation
 
-API Gateway
+* API Gateway
 
 * Direct Connect
   - Reduce costs w/large volumes, increase reliability & bandwith
@@ -295,33 +314,33 @@ API Gateway
 
 ### Developer Tools 
 
-CodeStar
-CodeCommit
-CodeBuild
-CodeDeploy
-CodePipeline
-X-Ray
-Cloud9
+* CodeStar
+* CodeCommit
+* CodeBuild
+* CodeDeploy
+* CodePipeline
+* X-Ray
+* Cloud9
 
 ### Management Tools  
 
 * Cloud Watch
   - Dashboards/Alarms/Events/Logs
 
-CloudFormation
+* CloudFormation
 
 * CloudTrail
   - Per Region
   - Consolidate logs using S3 buckets
 
-AWS Config
+* AWS Config
 
 * OpsWorks
   - Orchestration Service that use Chef
   - Recipes, cookbooks, knife, kitchen
 
-Service Catalog
-System Manager
+* Service Catalog
+* System Manager
 
 * Trusted Advisor
   - opps to save money
@@ -330,7 +349,7 @@ System Manager
   - not MFA, not cloudTrail, public S3 buckets
 
 
-Managed Services
+* Managed Services
 
 ### Media Services  
 
@@ -340,29 +359,29 @@ Managed Services
   - pay based on minutes and resolution
 
 
-MediaConvert
-MediaLive
-MediaPackage
-MediaStore
-MediaTailor
+* MediaConvert
+* MediaLive
+* MediaPackage
+* MediaStore
+* MediaTailor
 
 ### Machine Learning  
 
-SageMaker
-Comprehend
-DeepLens
-Lex
-Machine Learning
-Polly
-Rekognition
-Amazon Trasnlate
+* SageMaker
+* Comprehend
+* DeepLens
+* Lex
+* Machine Learning
+* Polly
+* Rekognition
+* Amazon Trasnlate
 
 ### Analytics 
 
-Athena
-EMR
-CloudSearch
-ElasticSearch Service
+* Athena
+* EMR
+* CloudSearch
+* ElasticSearch Service
 
 * Kinesis
   - processing of streaming big data in real-time
@@ -390,9 +409,9 @@ ElasticSearch Service
   - Kinesis Video Streams
   - 
 
-QuickSight
-Data Pipeline
-Glue
+* QuickSight
+* Data Pipeline
+* Glue
 
 ### Security & Identity & Compliance  
 
@@ -400,20 +419,20 @@ Glue
   - Effect-Action-Resource
   - Principal?
 
-Cognito
-GuardDuty
-Inspector
-Macie
-Certificate Manager
-CloudHSM
-Directory Service
-WAF
-Shield
-Artifact
+* Cognito
+* GuardDuty
+* Inspector
+* Macie
+* Certificate Manager
+* CloudHSM
+* Directory Service
+* WAF
+* Shield
+* Artifact
 
 ### Application Integration 
-Step Functions
-Amazon MQ
+* Step Functions
+* Amazon MQ
 
 
 * SQS
@@ -477,18 +496,17 @@ Amazon MQ
     * IB auth with LDAP first, THEN with STS
     * App gets temporary access to aws resources
 
-
      
 
 ### Customer Engagement 
-Connect
-SES
+* Connect
+* SES
 
 ### Business Productivity 
-Alexa for Business
-Chime
-Work Docs
-WorkMail
+* Alexa for Business
+* Chime
+* Work Docs
+* WorkMail
 
 ### Desktop & App Streaming 
 
@@ -496,7 +514,7 @@ WorkMail
   - Win7 provided by WinServer 25008R2
   - D: data backed up every 12 hours
 
-AppStream 2.0
+* AppStream 2.0
 
 
 The End
