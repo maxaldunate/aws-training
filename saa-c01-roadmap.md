@@ -11,7 +11,7 @@ AWS Certified Solutions Architect Associate
 
 ### Exam Approaching
 
-* [AWS Manin Site](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+* [AWS Main Site](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 * [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Feb_2018_%20Exam_Guide_v1.5.2.pdf)
 * [Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf)
 * Exam Description
@@ -96,6 +96,19 @@ https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-dev
 Create Origin Access Identify (OAI)
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html
 Using an Origin Access Identity to Restrict Access to Your Amazon S3 Content
+
+### Other Points
+* Encrypt
+  - Encrypt root volume
+  - Encrypt existing volumes
+  - Encryption types
+  - Migrate encrypted volumes between accounts, AZ & Regions
+* VPC
+  - Troubleshoot connection issues because of
+    * NAT instance, SG, nACL, RT & peering connections
+- IAM
+  identity federation in detail
+- Security Whitepaper: Know about the shared responsibility model
 
 
 

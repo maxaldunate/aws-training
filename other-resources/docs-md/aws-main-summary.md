@@ -130,9 +130,31 @@
   - Info like Region, Name & Health Checks
 
 
-* Available SDK's
+* SDK's
   - Android, iOS, JavaScript
   - Java/.Net/Node.js/PHP/Python/Ruby/Go/C++
+  - Default region **'us-east-1'**
+  - Some have default like java, some do not like NodeJs
+
+
+* Aws CLI
+  - aws s3 ls
+  - aws configure
+    * Access Key Id
+    * Aws Secret Access Key
+    * Default region name
+    * Default output format
+  - `~/.aws/config`
+  - `~/.aws/credentials`
+  -- aws ec2 describe-images
+  - aws ec2 describe-instances
+  - aws ec2 terminate-instacnes --instace-ids i-03f025db77a5d4747
+  - aws ec2 start-instances --instace-ids i-03f025db77a5d4747
+  -- aws ec2 run-instances --image-id ami-asdasdasdasd --count 1 --instance-type t2.micro --key-name myKey --security-group-ids sg-d024afg9 --subnet-id subnet-4654asd
+  - aws s3 cp --recursive s3://acloud /home/ec2-user
+  - aws s3 cp --recursive s3://acloud /home/ec2-user --region eu-west-2
+
+
 
 
 ### Compute 
@@ -181,9 +203,13 @@
     * Max 10 containers per task definition
     * Max 10 tasks per instance (host)
     
-
-
 * Lambda
+  - Node.js, JAva, Python & C#
+  - Pricing
+    * # of requests, first million for free (0.20 per million)
+    * duration: rounded up 100 ms. depend on memory allocation. 0.00001667 for every GB-second used
+  - Aws X-Ray for debug
+
 * Batch
 
 ### Storage 
@@ -296,11 +322,20 @@
 * ELB
   - No IP, resolved by DNS name
   - App LB. 2 public subnets at least
+  - InService or OutofService. Health Checks
+
 
 
 * Routse 53  
   - Alias Record vs. CNAME (always choose alias)
   - Routing policies: Simple, Weighted, Latency, Failover and Geolocation
+  - DNS records
+    * A IPv4 address
+    * AAAA: IPv6 address
+    * CNAME: inserted is the domain name and only for a subdomain. Redirects subdomain on wanted domain.
+    * MX: the e-mail server (for example mx1.active24.com)
+    * TXT: Sender Policy Framework (SPF)
+    
 
 * API Gateway
 
@@ -417,7 +452,56 @@
 
 * IAM
   - Effect-Action-Resource
-  - Principal?
+  - Principal
+  - Granular permissions
+  - Identity Federation
+  - MFA
+  - Temporary access
+  - Password rotation policy
+  - Users, Groups, Roles and Policies
+
+* STS
+  - Security Token Service
+  - [Link](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-solutions-architect-associate-2018/readme.md#sts-security-token-service)
+  - In the Exam
+    1. Develop an Identity Broker to communicate with LDAP and AWS STS
+    1. Identity Broker always authenticates with LDAP first, THEN with Aws STS
+    1. Application then gets temporary access to Aws resources
+  - Sources
+    * Federation (typically AD). Uses SaML
+    * Federation with Mobile Apps. Uses OpenId Provider (Facebook, Google, Amazon)
+    * Cross Account Access
+  - Key Terms: Federation, Identity Broker, Identity Store, Identities
+  - Scenario for SSO-AD-STS uses S3
+    * Actors
+      - E    = Employee
+      - ERA  = Enterprise Reporting App
+      - IB   = Identity Broker
+      - STS  = AWS Security Token Service
+      - LDAP = Organization LDAP Directory
+      - IAM  = AWS Identity Access Management
+      - S3   = AWS S3
+    * Flow
+      1. E enters usr/psw on ERA
+      2. ERA calls IB which captures usr/psw
+      3. IB validates identity against LDAP
+      4. IB calls STS w/GetFederationToken 
+         - using IAM credentials
+         - include duration (1 to 36 hours)
+         - include IAM policy
+      5. STS confirms and returns:
+         - Access Key
+         - Secret Access Key
+         - Token
+         - Duration (Token's lifetime)
+      6. IB return tem security credentials to ERA
+      7. ERA uses the security credentials (including the token) to requests S3
+      8. S3 uses IAM to verify credentials
+      9. IAM provides S3 with go-ahead
+  - Exam Tips
+    * Develop IB to communicate w/LDAO and STS
+    * IB auth with LDAP first, THEN with STS
+    * App gets temporary access to aws resources
 
 * Cognito
 * GuardDuty
@@ -456,47 +540,6 @@
   - SNS vs SQS
     * Both messaging services
     * Push - Polls
-
-* STS
-  - Security Token Service
-  - [Link](https://github.com/escamarla/aws-training/blob/master/a-cloud-guru/certified-solutions-architect-associate-2018/readme.md#sts-security-token-service)
-  - Sources
-    * Federation (typically AD). Uses SaML
-    * Federation with Mobile Apps. Uses OpenId Provider (Facebook, Google, Amazon)
-    * Cross Account Access
-  - Key Terms: Federation, Identity Broker, Identity Store, Identities
-  - Scenario for SSO-AD-STS uses S3
-    * Actors
-      - E    = Employee
-      - ERA  = Enterprise Reporting App
-      - IB   = Identity Broker
-      - STS  = AWS Security Token Service
-      - LDAP = Organization LDAP Directory
-      - IAM  = AWS Identity Access Management
-      - S3   = AWS S3
-    * Flow
-      1. E enters usr/psw on ERA
-      2. ERA calls IB which captures usr/psw
-      3. IB validates identity against LDAP
-      4. IB calls STS w/GetFederationToken 
-         - using IAM credentials
-         - include duration (1 to 36 hours)
-         - include IAM policy
-      5. STS confirms and returns:
-         - Access Key
-         - Secret Access Key
-         - Token
-         - Duration (Token's lifetime)
-      6. IB return tem security credentials to ERA
-      7. ERA uses the security credentials (including the token) to requests S3
-      8. S3 uses IAM to verify credentials
-      9. IAM provides S3 with go-ahead
-  - Exam Tips
-    * Develop IB to communicate w/LDAO and STS
-    * IB auth with LDAP first, THEN with STS
-    * App gets temporary access to aws resources
-
-     
 
 ### Customer Engagement 
 * Connect
