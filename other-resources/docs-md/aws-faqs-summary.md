@@ -1,6 +1,6 @@
 <a id="top" />
 
-# AWS FAQs
+# AWS FAQs Summary
 
 ## Content
 * [FAQs ACM (Amazon Certificate Manager)](#faqs-acm)
