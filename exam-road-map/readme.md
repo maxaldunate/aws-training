@@ -1,6 +1,6 @@
 <a id="top" />
 
-# SAA-C01 - Released February 2018
+# Exam Roadmap. SAA-C01 - Released February 2018
 AWS Certified Solutions Architect Associate
 
 ### Exam Road Map 
@@ -12,10 +12,9 @@ AWS Certified Solutions Architect Associate
 * [AWS Main Summary](../other-resources/docs-md/aws-main-summary.md)
 * [Service Limits](../other-resources/docs-md/aws-limits.md)
 * [Instance Types](../other-resources/docs-md/instance-types.md)
-* [HA Top 10](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-09-ha-top-ten.png)
+* [HA Top 10](../other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-09-ha-top-ten.png)
 * [FAQs Summary](../other-resources/docs-md/aws-faqs-summary.md)
 * [Aws Well Architected Framework](../other-resources/docs-md/aws-well-architected-framework.md)
-* [Instance Types](../other-resources/docs-md/instance-types.md)
 * [Exam Tips](../other-resources/docs-md/exam-tips.md)
 
 ### Notes

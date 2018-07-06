@@ -1,4 +1,4 @@
-### AWS Recommended Resources
+# AWS Recommended Resources
 
 - Recommended for SA Associate - 2018 
   * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)

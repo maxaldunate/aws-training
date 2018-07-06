@@ -1,6 +1,4 @@
-<a id="top" />
-
-### Question Points
+# Question Points
 
 | Question/Subject | Response |
 | --- | ---: |
