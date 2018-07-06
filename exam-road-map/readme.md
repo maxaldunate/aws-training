@@ -4,20 +4,19 @@
 AWS Certified Solutions Architect Associate
 
 ### Exam Road Map 
-* [AWS Recommended Resources](#aws-recommended-resources.md)
-* [Exam Approaching](#exam-approaching.md)
+* [AWS Recommended Resources](aws-recommended-resources.md)
+* [Exam Approaching](exam-approaching.md)
 * [Question Points](question-points.md)
 
 ### Exam Resources
-* [AWS Main Summary](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/aws-main-summary.md)
-* [Service Limits](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/aws-limits.md)
-* [Instance Types](https://github.com/escamarla/aws-training/blob/master/exam-preparation/docs-md/instance-types.md)
+* [AWS Main Summary](../other-resources/docs-md/aws-main-summary.md)
+* [Service Limits](../other-resources/docs-md/aws-limits.md)
+* [Instance Types](../other-resources/docs-md/docs-md/instance-types.md)
 * [HA Top 10](https://github.com/escamarla/aws-training/blob/master/exam-preparation/cloud-academy-summary/28-of-31-2017-exam-primer/00-09-ha-top-ten.png)
-* [FAQs Summary](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/aws-faqs-summary.md)
-* [Aws Well Architected Framework](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/aws-well-architected-framework.md)
-* [Instance Types](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/instance-types.md)
-* [Exam Tips](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/exam-tips.md)
-
+* [FAQs Summary](../other-resources/docs-md/aws-faqs-summary.md)
+* [Aws Well Architected Framework](../other-resources/docs-md/aws-well-architected-framework.md)
+* [Instance Types](../other-resources/docs-md/instance-types.md)
+* [Exam Tips](../other-resources/docs-md/exam-tips.md)
 
 ### Notes
 
