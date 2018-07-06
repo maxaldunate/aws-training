@@ -16,7 +16,7 @@ Max Aldunate - May 2018
 ### [Other Resources](other-resources/readme.md)
 
 ## Exams
-### [Exam SAA-C01 Released February 2018. Roadmap](saa-c01-roadmap.md)
+### [Exam SAA-C01 Released February 2018. Roadmap](exam-road-map/readme.md)
 
 
 <p align="right"><a href="#top">Top</a></p>
