@@ -110,7 +110,7 @@
     - How continue been optimal?
     - How monitor?
     - How ensure capacity and throughput match demand?
-- Area 4 **Database**
+- Area 3 **Database**
   * Key Services: RDS, Dynamo, Redshift
   * Factors: consistency, availability, no-sql, DR, etc.
   * Questions
@@ -118,6 +118,9 @@
     - How continue over time?
     - How monitor that performance are as expected?
     - How capacity and throughput matches demand?
+- Area 4 **Networking**
+  * Questions
+    - How do you configure your networking solution?
 - Area 5 **Space-time trade-off**
   * Examples
     - RDS read replicas lower latency
