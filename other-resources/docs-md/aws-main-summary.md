@@ -39,8 +39,8 @@
 
 * Federation
   - [Federated Identity](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-15-federate-identity.png)
-  - [Fed Id with Cognito](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-16-federate-identity-aws-cognito.png)
-  - [SAML]()
+  - [SAML](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-16-federate-identity-aws-cognito.png)
+  - [Fed Id with Cognito](https://github.com/escamarla/aws-training/blob/master/other-resources/cloud-academy-summary/28-of-31-2017-exam-primer/00-17-aws-cognito.png)
 
 
 * [Service Catalog](https://github.com/escamarla/aws-training/blob/master/other-resources/docs-md/aws-cloud-products.md)
