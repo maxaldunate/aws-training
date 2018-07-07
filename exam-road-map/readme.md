@@ -16,6 +16,8 @@ AWS Certified Solutions Architect Associate
 * [FAQs Summary](../other-resources/docs-md/aws-faqs-summary.md)
 * [Aws Well Architected Framework](../other-resources/docs-md/aws-well-architected-framework.md)
 * [Exam Tips](../other-resources/docs-md/exam-tips.md)
+* [Aws Services Integrating with other Aws Services](aws-services-integrating-with-other-aws-services.md)
+
 
 ### Notes
 
