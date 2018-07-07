@@ -39,5 +39,9 @@
 | Securely to/from S3 | Via HTTP or SSL endpoints using HTTPS protocol |
 | RDS upgrade to a larger instance go offline | Yes, for a couple of minutes |
 | Condition to IAM policies allowing access by Tags? | yes |
+| Uptime SLA for Amazon EC2 | 99.95% |
+| How long does CloudWatch store the metrics | 15 months |
+| Glacier use S3 or Glacier API ? | S3 |
+
 
 The End

@@ -18,7 +18,6 @@ AWS Certified Solutions Architect Associate
 * [Exam Tips](../other-resources/docs-md/exam-tips.md)
 * [Aws Services Integrating with other Aws Services](aws-services-integrating-with-other-aws-services.md)
 
-
 ### Notes
 
 Aquí ha quedado el resumen
