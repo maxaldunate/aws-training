@@ -26,14 +26,18 @@
 
 |Instance Size|Normalization Factor|
 |:---:|:---:|
+|nano|0.25|
 |micro|0.5|
 |small|1|
 |medium|2|
-|xlarge|4|
-|2xlarge|8|
-|4xlarge|16|
-|8xlarge|32|
-|10xlarge|64|
+|large|4|
+|xlarge|8|
+|2xlarge|16|
+|4xlarge|32|
+|8xlarge|64|
+|10xlarge|80|
+|16xlarge|128|
+|32xlarge|256|
 
 
 [Normalization Factors](https://raw.githubusercontent.com/escamarla/aws-training/master/a-cloud-guru/03-certified-solutions-architect-professional/domain2-costing-and-acc-mgmnt/Screenshot%20from%202018-02-04%2015-06-12.png)
