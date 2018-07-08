@@ -42,5 +42,3 @@
 | Glacier use S3 or Glacier API ? | S3 |
 | Whats mean SSE-C, SSE-S3 & SSE-KMS ? | Custom, S3 & Aws KMS  |
 | DynamoDB replicated across regions or AZs? | AZs |
-
-The End
