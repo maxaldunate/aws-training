@@ -29,7 +29,7 @@ mejorar para que sean preguntas ....
 | vpc peering not support | edge-to-edge routing |
 | Max Elastic IP addresses? | max 5 |
 | EBS multiple physical volumes in the same AZ | true |
-| How retention period RDS enables autom backups by default? | 1 day  |
+| How retention p. RDS autom backups by default? | 1 day  |
 | max s3 buckets by default? | 100 |
 | who delete a version of s3 object | just the owner |
 | min & max size EBS SSD? | 1 GiB to 16 TiB |
@@ -44,6 +44,6 @@ mejorar para que sean preguntas ....
 | How long does CloudWatch store the metrics by default? | 15 months |
 | Glacier use S3 or Glacier API ? | S3 |
 | Whats mean SSE-C, SSE-S3 & SSE-KMS ? | Custom, S3 & Aws KMS  |
-| DynamoDB data is automatically replicated across regions or AZs? | AZs |
+| DynamoDB replicated across regions or AZs? | AZs |
 
 The End
