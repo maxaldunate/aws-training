@@ -1,6 +1,6 @@
 # Question Points
 
-| Question/Subject | Response |
+| Question | Response |
 | --- | ---: |
 | dedicate hosting state transitions? | dedicated & host & vs |
 | When RDS failover? | failure primary, network primary & loss AZ primary |
