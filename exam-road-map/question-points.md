@@ -1,8 +1,5 @@
 # Question Points
 
-mejorar para que sean preguntas ....
-
-
 | Question/Subject | Response |
 | --- | ---: |
 | dedicate hosting state transitions? | dedicated & host & vs |
