@@ -31,6 +31,7 @@ https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
 | Maximum CU per table or GSI |10,000 RCU & 10.000 WCU|40.000 for N.Virginia|
 | Maximum CU per account |20,000 RCU & 20.000 WCU|80.000 for N.Virginia|
 | Maximum number of tables |256||
+| The combined Value and Name combined must not exceed ...? | 400KB ||
 | **AWS Elastic Beanstalk** |  ||
 | Applications |75||
 | App Versions |1.000||
