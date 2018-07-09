@@ -20,7 +20,7 @@
 | aws support levels?| enterprise, business & devs + basic free level |
 | max aws sms concurrent vmware vms migrated | 50 |
 | service for record configuration changes? | Aws Config |
-| CWatch defaul metric for RDS? | memory usage |
+| CWatch defaul metric for RDS? | The number of current connections to the database |
 | is it possiblr to write to an edge location? | yes |
 | use ms win server license host req?  | dedicated host is required |
 | vpc peering not support | edge-to-edge routing |
