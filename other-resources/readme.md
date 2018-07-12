@@ -32,6 +32,19 @@
 * [Instance Metadata](docs-md/instance-metadada.md)
 * [Instance Types & EBS Types](docs-md/instance-types.md)
 * [Stress Tool on Amazon Linux](docs-md/stress-on-amazon-linux.md)
+* [RDS + Redshift + Dynamo + SimpleDB Comparision](https://www.cloudberrylab.com/blog/aws-database-services-complete-overview-rds-vs-redshift-vs-dynamodb-vs-simpledb/)
+
+
+### My 'MD' DOCs. Little
+* [Route 53 Routing Policies](docs-md/others.md/#route-53-routing-policies)
+* [Amazon RDS vs Redshift vs DynamoDB vs SimpleDB](docs-md/others.md/#amazon-rds-vs-redshift-vs-dynamodb-vs-simpledb)
+* [Quick Explanation Of The S3 Consistency Model](docs-md/others.md/#quick-explanation-of-the-s3-consistency-model)
+
+
+
+
+
+
 
 ### Miscs
 * [ACG What you need to get AWS Certified](https://read.acloud.guru/what-you-need-to-get-aws-certified-5937e613b10f)
