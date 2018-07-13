@@ -1,5 +1,7 @@
 # Question Points
 
+### From ACG
+
 | Question | Response |
 | --- | ---: |
 | dedicate hosting state transitions? | dedicated & host & vs |
@@ -43,9 +45,8 @@
 | Whats mean SSE-C, SSE-S3 & SSE-KMS ? | Custom, S3 & Aws KMS  |
 | DynamoDB replicated across regions or AZs? | AZs |
 
-
-Practice Test 4 : February 2018 : 111 Questions
-https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403428/results/97667158
+### Practice Test 4 : February 2018 : 111 Questions
+[Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403428/results/97667158)
 
 | CloudTrail turn on a trail across all regions even future regions | yes |
 | iSCI device storage gateway: Cached or Stored volume? | Stored |
@@ -83,17 +84,61 @@ https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/
 | How to ensured that all traffic from/to Redshift no go through the Internet | Enable Redshift Enhanced VPC routing  |
 | How does Elastic Beanstalk apply updates? | down instance in the maintenence window |
 | Why do you make subnets? | managing large number of hosts |
-|  |  |
+
+### AWS Certified Solutions Architect Associate Practice Test 1 - Resultados
+[Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/learn/v4/t/quiz/4394970/test)
+
+| WTF DynamoDB Accelerator (DAX)? | Fully managed, in-memory cache for DynamoDB. Reduces DynamoDB response times from milliseconds to microseconds |
+| AWS Lambda Limits. Ephemeral disk capacity? | 512 MB |
+| AWS Lambda Limits. Maximum execution duration per request? | 300 seconds (5 minutes) |
+| AWS Lambda Limits. Number of file descriptors | 1.024 |
+| EC2 retains Elastic IP address on EC2-classic? | Nop, instead of EC2-VPC |
+| How to encrypt a non encrypted ESB? | Create a new encrypted and move data! |
+| How many types of block devices? | Instance store volumes &  EBS volumes |
+| How to load balance with the need of a static IP address hard-coded? | Script check health & switch elastic IP address to a standby EC2 instance  |
+| How you will implement SSO feature to existing users using on-premise web apps? | STS and SAML |
+| Is ElastiCache a fully managed service?  | Yes |
+| IAM two types pf policy? | Identity-based & Resource-based|
+| Count hosts for x.x.x.x/29 ?  | 8 |
+| Same Region, no cost of trasnfering data from EC2 to ...? | S3, Glacier, DynamoDB, SES, SQS or SimpleDB  |
+| SNS destinations? | HTTP/S, Email+Json, SQS & SMS  |
+| Is it possible to have autoscaling without using an ELB? | Yes |
+
+### AWS Certified Solutions Architect Associate Practice Test 2
+[Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/learn/v4/t/quiz/4394972/start)
+
+| Three valid use cases for Amazon DynamoDB? | Web sessions, json docs & S3 objs. metadata   |
+| WTF Aws IoT Core?  |   |
+| Route53 pointing an ELB. Which record?  |   |
+| Which two services natively encrypts data at rest? | Storage Gateway & Glacier |
+| **Perfect Forward Secrecy** offers SSL/TLS cipher for which two services? | CloudFront & ELB |
+| What occurs on Route53 on a rds multi-az failover?  | The CNAME is switched to standby instace |
+| EC2 20 instance limits by region is soft?  | Yes |
+| site-to-site VPN connection from on-premise to VPC?  | Static IP of the customer GW external interface for the on-prem network |
+| CloudWatch alarm actions, Can stop, terminate, reboot, or recover EC2 instances? | yes |
+
+
+### Practice Test 5 : February 2018 : 111 Questions
+[Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403430/test)
+
+Apuntar los numeros de preguntas con dudas durante el examen
+1, 2, 13, 17, 22, 24, 29, 32, 34, 35, 37, 43, 
+
+
+| Initial 8 TB and the ddbb will grow by 8 GB every day, Aurora?  | No, Redshift |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 
 
 
 
-https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/learn/v4/t/quiz/4394970/test
 
 
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+
+
