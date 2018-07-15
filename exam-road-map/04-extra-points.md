@@ -17,7 +17,7 @@
 * Weighted
 
 ### Amazon RDS vs Redshift vs DynamoDB vs SimpleDB
-[Aws Link](https://www.cloudberrylab.com/blog/aws-database-services-complete-overview-rds-vs-redshift-vs-dynamodb-vs-simpledb/)
+[cloudberrylab Link](https://www.cloudberrylab.com/blog/aws-database-services-complete-overview-rds-vs-redshift-vs-dynamodb-vs-simpledb/)
 * Amazon RDS
   - **Conventional DDBB**
   - 64 vCPU & 244 GB RAM
@@ -50,7 +50,7 @@
   - 250 tables
 
 ### Quick Explanation Of The S3 Consistency Model
-[Aws Link](https://codeburst.io/quick-explanation-of-the-s3-consistency-model-6c9f325e3f82)
+[codeburst Link](https://codeburst.io/quick-explanation-of-the-s3-consistency-model-6c9f325e3f82)
 
 Amazon S3 provides **read-after-write consistency for PUTS of new objects** in your S3 bucket in all regions with one caveat. The caveat is that if you make a HEAD or GET request to the key name (to find if the object exists) before creating the object, Amazon S3 provides eventual consistency for read-after-write.
 
