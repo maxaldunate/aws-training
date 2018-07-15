@@ -1,5 +1,11 @@
 # Extra points
 
+### Encrypt
+* Encrypt root volume
+* Encrypt existing volumes
+* Encryption types
+* Migrate encrypted volumes between accounts, AZ & Regions
+
 ### [Route 53 Routing Policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 * Simple
 * Failover
