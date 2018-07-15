@@ -7,7 +7,7 @@
 * Migrate encrypted volumes between accounts, AZ & Regions
 
 ### Route 53 Routing Policies
-[Aws Link](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
+[aws ink](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 * Simple
 * Failover
 * Geolocation
@@ -17,7 +17,7 @@
 * Weighted
 
 ### Amazon RDS vs Redshift vs DynamoDB vs SimpleDB
-[cloudberrylab Link](https://www.cloudberrylab.com/blog/aws-database-services-complete-overview-rds-vs-redshift-vs-dynamodb-vs-simpledb/)
+[cloudberrylab link](https://www.cloudberrylab.com/blog/aws-database-services-complete-overview-rds-vs-redshift-vs-dynamodb-vs-simpledb/)
 * Amazon RDS
   - **Conventional DDBB**
   - 64 vCPU & 244 GB RAM
@@ -50,7 +50,7 @@
   - 250 tables
 
 ### Quick Explanation Of The S3 Consistency Model
-[codeburst Link](https://codeburst.io/quick-explanation-of-the-s3-consistency-model-6c9f325e3f82)
+[codeburst link](https://codeburst.io/quick-explanation-of-the-s3-consistency-model-6c9f325e3f82)
 
 Amazon S3 provides **read-after-write consistency for PUTS of new objects** in your S3 bucket in all regions with one caveat. The caveat is that if you make a HEAD or GET request to the key name (to find if the object exists) before creating the object, Amazon S3 provides eventual consistency for read-after-write.
 
@@ -120,8 +120,8 @@ Amazon S3 provides **read-after-write consistency for PUTS of new objects** in y
 ### EBS Snapshots
 When you take a snapshot of an attached Amazon EBS volume that is in use, the snapshot excludes data cached by applications or the operating system. For a **single EBS volume**, this is often not a problem. However, when cached data is excluded from snapshots of **multiple EBS volumes in a RAID array**, restoring the volumes from the snapshots can degrade the integrity of the array.
 
-
-### [Standard RAID levels](https://en.wikipedia.org/wiki/Standard_RAID_levels)
+### Standard RAID levels
+[wiki link](https://en.wikipedia.org/wiki/Standard_RAID_levels)
 * RAID 0  
   - Block-level striping without parity or mirroring
   - Speed no redundancy
@@ -143,9 +143,9 @@ When you take a snapshot of an attached Amazon EBS volume that is in use, the sn
   - Block-level striping with double distributed parity 
 
 ### Access Keys and Key Pairs
-[Aws](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html)
+[aws link](https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html)
 * Access Keys    
-  Access keys consist of an access key ID (for example, AKIAIOSFODNN7EXAMPLE) and a secret access key (for example, wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY).   
+  Access keys consist of an access key ID (for example, AKIAIOSFODNN7EXAMPLE) and a secret access key (for example, wJYEXAMPLEKEY...).   
   You use access keys to sign programmatic requests that you make to AWS if you use the AWS SDKs, REST, or Query API operations.
 * Key Pairs  
   Key pairs consist of a public key and a private key. You use the private key to create a digital signature, and then AWS uses the corresponding public key to validate the signature. Key pairs are used only for Amazon EC2 and Amazon CloudFront.  
@@ -162,7 +162,9 @@ When you take a snapshot of an attached Amazon EBS volume that is in use, the sn
 * Warm Standby
 * Multisite
 
-### [ECS Launch Types](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/launch_types.html)
+### ECS Launch Types
+[aws link](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/launch_types.html)
 * Fargate Launch Type. Fully managed
 * EC2 Launch Type. You managed
 
+The End
