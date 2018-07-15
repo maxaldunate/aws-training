@@ -1,3 +1,5 @@
+# Extra points
+
 ### [Route 53 Routing Policies](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 * Simple
 * Failover
@@ -145,3 +147,8 @@ When you take a snapshot of an attached Amazon EBS volume that is in use, the sn
 * Pilot Light
 * Warm Standby
 * Multisite
+
+### [ECS Launch Types](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/launch_types.html)
+* Fargate Launch Type. Fully managed
+* EC2 Launch Type. You managed
+

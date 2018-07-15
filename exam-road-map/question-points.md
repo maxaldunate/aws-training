@@ -48,6 +48,8 @@
 ### Practice Test 4 : February 2018 : 111 Questions
 [Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403428/results/97667158)
 
+| Question | Response |
+| --- | ---: |
 | CloudTrail turn on a trail across all regions even future regions | yes |
 | iSCI device storage gateway: Cached or Stored volume? | Stored |
 | Is possible to use Route 53 targetting an S3 bucket? | yes, putting de NS record |
@@ -88,6 +90,8 @@
 ### AWS Certified Solutions Architect Associate Practice Test 1 - Resultados
 [Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/learn/v4/t/quiz/4394970/test)
 
+| Question | Response |
+| --- | ---: |
 | WTF DynamoDB Accelerator (DAX)? | Fully managed, in-memory cache for DynamoDB. Reduces DynamoDB response times from milliseconds to microseconds |
 | AWS Lambda Limits. Ephemeral disk capacity? | 512 MB |
 | AWS Lambda Limits. Maximum execution duration per request? | 300 seconds (5 minutes) |
@@ -107,7 +111,9 @@
 ### AWS Certified Solutions Architect Associate Practice Test 2
 [Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/learn/v4/t/quiz/4394972/start)
 
-| Three valid use cases for Amazon DynamoDB? | Web sessions, json docs & S3 objs. metadata   |
+| Question | Response |
+| --- | ---: |
+| Four valid use cases for Amazon DynamoDB? | Users preferences, Web sessions, json docs & S3 objs. metadata   |
 | WTF Aws IoT Core?  |   |
 | Route53 pointing an ELB. Which record?  |   |
 | Which two services natively encrypts data at rest? | Storage Gateway & Glacier |
@@ -117,28 +123,53 @@
 | site-to-site VPN connection from on-premise to VPC?  | Static IP of the customer GW external interface for the on-prem network |
 | CloudWatch alarm actions, Can stop, terminate, reboot, or recover EC2 instances? | yes |
 
-
 ### Practice Test 5 : February 2018 : 111 Questions
 [Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403430/test)
 
-Apuntar los numeros de preguntas con dudas durante el examen
-1, 2, 13, 17, 22, 24, 29, 32, 34, 35, 37, 43, 
-
-
+| Question | Response |
+| --- | ---: |
 | Initial 8 TB and the ddbb will grow by 8 GB every day, Aurora?  | No, Redshift |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Redshift free storage snapshots? | equal to the storage capacity of your cluster until you delete the cluster |
+| Common Use Cases in Amazon ECS? | Microservices & batch jobs |
+| Architecture to ensure ddbb write operations not able to handle? | SQS to que ssbb writes |
+| storage volumes up to XX TiB in size and attach to them as iSCSI devices from your on-premises application servers | 32 TiB |
+| Can one use the Elastic Beanstalk service to host Docker containers? | yes |
+| Can Redshift server as tipical RDBMS OLTP? | it is not designed for these workloads |
+| Stack based model with different stacks for Dev and production envs? | Aws Opsworks, layers & envs |
+| S3 > 300 Get/second or > 100 Put/List/Del requests/second | add a hash prefix key |
+| ElastiCache in front of a DDBB?  | Yes, [Dastabase Caching](https://aws.amazon.com/caching/database-caching/) |
+| ECS Fargate Launch Type is fully managed? | Yes |
+| IAM Policies can assure access through Tags? | Yes |
+| Can you decide to encrypt Cloudtrail logs? | Nop, they are encrypted by default |
+| If a backup of On-premise data is required, the most efficient way would be to make use of Storage gateway Cached Volumes  |   |
+| Auto Scaling allows you to suspend and then resume one or more of the Auto Scaling processes in your Auto Scaling group | usefull to investigate a configuration problem |
 
+### Practice Test 6 : February 2018 : 111 Questions
+[Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403432/start)
 
+| Question | Response |
+| --- | ---: |
+| Blue/Green Deployment. Which Route53 routing policy? | Weighted |
+| ECR - Elastic Container Registry exists? | yes |
+| Is possible DR Backup & Restore with CloudFormation? | Yes |
+| How collect and process the log files generated from the IIS Servers on EC2s? | S3 for store logs & EMR to process it |
+| T/F. At higher usage, the price for CloudFront data transfer is lower than the price for Amazon S3 data transfer | True |
+| T/F. Kinesis stream data records ar accesible only 72 hs | False, 24 hours by default, up to 168 hours |
+| T/F. Redshift is column-oriented | True |
+| Can you run Hadoop, Apache Spark, HBase, Presto, and Flink EMR? | Yes, is a big data processing system |
+| T/F. Normally DynamoDB is scalable, but looking for a cost effective solution SQS is the best option | True |
+| For what you use an Origin Access Identity (OAI) | To Restricting Access to Amazon S3 Content |
+| On Redshift can you disable automated snapshots? | Yes, and reduce the costs |
+| Can use Elastic Beanstalk to deploy Docker constainers? | Yes |
+| EMR for proceesing images files? | Nop, log files |
+| Is CloudSearch a search application? | Yes |
+| T/F. When you want to automate deployment, the automatic choice is Cloudformation | True |
+| Autoscaling will rerspect the soft limit of 20 EC2 instances? | Yes |
+| What you use if you need low-latency access to your entire dataset | Storage gw stored volume |
+| Can Aws Config get a snapshot of the current configuration of the resources in your AWS Account  | Yes |
+| Are just X2 type reserved instances available for Multi-AZ? | No, all instances types |
+| With EMR you can use OnDemand or Reserved instance only | Nop, you can use Spot & Dedicated too |
+| Service to monitor all traffic flowing from the EC2 Instances | VPC Flow Logs |
+| T/F You can enable cross region snapshots for Redshift Cluster | True |
 
-
-
-
-
-
-
+The End
