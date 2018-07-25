@@ -44,6 +44,7 @@
 | Glacier use S3 or Glacier API ? | S3 |
 | Whats mean SSE-C, SSE-S3 & SSE-KMS ? | Custom, S3 & Aws KMS  |
 | DynamoDB replicated across regions or AZs? | AZs |
+| DynamoDB Partitions -calculate | rcu/wcu up/down/up/down |
 
 ### Practice Test 4 : February 2018 : 111 Questions
 [Udemy](https://www.udemy.com/aws-certified-solutions-architect-2018-practice-questions/learn/v4/t/quiz/4403428/results/97667158)
@@ -171,5 +172,23 @@
 | With EMR you can use OnDemand or Reserved instance only | Nop, you can use Spot & Dedicated too |
 | Service to monitor all traffic flowing from the EC2 Instances | VPC Flow Logs |
 | T/F You can enable cross region snapshots for Redshift Cluster | True |
+
+
+### Real Exam Doubts
+
+* RDS
+  - [IOPS specifications](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Storage.html)
+  - [DB Parameter Groups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithParamGroups.html)
+  - [Authentication and Access Control for Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAM.html)
+* ELB
+  - [WebSockets Appp Load Balancer](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/)
+  - [URL Redirect App Load Balancer](https://stackoverflow.com/questions/10547246/can-elb-redirect-request-depending-on-the-url)
+* S3
+  - [Amazon S3 Server Access Logging](https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerLogs.html)
+  - [POSIX-compliant S3 or EFS](https://docs.aws.amazon.com/efs/latest/ug/creating-using.html)
+* 443
+  - out/inbound Security Group versus NACL
+  - [Recommended Network ACL Rules for Your VPC](https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Appendix_NACLs.html)
+  - [I host a website on an EC2 instance. How do I allow my users to connect on HTTP (80) or HTTPS (443)?](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/)
 
 The End
